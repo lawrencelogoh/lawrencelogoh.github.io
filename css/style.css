@@ -2,9 +2,20 @@
     font-family: "Fira Code";
     src: url("../fc.woff") format("woff");
 }
+
 *{
-font-family: "Fira Code";
+    font-family: "Fira Code";
+    background-color: #282828;
+    color: #dcdcdc;
 }
+
+a:link{
+    color:#8aafe1;
+}
+a:visited{
+    color:#d38a8a;
+}
+
 ul{
     list-style: none;
 }
