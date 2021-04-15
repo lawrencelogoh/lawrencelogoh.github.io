@@ -3,6 +3,13 @@
     src: url("../fc.woff") format("woff");
 }
 
+@media (min-width: 1280px){
+    .about{
+	width: 50vw;
+
+    }
+}
+
 *{
     font-family: "Fira Code";
     background-color: #282828;
