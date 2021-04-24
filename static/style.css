@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Fira Code";
-    src: url("https://cdn.githubraw.com/lawrencelogoh/lawrencelogoh.github.io/master/static/fc.woff") format("woff");
+    src: url("fc.woff") format("woff");
 }
 
 @media (min-width: 1280px){
