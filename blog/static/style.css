@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Fira Code";
+    src: url("fc.woff") format("woff");
+}
+
+@media (min-width: 1280px){
+    .about{
+	width: 50vw;
+
+    }
+}
+
+*{
+    font-family: "Fira Code";
+    background-color: #282828;
+    color: #dcdcdc;
+}
+
+a:link{
+    color:#8aafe1;
+}
+a:visited{
+    color:#d38a8a;
+}
+
+ul{
+    list-style: none;
+}
