@@ -41,6 +41,9 @@ ul{
     list-style: none;
 }
 
+.blogindex{
+    text-align: center;
+}
 article{
     
     width: 60vw;
