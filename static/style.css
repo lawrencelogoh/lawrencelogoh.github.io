@@ -3,17 +3,12 @@
     src: url("fc.woff") format("woff");
 }
 
-@media (min-width: 1280px){
-    .about{
-	width: 50vw;
-
-    }
-}
 
 *{
     font-family: "Fira Code";
     background-color: #282828;
     color: #dcdcdc;
+    box-sizing: border-box;
 }
 
 a:link{
@@ -23,6 +18,34 @@ a:visited{
     color:#d38a8a;
 }
 
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.dimage{
+    width: 400px;
+}
+
+h1{
+    text-align: center;
+}
+aside{
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    padding: 10px;
+    
+}
 ul{
     list-style: none;
+}
+
+article{
+    
+    width: 60vw;
+    padding-bottom: 20px;
+    
+  
+    
 }
