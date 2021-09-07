@@ -1,0 +1,10 @@
+---
+subtitle: >
+  <a href="https://www.lawrencelogoh.xyz/">Home</a>
+  <a href="https://www.lawrencelogoh.xyz/blog/">Blog</a>
+  <a href="https://www.lawrencelogoh.xyz/about/">About Me</a>
+  <a href="https://www.lawrencelogoh.xyz/donate/">Donate</a>
+
+include-after: >
+  <footer>The content for this site is <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>. The <a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io">code for this site</a> is <a href="https://opensource.org/licenses/BSD-2-Clause">BSD-2-Clause</a>.</footer>
+---

@@ -1,0 +1,39 @@
+#!/bin/bash
+
+
+# convert all markdown files to html
+options=(--shift-heading-level-by=1 --highlight-style monochrome) 
+genhtml(){
+   for file in ./blog/posts/*.md; do
+       [ -e "$file" ] || continue
+       pandoc metadata.yaml "${options[@]}" -s "$file" -o blog/"$(basename "$file" .md)".html 
+   done
+}
+
+genblogindex(){
+    rm -f blog/index.html
+    title="    Lawrence Logoh's Blog"
+    include_after="include-after: '<a href=\"https://www.lawrencelogoh.xyz\"><- Back to home</a>'"
+    printf "%s\n" "---" "title: > " "$title" "$include_after"  "---" > blog/posts/index.md
+    for file in ./blog/*.html; do
+	[ -e "$file" ] || continue
+	title=$(pup -f "$file" title text{})
+	prefix="https://lawrencelogoh.xyz/blog/"
+	link="[$title]($prefix$(basename "$file" ))"
+	echo "$link" >> blog/posts/index.md 
+    done
+}
+
+
+genothers(){
+    pandoc metadata.yaml "${options[@]}" -s index.md -o index.html
+    pandoc metadata.yaml "${options[@]}" -s donate/index.md -o donate/index.html
+    pandoc metadata.yaml "${options[@]}" -s about/index.md -o about/index.html 
+    
+}
+
+genothers
+genblogindex
+genhtml
+
+# Generate rss feed
