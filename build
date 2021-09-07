@@ -18,7 +18,7 @@ genblogindex(){
     for file in ./blog/*.html; do
 	[ -e "$file" ] || continue
 	title=$(pup -f "$file" title text{})
-	prefix="https://lawrencelogoh.xyz/blog/"
+	prefix="https://www.lawrencelogoh.xyz/blog/"
 	link="[$title]($prefix$(basename "$file" ))"
 	echo "$link" >> blog/posts/index.md 
     done
