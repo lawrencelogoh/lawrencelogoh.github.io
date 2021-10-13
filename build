@@ -15,13 +15,23 @@ genblogindex(){
     title="    Lawrence Logoh's Blog"
     include_after="include-after: '<a href=\"https://www.lawrencelogoh.xyz\"><- Back to home</a>'"
     printf "%s\n" "---" "title: > " "$title" "$include_after"  "---" > blog/posts/index.md
+    items=()
     for file in ./blog/*.html; do
 	[ -e "$file" ] || continue
 	title=$(pup -f "$file" title text{})
+	
 	prefix="https://www.lawrencelogoh.xyz/blog/"
-	link="[$title]($prefix$(basename "$file" ))"
-	echo "$link" >> blog/posts/index.md 
+	link="- [$title]($prefix$(basename "$file" ))"
+	items=(${items[@]} $link)
     done
+    
+    items=($(sort -n <<<"${items[*]}"))
+    
+    for value in "${items[@]}"; do
+	echo "$value" >> blog/posts/index.md 
+    done
+    echo "${items[*]}"
+		 
 }
 
 
@@ -32,8 +42,16 @@ genothers(){
     
 }
 
-genothers
-genblogindex
+
+
+rm -f ./blog/*.html
 genhtml
+genblogindex
+genhtml # shouldn't be doing this twice
+genothers
+
+
+
+#genrss
 
 # Generate rss feed
