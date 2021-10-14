@@ -18,17 +18,18 @@ genblogindex(){
     items=()
     for file in ./blog/*.html; do
 	[ -e "$file" ] || continue
-	title=$(pup -f "$file" title text{})
 	
-	prefix="https://www.lawrencelogoh.xyz/blog/"
-	link="- [$title]($prefix$(basename "$file" ))"
+	link="$(basename "$file" )"
 	items=(${items[@]} $link)
     done
-    
-    items=($(sort -n <<<"${items[*]}"))
+    IFS=$'\n'
+    items=($(sort -nr <<< "${items[*]}"))
     
     for value in "${items[@]}"; do
-	echo "$value" >> blog/posts/index.md 
+	title=$(pup -f "./blog/$value" title text{})
+	date=$(pup -f "./blog/$value" "p.date" text{})
+	prefix="https://www.lawrencelogoh.xyz/blog/"
+	printf "[$title]($prefix$value) \n\n" >> blog/posts/index.md 
     done
     echo "${items[*]}"
 		 
