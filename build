@@ -1,12 +1,12 @@
 #!/bin/bash
-
+# a script to generate a website from markdown files
 
 # convert all markdown files to html
-options=(--shift-heading-level-by=1 --highlight-style monochrome) 
+options=(--template=static/template.html --shift-heading-level-by=1 --highlight-style monochrome) 
 genhtml(){
    for file in ./blog/posts/*.md; do
        [ -e "$file" ] || continue
-       pandoc metadata.yaml "${options[@]}" -s "$file" -o blog/"$(basename "$file" .md)".html 
+       pandoc static/metadata.yaml "${options[@]}" -s "$file" -o blog/"$(basename "$file" .md)".html 
    done
 }
 
@@ -31,17 +31,18 @@ genblogindex(){
 	prefix="https://www.lawrencelogoh.xyz/blog/"
 	printf "[$title]($prefix$value) \n\n" >> blog/posts/index.md 
     done
-    echo "${items[*]}"
 		 
 }
 
 
 genothers(){
-    pandoc metadata.yaml "${options[@]}" -s index.md -o index.html
-    pandoc metadata.yaml "${options[@]}" -s donate/index.md -o donate/index.html
-    pandoc metadata.yaml "${options[@]}" -s about/index.md -o about/index.html 
+    pandoc static/metadata.yaml "${options[@]}" -s index.md -o index.html
+    pandoc static/metadata.yaml "${options[@]}" -s donate/index.md -o donate/index.html
+    pandoc static/metadata.yaml "${options[@]}" -s about/index.md -o about/index.html 
     
 }
+
+#genrss
 
 
 
