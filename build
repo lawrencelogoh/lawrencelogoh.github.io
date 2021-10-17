@@ -67,7 +67,7 @@ genrss(){
 		<link>"$prefix""$value"</link>
 		<pubDate>"$date"</pubDate>
 		<guid>"$prefix""$value"</guid>
-		<description>"$article"</description>
+		<description><![CDATA["$article"]]></description>
 		</item>" 
 	echo "$post" >> rss.xml
     done
