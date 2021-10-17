@@ -6,32 +6,19 @@
   <generator></generator>
 
 <item>
-		<title>My setup</title>
+		<title>Hello</title>
 		<link>https://www.lawrencelogoh.xyz/blog/2021-10-18_hello.html</link>
 		<pubDate>2021-10-14</pubDate>
 		<guid>https://www.lawrencelogoh.xyz/blog/2021-10-18_hello.html</guid>
 		<description><![CDATA[<article>
- <h2 id="hello">
+ <h1 id="hello">
   Hello
- </h2>
- <div class="sourceCode" id="cb1">
-  <pre class="sourceCode python">
-   <code class="sourceCode python">
-    <span id="cb1-1">
-     <a href="#cb1-1" aria-hidden="true" tabindex="-1">
-     </a>
-     <span class="bu">
-      print
-     </span>
-     (
-     <span class="st">
-      &#34;Hello, World!&#34;
-     </span>
-     )
-    </span>
-   </code>
-  </pre>
- </div>
+ </h1>
+ <pre>
+  <code>
+   print(&#34;Hello, World!&#34;)
+  </code>
+ </pre>
 </article>]]></description>
 		</item>
 
