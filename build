@@ -61,7 +61,7 @@ genrss(){
 	title=$(pup -f "./blog/$value" title text{})
 	date=$(pup -f "./blog/$value" "p.date" text{})
 	prefix="https://www.lawrencelogoh.xyz/blog/"
-	article=$(pup -f "./blog/$value" article text{})
+	article=$(pup -f "./blog/$value" article)
 	post="<item>
 		<title>$title</title>
 		<link>"$prefix""$value"</link>

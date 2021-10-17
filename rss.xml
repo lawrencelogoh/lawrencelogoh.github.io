@@ -8,53 +8,89 @@
 <item>
 		<title>My setup</title>
 		<link>https://www.lawrencelogoh.xyz/blog/2021-10-14-my_setup.html</link>
-		<pubDate></pubDate>
+		<pubDate>2021-10-14</pubDate>
 		<guid>https://www.lawrencelogoh.xyz/blog/2021-10-14-my_setup.html</guid>
-		<description>
-      
-Hello
-
-      
-print
-(
-&#34;Hello, World!&#34;
-)
-
-    </description>
+		<description><article>
+ <h2 id="hello">
+  Hello
+ </h2>
+ <div class="sourceCode" id="cb1">
+  <pre class="sourceCode python">
+   <code class="sourceCode python">
+    <span id="cb1-1">
+     <a href="#cb1-1" aria-hidden="true" tabindex="-1">
+     </a>
+     <span class="bu">
+      print
+     </span>
+     (
+     <span class="st">
+      &#34;Hello, World!&#34;
+     </span>
+     )
+    </span>
+   </code>
+  </pre>
+ </div>
+</article></description>
 		</item>
 <item>
 		<title>Hello World</title>
 		<link>https://www.lawrencelogoh.xyz/blog/2021-08-27-hello.html</link>
-		<pubDate></pubDate>
+		<pubDate>2021-08-07</pubDate>
 		<guid>https://www.lawrencelogoh.xyz/blog/2021-08-27-hello.html</guid>
-		<description>
-      
-Hello
-
-      
-print
-(
-&#34;Hello, World!&#34;
-)
-
-    </description>
+		<description><article>
+ <h2 id="hello">
+  Hello
+ </h2>
+ <div class="sourceCode" id="cb1">
+  <pre class="sourceCode python">
+   <code class="sourceCode python">
+    <span id="cb1-1">
+     <a href="#cb1-1" aria-hidden="true" tabindex="-1">
+     </a>
+     <span class="bu">
+      print
+     </span>
+     (
+     <span class="st">
+      &#34;Hello, World!&#34;
+     </span>
+     )
+    </span>
+   </code>
+  </pre>
+ </div>
+</article></description>
 		</item>
 <item>
 		<title>My Computing Setup</title>
 		<link>https://www.lawrencelogoh.xyz/blog/2021-06-06-my_computing_env.html</link>
-		<pubDate></pubDate>
+		<pubDate>2021-06-06</pubDate>
 		<guid>https://www.lawrencelogoh.xyz/blog/2021-06-06-my_computing_env.html</guid>
-		<description>
-      
-Hello
-
-      
-print
-(
-&#34;Hello, World!&#34;
-)
-
-    </description>
+		<description><article>
+ <h2 id="hello">
+  Hello
+ </h2>
+ <div class="sourceCode" id="cb1">
+  <pre class="sourceCode python">
+   <code class="sourceCode python">
+    <span id="cb1-1">
+     <a href="#cb1-1" aria-hidden="true" tabindex="-1">
+     </a>
+     <span class="bu">
+      print
+     </span>
+     (
+     <span class="st">
+      &#34;Hello, World!&#34;
+     </span>
+     )
+    </span>
+   </code>
+  </pre>
+ </div>
+</article></description>
 		</item>
 
 </channel>
