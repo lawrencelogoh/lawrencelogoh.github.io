@@ -2,6 +2,18 @@
 # a script to generate a website from markdown files
 
 # convert all markdown files to html
+rss_include_before='<rss version="2.0">
+<channel>		 
+  <title>Lawrence Logoh'\''s blog</title>
+  <link>https://www.lawrencelogoh.xyz</link>
+  <description>Blog posts on Lawrence Logoh'\''s blog</description>
+  <generator></generator>
+
+'
+rss_include_after='
+</channel>
+</rss>
+'
 options=(--template=static/template.html --shift-heading-level-by=1 --highlight-style monochrome) 
 genhtml(){
    for file in ./blog/posts/*.md; do
@@ -42,8 +54,25 @@ genothers(){
     
 }
 
-#genrss
-
+genrss(){
+    rm -f rss.xml
+    printf "$rss_include_before" >> rss.xml
+    for value in "${items[@]}"; do
+	title=$(pup -f "./blog/$value" title text{})
+	date=$(pup -f "./blog/$value" "p.date" text{})
+	prefix="https://www.lawrencelogoh.xyz/blog/"
+	article=$(pup -f "./blog/$value" article text{})
+	post="<item>
+		<title>$title</title>
+		<link>"$prefix""$value"</link>
+		<pubDate>"$date"</pubDate>
+		<guid>"$prefix""$value"</guid>
+		<description>"$article"</description>
+		</item>" 
+	echo "$post" >> rss.xml
+    done
+    printf "$rss_include_after" >> rss.xml
+}
 
 
 rm -f ./blog/*.html
@@ -51,9 +80,6 @@ genhtml
 genblogindex
 genhtml # shouldn't be doing this twice
 genothers
+genrss
 
 
-
-#genrss
-
-# Generate rss feed

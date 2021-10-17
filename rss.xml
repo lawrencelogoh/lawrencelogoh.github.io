@@ -1,0 +1,61 @@
+<rss version="2.0">
+<channel>		 
+  <title>Lawrence Logoh's blog</title>
+  <link>https://www.lawrencelogoh.xyz</link>
+  <description>Blog posts on Lawrence Logoh's blog</description>
+  <generator></generator>
+
+<item>
+		<title>My setup</title>
+		<link>https://www.lawrencelogoh.xyz/blog/2021-10-14-my_setup.html</link>
+		<pubDate></pubDate>
+		<guid>https://www.lawrencelogoh.xyz/blog/2021-10-14-my_setup.html</guid>
+		<description>
+      
+Hello
+
+      
+print
+(
+&#34;Hello, World!&#34;
+)
+
+    </description>
+		</item>
+<item>
+		<title>Hello World</title>
+		<link>https://www.lawrencelogoh.xyz/blog/2021-08-27-hello.html</link>
+		<pubDate></pubDate>
+		<guid>https://www.lawrencelogoh.xyz/blog/2021-08-27-hello.html</guid>
+		<description>
+      
+Hello
+
+      
+print
+(
+&#34;Hello, World!&#34;
+)
+
+    </description>
+		</item>
+<item>
+		<title>My Computing Setup</title>
+		<link>https://www.lawrencelogoh.xyz/blog/2021-06-06-my_computing_env.html</link>
+		<pubDate></pubDate>
+		<guid>https://www.lawrencelogoh.xyz/blog/2021-06-06-my_computing_env.html</guid>
+		<description>
+      
+Hello
+
+      
+print
+(
+&#34;Hello, World!&#34;
+)
+
+    </description>
+		</item>
+
+</channel>
+</rss>
