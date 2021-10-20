@@ -6,19 +6,45 @@
   <generator></generator>
 
 <item>
-		<title>Hello</title>
-		<link>https://www.lawrencelogoh.xyz/blog/2021-10-18_hello.html</link>
-		<pubDate>2021-10-14</pubDate>
-		<guid>https://www.lawrencelogoh.xyz/blog/2021-10-18_hello.html</guid>
+		<title>Hello, World!</title>
+		<link>https://www.lawrencelogoh.xyz/blog/2021-10-21-hello-world.html</link>
+		<pubDate></pubDate>
+		<guid>https://www.lawrencelogoh.xyz/blog/2021-10-21-hello-world.html</guid>
 		<description><![CDATA[<article>
- <h1 id="hello">
-  Hello
- </h1>
- <pre>
-  <code>
-   print(&#34;Hello, World!&#34;)
-  </code>
- </pre>
+ <p>
+  Hello, World!
+ </p>
+ <p>
+  I took too long to build this site but I’m finally “done”
+  <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref">
+   <sup>
+    1
+   </sup>
+  </a>
+  . I’m sure writing articles will be harder than building this but they won’t be as slow.
+ </p>
+ <p>
+  I have a lot of interests and this blog will reflect that. The constant one will be technology and there will be other things related and unrelated.
+ </p>
+ <p>
+  If you ever want to complain or tell me why I’m wrong on anything, email me at
+  <a href="mailto:lawrence.logoh@gmail.com">
+   lawrence.logoh@gmail.com
+  </a>
+ </p>
+ <section class="footnotes" role="doc-endnotes">
+  <hr>
+  <ol>
+   <li id="fn1" role="doc-endnote">
+    <p>
+     Obviously there will be improvements, but it works.
+     <a href="#fnref1" class="footnote-back" role="doc-backlink">
+      ↩︎
+     </a>
+    </p>
+   </li>
+  </ol>
+ </section>
 </article>]]></description>
 		</item>
 

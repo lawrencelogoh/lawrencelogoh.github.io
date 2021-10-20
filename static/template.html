@@ -1,23 +1,23 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8"/>
+    <meta charset="UTF-8" />
     <title>$pagetitle$</title>
-    
+
     <!-- 
 	 For testing
-	 <link href="../static/style.css" rel="stylesheet"/>
+	 <link href="$devcssfile$" rel="stylesheet"/>
 	 For production
 	 <link href="$cssfile$" rel="stylesheet"/>
+	 cssfile is style.css by default
 	 -->
-	 <link href="../static/style.css" rel="stylesheet"/>
+    <link href="$cssfile$" rel="stylesheet" />
   </head>
   <body>
     $include-before$
-    <p class="date">$date$</p>
-    <article>
-      $body$
-    </article>
-     $include-after$
+    <h1 class="title">$title$</h1>
+    <p class="subtitle">$date$</p>
+    <article>$body$</article>
+    $include-after$
   </body>
 </html>

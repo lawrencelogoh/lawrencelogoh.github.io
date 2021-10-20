@@ -1,7 +1,9 @@
 ---
 cssfile: >-
   https://www.lawrencelogoh.xyz/static/style.css
-  
+devcssfile: >-
+  /home/larry/repos/lawrencelogoh.github.io/static/style.css
+
 include-before: >-
   <a href="https://www.lawrencelogoh.xyz/">Home</a>
   <a href="https://www.lawrencelogoh.xyz/blog/">Blog</a>
@@ -9,5 +11,7 @@ include-before: >-
   <a href="https://www.lawrencelogoh.xyz/donate/">Donate</a>
 
 include-after: >-
+  <br />
   <footer>The content for this site is <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>. The <a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io">code for this site</a> is <a href="https://opensource.org/licenses/BSD-2-Clause">BSD-2-Clause</a>.</footer>
 ---
+
