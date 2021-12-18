@@ -1,7 +1,7 @@
 ---
 cssfile: >-
   https://www.lawrencelogoh.xyz/static/style.css
-devcssfile: >-
+divisible: >-
   /home/larry/repos/lawrencelogoh.github.io/static/style.css
 
 include-before: >-
