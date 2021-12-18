@@ -45,9 +45,12 @@ A friend had referred him to me because he had some bugs in a programming projec
 Before he told me his problems he asked a series of questions just so he could know if I could help him.
 Like what my "stack" was and what programming languages I knew among other things.
 I forget what exactly he asked and what I answered with but it made him ask an interesting question.
-"Don't you want to become a professional developer?"
-It was interesting because I had never thought about that but I immediately knew what the answer was.
-"No".
+
+> "Don't you want to become a professional developer?"
+
+It was interesting because I had never thought about being a developer like that but I immediately knew what the answer was.
+
+>"No"
 
 This didn't mean I didn't want to be a good developer or programmer.
 I had just never really thought of myself that way.
