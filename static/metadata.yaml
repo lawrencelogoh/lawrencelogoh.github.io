@@ -9,6 +9,7 @@ include-before: >-
   <a href="https://www.lawrencelogoh.xyz/blog/">Blog</a>
   <a href="https://www.lawrencelogoh.xyz/about/">About Me</a>
   <a href="https://www.lawrencelogoh.xyz/donate/">Donate</a>
+  <a href="https://www.lawrencelogoh.xyz/rss.xml">RSS</a>
 
 include-after: >-
   <br />
