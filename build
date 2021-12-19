@@ -62,15 +62,15 @@ genrss(){
 	date=$(pup -f "./blog/$value" "p.date" text{})
 	date=$(date -d "$date" +"%a, %d %b %Y %T %Z")
 	prefix="https://www.lawrencelogoh.xyz/blog/"
-	article=$(pup -f "./blog/$value" article)
+	article=$(pup -i 0 -f "./blog/$value" article)
 	post="<item>
 		<title>$title</title>
 		<link>"$prefix""$value"</link>
 		<pubDate>"$date"</pubDate>
 		<guid>"$prefix""$value"</guid>
-		<description><![CDATA["$article"]]></description>
+		<description><![CDATA["${article//$'\n'/}"]]></description>
 		</item>" 
-	echo "$post" >> rss.xml
+	printf "$post" >> rss.xml
     done
     printf "$rss_include_after" >> rss.xml
 }
