@@ -15,7 +15,7 @@ I have other interests besides programming, hopefully when you read this, the we
 Right now I am primarily a web developer. I'm comfortable doing "full stack" work but prefer backend work.
 I'm not currently employed but I am open to it.
 
-[My Resume](https://www.lawrencelogoh.com/static/resume.pdf)
+[My Resume](https://www.lawrencelogoh.xyz/static/resume.pdf)
 
 # Tools[WIP]
 ## Computer
@@ -24,5 +24,6 @@ I'm not currently employed but I am open to it.
 
 # Contact Me
 Email [lawrence.logoh@gmail.com](mailto:lawrence.logoh@gmail.com)
-Twitter [@lawrencelogoh](https://twitter.com/lawrencelogoh)
+
+Twitter [lawrencelogoh](https://twitter.com/lawrencelogoh)
 
