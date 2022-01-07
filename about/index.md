@@ -8,7 +8,7 @@ After getting my first computer, I took more of an interest in technology.
 I started programming around when I was 12 as a hobby. 
 
 Now I program a little more seriously, I don't read as much as I should and I daydream less.
-I have other interests besides programming, hopefully when you read this, the website reflects that.
+I have other interests besides programming and hopefully when you read this, the website reflects that.
 
 # Work
 

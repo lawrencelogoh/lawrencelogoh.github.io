@@ -54,7 +54,7 @@ It was interesting because I had never thought about being a developer like that
 
 This didn't mean I didn't want to be a good developer or programmer.
 I had just never really thought of myself that way.
-As a developer or programmer.
+As _only_ a developer or programmer.
 I wanted to do cool stuff, and programming was just one of those things.
 
 I felt like I had some idea about how to "become myself" now.
