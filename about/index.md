@@ -1,29 +1,34 @@
 ---
-title: 'About Me'
+title: 'About'
 ---
 
-# Profile
-I was born and raised in Accra, Ghana. Most of my time as a child was spent reading and daydreaming.
-After getting my first computer, I took more of an interest in technology. 
-I started programming around when I was 12 as a hobby. 
+# Me
 
-Now I program a little more seriously, I don't read as much as I should and I daydream less.
-I have other interests besides programming and hopefully when you read this, the website reflects that.
+I am a generalist.
+Programming is one of my primary skills and I imagine it will stay that way for a long time.
+I plan to develop other skills, but right now I'm mainly focused on programming.
+
+
 
 # Work
 
-Right now I am primarily a web developer. I'm comfortable doing "full stack" work but prefer backend work.
+I am primarily a web developer. I'm comfortable doing "full stack" work but prefer backend work.
 I'm not currently employed but I am open to it.
 
 [My Resume](https://www.lawrencelogoh.xyz/static/resume.pdf)
 
-# Tools[WIP]
-## Computer
+# Tools
 ### Hardware
+	I don't have any special hardware right now.
+	My computers are two HP laptops with 5th Gen i5 CPUs.
+ 
 ### Software
+	On my first laptop I run Void Linux with dwm.
+	For programming and text editing I generally use emacs although I can use vim as well.
+	I tend to lean towards using bash scripts and cli applications.
+	[My configuration files](https://github.com/lawrencelogoh/dotfiles).
 
 # Contact Me
 Email [lawrence.logoh@gmail.com](mailto:lawrence.logoh@gmail.com)
-
 Twitter [lawrencelogoh](https://twitter.com/lawrencelogoh)
 

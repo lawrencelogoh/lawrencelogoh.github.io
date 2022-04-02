@@ -49,7 +49,7 @@ genblogindex(){
 
 genothers(){
     pandoc static/metadata.yaml "${options[@]}" -s index.md -o index.html
-    pandoc static/metadata.yaml "${options[@]}" -s donate/index.md -o donate/index.html
+    pandoc static/metadata.yaml "${options[@]}" -s learning/index.md -o learning/index.html
     pandoc static/metadata.yaml "${options[@]}" -s about/index.md -o about/index.html 
     
 }
