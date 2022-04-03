@@ -6,11 +6,11 @@
   <generator></generator>
 
 <item>
-		<title>Building a static site generator</title>
+		<title>Building a static site generator[WIP]</title>
 		<link>https://www.lawrencelogoh.xyz/blog/2022-04-03-building-a-static-site-generator.html</link>
 		<pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
 		<guid>https://www.lawrencelogoh.xyz/blog/2022-04-03-building-a-static-site-generator.html</guid>
-		<description><![CDATA[<article><h1 id="why-not-just-use-x">Why not just use “x”?</h1><p>Most of the static site generators I’ve seen like Hugo and Jekyll seem too complicated for me.</p><p>I’m not saying I can’t use them, I just felt some friction and thought it would be cool to build my own.</p><h1 id="requirements">Requirements</h1><ul><li>Must have as little dependencies as possible.</li><li>Must work on UNIX/UNIX-like systems</li><li>Must generate and RSS file with all blog posts</li></ul></article>]]></description>
+		<description><![CDATA[<article><h1 id="what-im-currently-using">What I’m currently using</h1><p>A badly written bash script that depends on pup and pandoc. I don’t mind the pandoc dependency too much as I have it on all my systems anyway. But the script is really messy and I’d rather have something cleaner.</p><h1 id="why-not-just-use-x">Why not just use “x”?</h1><p>Most of the static site generators I’ve seen like Hugo and Jekyll seem too complicated for me. I’m not saying I can’t use them, I just felt some friction and thought it would be cool to build my own.</p><h1 id="requirements">Requirements</h1><ul><li>Must have as little dependencies as possible.</li><li>Must work on UNIX/UNIX-like systems</li><li>Must generate and RSS file with all blog posts</li><li>Must arrange blog posts by date</li></ul></article>]]></description>
 		</item>
 </channel>
 </rss>
