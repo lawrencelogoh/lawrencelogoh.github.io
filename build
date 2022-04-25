@@ -5,7 +5,7 @@
 rss_include_before='<rss version="2.0">
 <channel>		 
   <title>Lawrence Logoh'\''s blog</title>
-  <link>https://www.lawrencelogoh.xyz</link>
+  <link>https://www.lawrencelogoh.com</link>
   <description>Blog posts on Lawrence Logoh'\''s blog</description>
   <generator></generator>
 
@@ -25,7 +25,7 @@ genhtml(){
 genblogindex(){
     rm -f blog/index.html
     title="    Lawrence Logoh's Blog"
-    include_after="include-after: '<a href=\"https://www.lawrencelogoh.xyz\"><- Back to home</a>'"
+    include_after="include-after: '<a href=\"https://www.lawrencelogoh.com\"><- Back to home</a>'"
     printf "%s\n" "---" "title: > " "$title" "$include_after"  "---" > blog/posts/index.md
     items=()
     for file in ./blog/*.html; do
@@ -40,7 +40,7 @@ genblogindex(){
     for value in "${items[@]}"; do
 	title=$(pup -f "./blog/$value" title text{})
 	date=$(pup -f "./blog/$value" "p.date" text{})
-	prefix="https://www.lawrencelogoh.xyz/blog/"
+	prefix="https://www.lawrencelogoh.com/blog/"
 	printf "[$title]($prefix$value) \n\n" >> blog/posts/index.md 
     done
 		 
@@ -61,7 +61,7 @@ genrss(){
 	title=$(pup -f "./blog/$value" title text{})
 	date=$(pup -f "./blog/$value" "p.date" text{})
 	date=$(date -d "$date" +"%a, %d %b %Y %T %Z")
-	prefix="https://www.lawrencelogoh.xyz/blog/"
+	prefix="https://www.lawrencelogoh.com/blog/"
 	article=$(pup -i 0 -f "./blog/$value" article)
 	post="<item>
 		<title>$title</title>
