@@ -1,15 +1,15 @@
 ---
 cssfile: >-
-  https://www.lawrencelogoh.xyz/static/style.css
+  https://www.lawrencelogoh.com/static/style.css
 divisible: >-
   /home/larry/repos/lawrencelogoh.github.io/static/style.css
 
 include-before: >-
-  <a href="https://www.lawrencelogoh.xyz/">Home</a>
-  <a href="https://www.lawrencelogoh.xyz/blog/">Blog</a>
-  <a href="https://www.lawrencelogoh.xyz/about/">About Me</a>
-  <a href="https://www.lawrencelogoh.xyz/donate/">Donate</a>
-  <a href="https://www.lawrencelogoh.xyz/rss.xml">RSS</a>
+  <a href="https://www.lawrencelogoh.com/">Home</a>
+  <a href="https://www.lawrencelogoh.com/blog/">Blog</a>
+  <a href="https://www.lawrencelogoh.com/about/">About Me</a>
+  <a href="https://www.lawrencelogoh.com/donate/">Donate</a>
+  <a href="https://www.lawrencelogoh.com/rss.xml">RSS</a>
 
 include-after: >-
   <br />

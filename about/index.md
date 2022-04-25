@@ -15,7 +15,7 @@ I plan to develop other skills, but right now I'm mainly focused on programming.
 I am primarily a web developer. I'm comfortable doing "full stack" work but prefer backend work.
 I'm not currently employed but I am open to it.
 
-[My Resume](https://www.lawrencelogoh.xyz/static/resume.pdf)
+[My CV](https://www.lawrencelogoh.com/static/lawrence_logoh_cv.pdf)
 
 # Tools
 ### Hardware
