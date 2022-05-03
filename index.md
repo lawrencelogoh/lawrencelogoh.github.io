@@ -2,6 +2,8 @@
 title: 'Lawrence Logoh'
 ---
 # Projects
+## [Chef Companion](https://chefcompanion.net)
+A simple cooking assistant
 
 # Links
 Email [lawrence.logoh@gmail.com](mailto:lawrence.logoh@gmail.com)
