@@ -1,8 +1,6 @@
 ---
 cssfile: >-
   https://www.lawrencelogoh.com/static/style.css
-divisible: >-
-  /home/larry/repos/lawrencelogoh.github.io/static/style.css
 
 include-before: >-
   <a href="https://www.lawrencelogoh.com/">Home</a>

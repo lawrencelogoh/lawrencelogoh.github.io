@@ -1,86 +1,121 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # a script to generate a website from markdown files
 
-# convert all markdown files to html
-rss_include_before='<rss version="2.0">
-<channel>		 
-  <title>Lawrence Logoh'\''s blog</title>
-  <link>https://www.lawrencelogoh.com</link>
-  <description>Blog posts on Lawrence Logoh'\''s blog</description>
-  <generator></generator>
 
-'
-rss_include_after='
-</channel>
-</rss>
-'
+dirs=("." "blog" "about")
 options=(--template=static/template.html) 
-genhtml(){
-   for file in ./blog/posts/*.md; do
-       [ -e "$file" ] || continue
-       pandoc static/metadata.yaml "${options[@]}" -s "$file" -o blog/"$(basename "$file" .md)".html 
-   done
-}
+
+for dir in "${dirs[@]}"; do
+    for file in "$dir"/src/*.md; do
+	[ -e "$file" ] || continue
+	pandoc static/metadata.yaml "${options[@]}" -s "$file" -o "$dir"/"$(basename "$file" .md)".html 
+    done
+
+done
+
+# head -n 5 $file.md | yq-go 
+
+# rss_include_before='<rss version="2.0">
+# <channel>		 
+#   <title>Lawrence Logoh'\''s blog</title>
+#   <link>https://www.lawrencelogoh.com</link>
+#   <description>Blog posts on Lawrence Logoh'\''s blog</description>
+#   <generator></generator>
+
+# '
+# rss_include_after='
+# </channel>
+# </rss>
+# '
+# options=(--template=static/template.html) 
+# genhtml(){
+#    for file in ./blog/posts/*.md; do
+#        [ -e "$file" ] || continue
+#        pandoc static/metadata.yaml "${options[@]}" -s "$file" -o blog/"$(basename "$file" .md)".html 
+#    done
+# }
 
 genblogindex(){
     rm -f blog/index.html
     title="    Lawrence Logoh's Blog"
     include_after="include-after: '<a href=\"https://www.lawrencelogoh.com\"><- Back to home</a>'"
-    printf "%s\n" "---" "title: > " "$title" "$include_after"  "---" > blog/posts/index.md
-    items=()
-    for file in ./blog/*.html; do
+    printf "%s\n" "---" "title: > " "$title" "$include_after"  "---" > blog/src/index.md
+    declare -A posts
+    prefix="https://www.lawrencelogoh.com/blog/"
+    for file in blog/src/*.md; do
 	[ -e "$file" ] || continue
 	
-	link="$(basename "$file" )"
-	items=(${items[@]} $link)
+	title=$(head -n 4 "$file" | yq-go ".title")
+	date=$(head -n 4 "$file" | yq-go ".date")
+	filename="$(basename "$file" ".md")"
+	ext=".html"
+	link="[$title]($prefix$filename$ext)"
+	posts[$date]=$link
     done
+
+
     IFS=$'\n'
-    items=($(sort -nr <<< "${items[*]}"))
+    dates=($(sort -n <<< "${!posts[*]}"))
+#    echo "${#dates[@]}"
+    unset 'dates[0]'
+    unset IFS
     
-    for value in "${items[@]}"; do
-	title=$(pup -f "./blog/$value" title text{})
-	date=$(pup -f "./blog/$value" "p.date" text{})
-	prefix="https://www.lawrencelogoh.com/blog/"
-	printf "[$title]($prefix$value) \n\n" >> blog/posts/index.md 
+    links="${posts[@]}"
+    declare -A nposts
+    
+    for date in "${dates[@]}"; do
+	echo $date
+#	nposts[$date]= $posts[$date]
     done
+	
+#    echo "${!nposts[@]}"
+    echo "${nposts[@]}"
+
+#    echo "${posts[2022-04-03]}"
+
+    
+
+    # items=($(sort -nr <<< "${items[*]}"))
+    
+    # for value in "${items[@]}"; do
+	
+    # 	date=$(pup -f "./blog/$value" "p.date" text{})
+    # 	prefix="https://www.lawrencelogoh.com/blog/"
+    # 	printf "[$title]($prefix$value) \n\n" >> blog/posts/index.md 
+    # done
 		 
 }
 
 
-genothers(){
-    pandoc static/metadata.yaml "${options[@]}" -s index.md -o index.html
-    pandoc static/metadata.yaml "${options[@]}" -s learning/index.md -o learning/index.html
-    pandoc static/metadata.yaml "${options[@]}" -s about/index.md -o about/index.html 
-    
-}
 
-genrss(){
-    rm -f rss.xml
-    printf "$rss_include_before" >> rss.xml
-    for value in "${items[@]}"; do
-	title=$(pup -f "./blog/$value" title text{})
-	date=$(pup -f "./blog/$value" "p.date" text{})
-	date=$(date -d "$date" +"%a, %d %b %Y %T %Z")
-	prefix="https://www.lawrencelogoh.com/blog/"
-	article=$(pup -i 0 -f "./blog/$value" article)
-	post="<item>
-		<title>$title</title>
-		<link>"$prefix""$value"</link>
-		<pubDate>"$date"</pubDate>
-		<guid>"$prefix""$value"</guid>
-		<description><![CDATA["${article//$'\n'/}"]]></description>
-		</item>" 
-	printf "$post" >> rss.xml
-    done
-    printf "$rss_include_after" >> rss.xml
-}
+# genrss(){
+#     rm -f rss.xml
+#     printf "$rss_include_before" >> rss.xml
+#     for value in "${items[@]}"; do
+# 	title=$(pup -f "./blog/$value" title text{})
+# 	date=$(pup -f "./blog/$value" "p.date" text{})
+# 	date=$(date -d "$date" +"%a, %d %b %Y %T %Z")
+# 	prefix="https://www.lawrencelogoh.com/blog/"
+# 	article=$(pup -i 0 -f "./blog/$value" article)
+# 	post="<item>
+# 		<title>$title</title>
+# 		<link>"$prefix""$value"</link>
+# 		<pubDate>"$date"</pubDate>
+# 		<guid>"$prefix""$value"</guid>
+# 		<description><![CDATA["${article//$'\n'/}"]]></description>
+# 		</item>" 
+# 	printf "$post" >> rss.xml
+#     done
+#     printf "$rss_include_after" >> rss.xml
+# }
 
 
-rm -f ./blog/*.html
-genhtml
+# rm -f ./blog/*.html
+# genhtml
+# genblogindex
+# genhtml # shouldn't be doing this twice
+# genothers
+# genrss
+
+
 genblogindex
-genhtml # shouldn't be doing this twice
-genothers
-genrss
-
-

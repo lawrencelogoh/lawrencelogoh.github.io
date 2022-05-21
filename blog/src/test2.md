@@ -1,6 +1,6 @@
 ---
-title: Building a static site generator[WIP]
-date: 2022-04-03
+title: Blah blah blah
+date: 2022-05-03
 author: Lawrence Logoh
 ---
 
@@ -25,6 +25,5 @@ I'm not saying I can't use them, I just felt some friction and thought it would 
 
 My initial instinct was to use python, since I already used bash but I think I'll go with bash again.
 I'll try to limit the programs I use in it to what you'll find on a standard Linux/BSD install.
-
-# 
+ 
 
