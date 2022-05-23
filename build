@@ -51,25 +51,32 @@ genblogindex(){
 	ext=".html"
 	link="[$title]($prefix$filename$ext)"
 	posts[$date]=$link
+
+#	echo ${posts[$date]}
     done
 
+   
 
     IFS=$'\n'
     dates=($(sort -n <<< "${!posts[*]}"))
-#    echo "${#dates[@]}"
+
     unset 'dates[0]'
+
     unset IFS
     
-    links="${posts[@]}"
+    echo "${dates[@]}"    
+
+    links="${posts[*]}"
+    echo "$links"
+
     declare -A nposts
     
     for date in "${dates[@]}"; do
-	echo $date
-#	nposts[$date]= $posts[$date]
+	nposts[$date]=$date
     done
 	
-#    echo "${!nposts[@]}"
-    echo "${nposts[@]}"
+    echo "${!nposts[@]}"
+    # echo "${nposts[@]}"
 
 #    echo "${posts[2022-04-03]}"
 
