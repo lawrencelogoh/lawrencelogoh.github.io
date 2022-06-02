@@ -6,13 +6,14 @@ dirs=("." "blog" "about")
 options=(--template=static/template.html) 
 
 gensite(){
-for dir in "${dirs[@]}"; do
-    for file in "$dir"/src/*.md; do
-	[ -e "$file" ] || continue
-	pandoc static/metadata.yaml "${options[@]}" -s "$file" -o "$dir"/"$(basename "$file" .md)".html 
+    for dir in "${dirs[@]}"; do
+	rm "$dir"/*.html
+	for file in "$dir"/src/*.md; do
+	    [ -e "$file" ] || continue
+	    pandoc static/metadata.yaml "${options[@]}" -s "$file" -o "$dir"/"$(basename "$file" .md)".html 
+	done
+	
     done
-
-done
 }
 
 # head -n 5 $file.md | yq 

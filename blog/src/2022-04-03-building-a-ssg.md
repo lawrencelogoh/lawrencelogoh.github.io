@@ -5,7 +5,7 @@ author: Lawrence Logoh
 ---
 
 # What I'm currently using
-[A badly written bash script that depends on pup and pandoc](https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/master/build).
+[A badly written bash script that depends on pup and pandoc](https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/921d8d1012f73c6298b7d5412404b0f7b2a33ed/build).
 
 I don't mind the pandoc dependency too much as I have it on all my systems anyway.
 But the script is really messy and I'd rather have something cleaner.
@@ -26,4 +26,15 @@ I'm not saying I can't use them, I just felt some friction and thought it would 
 My initial instinct was to use python, since I already used bash but I think I'll go with bash again.
 I'll try to limit the programs I use in it to what you'll find on a standard Linux/BSD install.
  
+# Dependencies
+  Luckily, there are only two dependencies.
+  - yq
+  - pandoc
+  
+  Keep in mind this is for linux/BSD environments.
+  My main system is alpine linux so it's guaranteed to work on that.
+  
+# How it used to work
 
+
+# How it works now
