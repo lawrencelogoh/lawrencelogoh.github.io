@@ -46,8 +46,8 @@ genblogindex(){
 
 gensite(){
     for dir in "${dirs[@]}"; do
-	rm "$dir"/*.html
-	for file in "$dir"/src/!(index).md; do
+	rm -f "$dir"/*.html
+	for file in "$dir"/src/*.md; do
 	    [ -e "$file" ] || continue
 	    pandoc static/metadata.yaml "${options[@]}" -s "$file" -o "$dir"/"$(basename "$file" .md)".html 
 	done
