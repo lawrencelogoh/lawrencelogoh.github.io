@@ -1,42 +1,23 @@
 #!/usr/bin/env bash
 # a script to generate a website from markdown files
 
+shopt -s extglob
 
 dirs=("." "blog" "about")
 options=(--template=static/template.html) 
 
-gensite(){
-    for dir in "${dirs[@]}"; do
-	rm "$dir"/*.html
-	for file in "$dir"/src/*.md; do
-	    [ -e "$file" ] || continue
-	    pandoc static/metadata.yaml "${options[@]}" -s "$file" -o "$dir"/"$(basename "$file" .md)".html 
-	done
-	
-    done
-}
+rss_include_before='<rss version="2.0">
+<channel>		 
+  <title>Lawrence Logoh'\''s blog</title>
+  <link>https://www.lawrencelogoh.com</link>
+  <description>Blog posts on Lawrence Logoh'\''s blog</description>
+  <generator></generator>
 
-# head -n 5 $file.md | yq 
-
-# rss_include_before='<rss version="2.0">
-# <channel>		 
-#   <title>Lawrence Logoh'\''s blog</title>
-#   <link>https://www.lawrencelogoh.com</link>
-#   <description>Blog posts on Lawrence Logoh'\''s blog</description>
-#   <generator></generator>
-
-# '
-# rss_include_after='
-# </channel>
-# </rss>
-# '
-# options=(--template=static/template.html) 
-# genhtml(){
-#    for file in ./blog/posts/*.md; do
-#        [ -e "$file" ] || continue
-#        pandoc static/metadata.yaml "${options[@]}" -s "$file" -o blog/"$(basename "$file" .md)".html 
-#    done
-# }
+'
+rss_include_after='
+</channel>
+</rss>
+'
 
 genblogindex(){
     rm -f blog/index.html
@@ -45,77 +26,63 @@ genblogindex(){
     printf "%s\n" "---" "title: > " "$title" "$include_after"  "---" > blog/src/index.md
     posts=()
     prefix="https://www.lawrencelogoh.com/blog/"
-    for file in blog/src/*.md; do
+    for file in blog/src/!(index).md; do
 	[ -e "$file" ] || continue
-	
 	title=$(head -n 4 "$file" | yq ".title")
 	date=$(head -n 4 "$file" | yq ".date")
 	filename="$(basename "$file" ".md")"
 	ext=".html"
 	link="[$title]($prefix$filename$ext)"
-	posts[$date]=$link
-
-#	echo ${posts[$date]}
+	posts=("${posts[@]}" "$link")
+       
     done
-
-   
 
     IFS=$'\n'
     posts=($(sort -n <<< "${posts[*]}"))
-
     unset IFS
-  
     echo "$posts" >> blog/src/index.md
-
-  
-    # echo "${nposts[@]}"
-
-#    echo "${posts[2022-04-03]}"
-
-    
-
-    # items=($(sort -nr <<< "${items[*]}"))
-    
-    # for value in "${items[@]}"; do
-	
-    # 	date=$(pup -f "./blog/$value" "p.date" text{})
-    # 	prefix="https://www.lawrencelogoh.com/blog/"
-    # 	printf "[$title]($prefix$value) \n\n" >> blog/posts/index.md 
-    # done
 		 
 }
 
+gensite(){
+    for dir in "${dirs[@]}"; do
+	rm "$dir"/*.html
+	for file in "$dir"/src/!(index).md; do
+	    [ -e "$file" ] || continue
+	    pandoc static/metadata.yaml "${options[@]}" -s "$file" -o "$dir"/"$(basename "$file" .md)".html 
+	done
+	
+    done
+}
 
+genrss(){
+    rm -f rss.xml
+    prefix="https://www.lawrencelogoh.com/blog/"
+    
+    printf "$rss_include_before" >> rss.xml
+    for file in blog/src/!(index).md; do
+	[ -e "$file" ] || continue
 
-# genrss(){
-#     rm -f rss.xml
-#     printf "$rss_include_before" >> rss.xml
-#     for value in "${items[@]}"; do
-# 	title=$(pup -f "./blog/$value" title text{})
-# 	date=$(pup -f "./blog/$value" "p.date" text{})
-# 	date=$(date -d "$date" +"%a, %d %b %Y %T %Z")
-# 	prefix="https://www.lawrencelogoh.com/blog/"
-# 	article=$(pup -i 0 -f "./blog/$value" article)
-# 	post="<item>
-# 		<title>$title</title>
-# 		<link>"$prefix""$value"</link>
-# 		<pubDate>"$date"</pubDate>
-# 		<guid>"$prefix""$value"</guid>
-# 		<description><![CDATA["${article//$'\n'/}"]]></description>
-# 		</item>" 
-# 	printf "$post" >> rss.xml
-#     done
-#     printf "$rss_include_after" >> rss.xml
-# }
+	title=$(head -n 4 "$file" | yq ".title")
+	date=$(head -n 4 "$file" | yq ".date")
+	filename="$(basename "$file" ".md")"
+	ext=".html"
+	link="$prefix$filename$ext"
 
+	article=$(awk "/<article>/, /<\/article>/" blog/"$filename$ext")
 
-# rm -f ./blog/*.html
-# genhtml
-# genblogindex
-# genhtml # shouldn't be doing this twice
-# genothers
-# genrss
-
+	post="<item>
+		<title>"$title"</title>
+		<link>"$link"</link>
+		<pubDate>"$date"</pubDate>
+		<guid>"$link"</guid>
+		<description><![CDATA["${article//$'\n'/}"]]></description>
+		</item>" 
+	printf "$post" >> rss.xml
+    done
+    printf "$rss_include_after" >> rss.xml
+}
 
 genblogindex
 gensite
+genrss

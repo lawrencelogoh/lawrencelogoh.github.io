@@ -27,12 +27,11 @@ My initial instinct was to use python, since I already used bash but I think I'l
 I'll try to limit the programs I use in it to what you'll find on a standard Linux/BSD install.
  
 # Dependencies
-  Luckily, there are only two dependencies.
-  - yq
-  - pandoc
+Luckily, there are only two dependencies.
+yq and pandoc
   
-  Keep in mind this is for linux/BSD environments.
-  My main system is alpine linux so it's guaranteed to work on that.
+Keep in mind this is for linux/BSD environments.
+My main system is alpine linux so it's guaranteed to work on that.
   
 # How it used to work
 
