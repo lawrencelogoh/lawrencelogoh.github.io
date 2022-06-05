@@ -7,8 +7,7 @@ author: Lawrence Logoh
 # What I'm currently using
 [A badly written bash script that depends on pup and pandoc](https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/921d8d1012f73c6298b7d5412404b0f7b2a33ed/build).
 
-I don't mind the pandoc dependency too much as I have it on all my systems anyway.
-But the script is really messy and I'd rather have something cleaner.
+I don’t mind the pandoc dependency too much as I have it on all my systems anyway. But the script is messy and I’d rather have something cleaner.
 
 # Why not just use "x"?
 
@@ -16,22 +15,22 @@ Most of the static site generators I've seen like Hugo and Jekyll seem too compl
 I'm not saying I can't use them, I just felt some friction and thought it would be cool to build my own.
 
 # Requirements 
-- Must have as little dependencies as possible.
+- Must have as few dependencies as possible.
 - Must work on UNIX/UNIX-like systems
-- Must generate and RSS file with all blog posts
+- Must generate an RSS file with all blog posts
 - Must arrange blog posts by date
 
 # Language choice
 
-My initial instinct was to use python, since I already used bash but I think I'll go with bash again.
+My initial instinct was to use python since I already used bash but I think I'll go with bash again.
 I'll try to limit the programs I use in it to what you'll find on a standard Linux/BSD install.
  
 # Dependencies
 Luckily, there are only two dependencies.
 yq and pandoc
   
-Keep in mind this is for linux/BSD environments.
-My main system is alpine linux so it's guaranteed to work on that.
+Keep in mind this is for Linux/BSD environments.
+My main system is Alpine Linux so it's guaranteed to work on that.
   
 
 # How it used to work
@@ -65,7 +64,7 @@ This loops through the list of sorted html files first.
 Second, it gets the title, date and the article tag from each html file and creates a "post" for each html file. 
 
 ## The problem
-After defining the functions, this is how calling them looked like.
+After defining the functions, this is what calling them looked like.
 
 ```bash
 rm -f ./blog/*.html
@@ -79,7 +78,7 @@ genrss
 After deleting the html of all the blog posts I compile them again.
 Then I create the **index.md** file.
 I then have to compile it again because it didn't compile the latest version.
-Then it does the other pages and finally the rss file.
+Then it does the other pages and finally the RSS file.
 
 My main problem with this was calling **genhtml** twice.
 The **genothers** function also bothered me because I'd have to add another line for every section.
@@ -107,23 +106,20 @@ Second, it gets the title, date and filename, creates a markdown link and adds t
 _NOTE: I know it doesn't do anything with the date. I used it as a key in an associative array. I haven't figured out how to sort the keys yet, but when I do they'll be used and I won't have to have dates in the post filenames._
 
 ## gensite
-Before the definition of this function, there is a list of directories I want this to use that I define. If I want to add directory I can just add it there, or even add all directories programmatically instead.
+Before the definition of this function, there is a list of directories I want this to use that I define. If I want to add a directory I can just add it there, or even add all directories programmatically instead.
 
 
 For every directory in the list first deletes all the html files in it.
 Then it loops through the markdown files in the **src** directory and compiles them to html in the directory itself.
 
 ## genrss
-This does exactly what it used to do.
-The difference is instead of using pup to get data from the html files.
-It gets title and date from the markdown files with head and yq and it uses awk to get the html for the post.
+This does exactly what it used to do. The difference is instead of using pup to get data from the html files. It gets the title and date from the markdown files with head and yq and it uses awk to get the html for the post.
+
 
 
 # Conclusion
-I'm pretty happy with how it works now.
-The one problem I have is, I have to still name the files with the dates so they get sorted well.
-I can live with that right now, but I'll improve that in the future without using something like pup.
 
-Ideally I'd also like to reduce the dependencies to pandoc and common UNIX utilities.
-It could also be fun writing a small script to compile markdown to html.
-But this works for now.
+I’m happy with how it works now. The one problem I have is that I have to still name the files with the dates so they get sorted well. I can live with that right now, but I’ll improve that in the future without using something like pup.
+
+Ideally, I’d also like to reduce the dependencies to pandoc and common UNIX utilities. It could also be fun writing a small script to compile markdown to html. But this works for now.
+
