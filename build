@@ -9,7 +9,7 @@ options=(--template=static/template.html)
 rss_include_before='<rss version="2.0">
 <channel>		 
   <title>Lawrence Logoh'\''s blog</title>
-  <link>https://www.lawrencelogoh.com</link>
+  <link>https://lawrencelogoh.com</link>
   <description>Blog posts on Lawrence Logoh'\''s blog</description>
   <generator></generator>
 
@@ -22,10 +22,10 @@ rss_include_after='
 genblogindex(){
     rm -f blog/index.html
     title="    Lawrence Logoh's Blog"
-    include_after="include-after: '<a href=\"https://www.lawrencelogoh.com\"><- Back to home</a>'"
+    include_after="include-after: '<a href=\"https://lawrencelogoh.com\"><- Back to home</a>'"
     printf "%s\n" "---" "title: > " "$title" "$include_after"  "---" > blog/src/index.md
     posts=()
-    prefix="https://www.lawrencelogoh.com/blog/"
+    prefix="https://lawrencelogoh.com/blog/"
     for file in blog/src/!(index).md; do
 	[ -e "$file" ] || continue
 	title=$(head -n 4 "$file" | yq ".title")
@@ -34,7 +34,6 @@ genblogindex(){
 	ext=".html"
 	link="[$title]($prefix$filename$ext)"
 	posts=("${posts[@]}" "$link")
-       
     done
 
     IFS=$'\n'
@@ -57,7 +56,7 @@ gensite(){
 
 genrss(){
     rm -f rss.xml
-    prefix="https://www.lawrencelogoh.com/blog/"
+    prefix="https://lawrencelogoh.com/blog/"
     
     printf "$rss_include_before" >> rss.xml
     for file in blog/src/!(index).md; do
