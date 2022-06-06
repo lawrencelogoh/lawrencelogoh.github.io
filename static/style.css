@@ -37,3 +37,8 @@ a:visited {
   margin: 0;
   color: #737373;
 }
+
+iframe{
+    border: 0;
+    max-width: 36em;
+}
