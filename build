@@ -4,7 +4,7 @@
 shopt -s extglob
 
 dirs=("." "blog" "about")
-options=(--template=static/template.html) 
+options=(--from markdown-markdown_in_html_blocks+raw_html --template=static/template.html) 
 
 rss_include_before='<rss version="2.0">
 <channel>		 
@@ -14,10 +14,11 @@ rss_include_before='<rss version="2.0">
   <generator></generator>
 
 '
-rss_include_after='
+rss_include_after='m
 </channel>
 </rss>
 '
+webring=$(cat static/webring.html )
 
 genblogindex(){
     rm -f blog/index.html
@@ -40,6 +41,7 @@ genblogindex(){
     posts=($(sort -n <<< "${posts[*]}"))
     unset IFS
     echo "$posts" >> blog/src/index.md
+    echo "$webring" >> blog/src/index.md 
 		 
 }
 
@@ -82,6 +84,18 @@ genrss(){
     printf "$rss_include_after" >> rss.xml
 }
 
+
+genwebring(){
+    openring \
+    -s https://ariadnavigo.xyz/posts/index.xml \
+    -s https://drewdevault.com/feed.xml \
+    -s https://protesilaos.com/master.xml \
+    -s https://geohot.github.io/blog/feed.xml \
+    < static/wr_template.html \
+    > static/webring.html 
+}
+
+genwebring
 genblogindex
 gensite
 genrss

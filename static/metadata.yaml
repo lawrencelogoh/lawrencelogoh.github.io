@@ -2,6 +2,9 @@
 cssfile: >-
   https://www.lawrencelogoh.com/static/style.css
 
+devcssfile: >-
+  ../static/style.css
+
 include-before: >-
   <a href="https://www.lawrencelogoh.com/">Home</a>
   <a href="https://www.lawrencelogoh.com/blog/">Blog</a>
