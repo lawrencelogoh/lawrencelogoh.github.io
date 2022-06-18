@@ -3,7 +3,7 @@ title: >
     Lawrence Logoh's Blog
 include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 ---
-[Building a static site generator](https://lawrencelogoh.com/blog/2022-05-05-building-a-ssg.html)
+["Building a static site generator"](https://lawrencelogoh.com/blog/2022-05-05-building-a-ssg.html)
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
@@ -11,41 +11,42 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://protesilaos.com/commentary/2022-06-04-suggestions-focus/" target="_blank" rel="noopener">Re: suggestions to stay focused?</a>
+        <a href="https://drewdevault.com/2022/06/15/Status-update-June-2022.html" target="_blank" rel="noopener">Status update, June 2022</a>
       </h4>
-      <p class="summary">My answer to the question of staying focused involves a change in lifestyle in favour of moderation.</p>
-      <small class="source">
-        via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
-      </small>
-      <small class="date">June 4, 2022</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://drewdevault.com/2022/05/30/bleh.html" target="_blank" rel="noopener">bleh</a>
-      </h4>
-      <p class="summary">A few weeks ago, the maintainer of a project on SourceHut stepped down from
-their work, citing harassment over using SourceHut as their platform of choice.
-It was a difficult day when I heard about that.
-Over the past few weeks, I have been enduring a bit of…</p>
+      <p class="summary">Hello again! I would like to open this post by acknowledging the response to my
+earlier post, “bleh”. Since it was published, I have received several hundred
+emails expressing support and kindness. I initially tried to provide these with
+thoughtful replies, …</p>
       <small class="source">
         via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
       </small>
-      <small class="date">May 30, 2022</small>
+      <small class="date">June 15, 2022</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://ariadnavigo.xyz/posts/fear/" target="_blank" rel="noopener">Fear</a>
+        <a href="https://ariadnavigo.xyz/posts/we-need-more-linus/" target="_blank" rel="noopener">We Need More Linus</a>
       </h4>
-      <p class="summary">Spring. The long, dark winter is gone for good. Time for some lighter clothes,
-enjoy the sun and good temperatures… and suddenly I become a target for those
-guys who want you-know-what with me… and dare to approach me. It’s slowly
-becoming a nuisance and I k…</p>
+      <p class="summary">In the tech world we need more people like Linus… Torvalds? Well, that’d be
+great too, but I’m not thinking of him this time. I want more people like Linus
+Sebastian. Who?
+The Linus Tech Tips guy.
+I wasn’t a fan of his until recently (and I still don’t care a…</p>
       <small class="source">
         via <a href="https://ariadnavigo.xyz/posts/">Posts on Ariadna Vigo</a>
       </small>
-      <small class="date">May 16, 2022</small>
+      <small class="date">June 9, 2022</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
+        <a href="https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html" target="_blank" rel="noopener">Vampire Attack Twitter</a>
+      </h4>
+      <p class="summary">Here’s a simple way to take over Twitter for way less than $43 billion dollars.</p>
+      <small class="source">
+        via <a href="https://geohot.github.io//blog/">the singularity is nearer</a>
+      </small>
+      <small class="date">April 16, 2022</small>
     </div>
     
   </section>
