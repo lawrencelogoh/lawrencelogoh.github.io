@@ -1,0 +1,42 @@
+---
+title: Building a static site generator
+date: 2022-06-24
+author: Lawrence Logoh
+---
+
+
+What I was using is [a badly written bash script that depends on pup and pandoc](https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/921d8d1012f73c6298b7d5412404b0f7b2a33ed/build).
+I don’t mind the pandoc dependency too much as I have it on all my systems anyway. 
+But the script is messy and I’d rather have something cleaner.
+
+"Why not just use x?"
+
+Most of the static site generators I've seen like Hugo and Jekyll seem too complicated for me.
+I'm not saying I can't use them, I just felt some friction and thought it would be cool to build my own.
+
+My requirements for the current script were:
+
+- Must have as few dependencies as possible.
+- Must work on UNIX/UNIX-like systems
+- Must generate an RSS file with all blog posts
+- Must arrange blog posts by date
+
+I didn't put too much thought into how the old script worked.
+I started by writing a function that compiles the markdown files of my blog posts.
+Everything else came after that.
+When I hit a roadblock, I look for a program that can help me.
+At the end, I had a hacky script that worked but I wasn't proud of.
+I also started to run into problems if I wanted to add new functionality or change something.
+
+[The current script](https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build) is not as bad.
+The way that it works is, it assumes every directory has an "src" subdirectory.
+It compiles every markdown file in it to html files that live in the directory.
+To get away with not creating an "index.html" I create an index.md instead and that gets compiled like every other md file.
+That's the core of how it works, if you want the details read the script.
+
+I'm happy with how it works right now but there's a minor annoyance I have with it.
+I can't arrange the blog posts by date except by putting the date in the file name.
+Yuck.
+I did try using an associative array to do it at first, but I found it difficult to sort the dates after with the sort program.
+If you have any suggestions email me or send a pull request :).
+
