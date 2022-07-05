@@ -15,23 +15,12 @@
     <link href="https://lawrencelogoh.com/static/style.css" rel="stylesheet" />
   </head>
   <body>
-    <a href="https://lawrencelogoh.com/">Home</a>
-    <a href="https://lawrencelogoh.com/blog/">Blog</a>
-    <a href="https://lawrencelogoh.com/about/">About Me</a>
-    <a href="https://lawrencelogoh.com/donate/">Donate</a>
-    <a href="https://lawrencelogoh.com/rss.xml">RSS</a>
+    <a href="https://lawrencelogoh.com/">Home</a> <a href="https://lawrencelogoh.com/blog/">Blog</a> <a href="https://lawrencelogoh.com/about/">About Me</a> <a href="https://lawrencelogoh.com/donate/">Donate</a> <a href="https://lawrencelogoh.com/rss.xml">RSS</a>
     <h1 class="title">Building a static site generator</h1>
     <p class="subtitle date">2022-06-24</p>
-    <article><p>What I was using is <a
-href="https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/921d8d1012f73c6298b7d5412404b0f7b2a33ed/build">a
-badly written bash script that depends on pup and pandoc</a>. I don’t
-mind the pandoc dependency too much as I have it on all my systems
-anyway. But the script is messy and I’d rather have something
-cleaner.</p>
+    <article><p>What I was using is <a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/921d8d1012f73c6298b7d5412404b0f7b2a33ed/build">a badly written bash script that depends on pup and pandoc</a>. I don’t mind the pandoc dependency too much as I have it on all my systems anyway. But the script is messy and I’d rather have something cleaner.</p>
 <p>“Why not just use x?”</p>
-<p>Most of the static site generators I’ve seen like Hugo and Jekyll
-seem too complicated for me. I’m not saying I can’t use them, I just
-felt some friction and thought it would be cool to build my own.</p>
+<p>Most of the static site generators I’ve seen like Hugo and Jekyll seem too complicated for me. I’m not saying I can’t use them, I just felt some friction and thought it would be cool to build my own.</p>
 <p>My requirements for the current script were:</p>
 <ul>
 <li>Must have as few dependencies as possible.</li>
@@ -39,32 +28,11 @@ felt some friction and thought it would be cool to build my own.</p>
 <li>Must generate an RSS file with all blog posts</li>
 <li>Must arrange blog posts by date</li>
 </ul>
-<p>I didn’t put too much thought into how the old script worked. I
-started by writing a function that compiles the markdown files of my
-blog posts. Everything else came after that. Whenever I hit a roadblock,
-I looked for a program that could help me. At the end, I had a hacky
-script that worked but I wasn’t proud of. I also started to run into
-problems if I wanted to add new functionality or change something.</p>
-<p><a
-href="https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build">The
-current script</a> is not as bad. The way that it works is, it assumes
-every directory has an “src” subdirectory. It compiles every markdown
-file in it to html files that live in the directory. To get away with
-not creating an “index.html” I create an index.md instead and that gets
-compiled like every other md file.That’s the core of how it works.</p>
+<p>I didn’t put too much thought into how the old script worked. I started by writing a function that compiles the markdown files of my blog posts. Everything else came after that. Whenever I hit a roadblock, I looked for a program that could help me. At the end, I had a hacky script that worked but I wasn’t proud of. I also started to run into problems if I wanted to add new functionality or change something.</p>
+<p><a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build">The current script</a> is not as bad. The way that it works is, it assumes every directory has an “src” subdirectory. It compiles every markdown file in it to html files that live in the directory. To get away with not creating an “index.html” I create an index.md instead and that gets compiled like every other md file.That’s the core of how it works.</p>
 <p>If you want the details, read the script.</p>
-<p>I’m happy with how it works right now but there’s a minor annoyance I
-have with it. I can’t arrange the blog posts by date except by putting
-the date in the file name. Yuck. I did try using an associative array to
-do it at first, but I found it difficult to sort the dates after with
-the sort program.</p>
-<p>If you have any suggestions email me or send a pull request
-:).</p></article>
-    <br /> <footer>The content for this site is
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC
-    BY-SA</a>. The
-    <a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io">code
-    for this site</a> is
-    <a href="https://opensource.org/licenses/BSD-2-Clause">BSD-2-Clause</a>.</footer>
+<p>I’m happy with how it works right now but there’s a minor annoyance I have with it. I can’t arrange the blog posts by date except by putting the date in the file name. Yuck. I did try using an associative array to do it at first, but I found it difficult to sort the dates after with the sort program.</p>
+<p>If you have any suggestions email me or send a pull request :).</p></article>
+    <br /> <footer>The content for this site is <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>. The <a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io">code for this site</a> is <a href="https://opensource.org/licenses/BSD-2-Clause">BSD-2-Clause</a>.</footer>
   </body>
 </html>
