@@ -14,7 +14,7 @@ rss_include_before='<rss version="2.0">
   <generator></generator>
 
 '
-rss_include_after='m
+rss_include_after='
 </channel>
 </rss>
 '
