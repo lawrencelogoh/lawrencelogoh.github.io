@@ -25,20 +25,24 @@ I didn't put too much thought into how the old script worked.
 I started by writing a function that compiles the markdown files of my blog posts.
 Everything else came after that.
 Whenever I hit a roadblock, I looked for a program that could help me.
-At the end, I had a hacky script that worked but I wasn't proud of.
-I also started to run into problems if I wanted to add new functionality or change something.
+In the end, I had a hacky script that worked but I wasn't proud of it.
+I also started to run into problems when I wanted to add new functionality or change something.
 
 [The current script](https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build) is not as bad.
-The way that it works is, it assumes every directory has an "src" subdirectory.
-It compiles every markdown file in it to html files that live in the directory.
-To get away with not creating an "index.html" I create an index.md instead and that gets compiled like every other md file.That's the core of how it works.
+The way that it works is, it assumes every directory(including the root directory) has an `src` subdirectory.
+It compiles every markdown file in the `src` subdirectories to HTML files that live in the directory itself.
+To get away with not creating an `index.html` I create an `index.md` instead and that gets compiled like every other markdown file.
 
+That's the core of how it works.
 If you want the details, read the script.
 
 I'm happy with how it works right now but there's a minor annoyance I have with it.
-I can't arrange the blog posts by date except by putting the date in the file name.
-Yuck.
-I did try using an associative array to do it at first, but I found it difficult to sort the dates after with the sort program.
+The blog posts are arranged according to their dates by putting the date in the file name.
+
+_Yuck_.
+
+I tried using an associative array to do it at first, but I found it difficult to sort the dates with the sort program.
+I'll figure it out eventually
 
 If you have any suggestions email me or send a pull request :).
 
