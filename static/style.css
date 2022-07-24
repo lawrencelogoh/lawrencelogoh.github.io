@@ -26,7 +26,14 @@ body {
 
 
 pre {
-  background-color: #eeeeee;
+    background-color: #eee;
+}
+
+code {
+    border: 1px solid #eee;
+    background-color: #eee;
+    padding: 3px;
+    border-radius: 3px;
 }
 
 a {
