@@ -1,8 +1,8 @@
 ---
 title: 'Lawrence Logoh'
 ---
-# Projects
-## [Chef Companion](https://chefcompanion.net)
+## Projects
+### [Chef Companion](https://chefcompanion.net)
 A simple cooking assistant
 
 ## Links
