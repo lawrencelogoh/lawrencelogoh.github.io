@@ -3,7 +3,7 @@
 
 shopt -s extglob
 
-dirs=("." "blog" "about")
+dirs=("." "blog" "about" "donate")
 options=(--from markdown-markdown_in_html_blocks+raw_html --template=static/template.html) 
 
 rss_include_before='<rss version="2.0">

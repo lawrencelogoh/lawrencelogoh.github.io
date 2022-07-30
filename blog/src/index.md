@@ -11,27 +11,27 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://protesilaos.com/interpretations/2022-07-05-xylina-spathia-on-the-rock/" target="_blank" rel="noopener">Interpretation of “At the rock” by Xylina Spathia</a>
+        <a href="https://protesilaos.com/commentary/2022-07-30-philosophy-shaving-beard/" target="_blank" rel="noopener">The philosophy of shaving off my long beard</a>
       </h4>
-      <p class="summary">Translation of a Greek song titled &#39;On the rock&#39; and comments on its meaning.</p>
+      <p class="summary">I use the loss of my beard as an example of non-ownership and the idea of a balanced, tranquil life.</p>
       <small class="source">
         via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
       </small>
-      <small class="date">July 5, 2022</small>
+      <small class="date">July 30, 2022</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://drewdevault.com/2022/07/01/Porting-DOOM-to-Helios.html" target="_blank" rel="noopener">Porting Doom to Helios</a>
+        <a href="https://drewdevault.com/2022/07/26/Conciseness.html" target="_blank" rel="noopener">Conciseness</a>
       </h4>
-      <p class="summary">Doom was an incredibly popular video game by Id software which, six years
-following its release, was made open source under the GPLv2 license. Thanks to
-this release, combined with the solid software design and lasting legacy of
-backwards compatibility in C,…</p>
+      <p class="summary">Conciseness is often considered a virtue among hackers and software engineers.
+FOSS maintainers in particular generally prefer to keep bug reports, questions
+on mailing lists, discussions in IRC channels, and so on, close to the point and
+with minimal faff. …</p>
       <small class="source">
         via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
       </small>
-      <small class="date">July 1, 2022</small>
+      <small class="date">July 26, 2022</small>
     </div>
     
     <div class="article">
