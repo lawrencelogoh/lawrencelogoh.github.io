@@ -5,10 +5,9 @@ title: 'About'
 
 # Me
 
-I am a generalist.
-
-Programming is one of my primary skills and I imagine it will stay that way for a long time.
-I plan to develop other skills, but right now I'm mainly focused on programming.
+I'm not sure what I can put here without sounding pretentious.
+I recommend reading my articles and the text below.
+Maybe that will give you a sense of who I am.
 
 
 
@@ -35,9 +34,9 @@ I tend to lean towards using bash scripts and cli applications in other cases.
 
 My second laptop generally has a "just werks" operating system on it.
 
-Sometimes it's Windows 10, sometimes it's Fedora Workstation or something else.
-If I want a similar setup to the first laptop when I'm out and about, I have void linux on a usb drive that is usually plugged in.
-
+Right now it's a dual boot of Void Linux and Windows.
+My Void Linux system works like my OpenBSD for the most part.
+I only have it because some software isn't available on OpenBSD yet.
 
 # Contact Me
 
