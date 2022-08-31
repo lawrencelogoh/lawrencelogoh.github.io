@@ -4,7 +4,9 @@ title: >
 include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 ---
 ["Building a static site generator"](https://lawrencelogoh.com/blog/2022-06-24-building-sgg.html)
+
 ["I failed my first live coding interview"](https://lawrencelogoh.com/blog/2022-08-31-failed-interview.html)
+
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>

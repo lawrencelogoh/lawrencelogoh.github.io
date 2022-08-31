@@ -35,7 +35,8 @@ genblogindex(){
 	filename="$(basename "$file" ".md")"
 	ext=".html"
 	link="[$title]($prefix$filename$ext)"
-	echo $link >> blog/src/index.md 
+	echo $link >> blog/src/index.md
+	echo "" >> blog/src/index.md 
     done
 
    echo "$webring" >> blog/src/index.md 
