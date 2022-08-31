@@ -17,8 +17,11 @@ And no, this wasn't a super hard coding question.
 It was an easier version of [day 2 of advent of code 2021](https://adventofcode.com/2021/day/2) which I had done before.
 But for whatever reason, I wasn't able to produce a solution to the problem before my time was up.
 I had many thoughts after getting the email.
+
 > "I should've done more leetcode"
+
 > "If only I didn't use python"
+
 > "I would've seen the solution if I didn't panic"
 
 Logically, I know it doesn't matter too much.
