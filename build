@@ -30,7 +30,7 @@ genblogindex(){
     for file in blog/src/!(index).md; do
  	[ -e "$file" ] || continue
 	
-	title=$(head -n 4 "$file" | yq ".title")
+	title=$(head -n 4 "$file" | yq -r ".title")
 	date=$(head -n 4 "$file" | yq ".date")
 	filename="$(basename "$file" ".md")"
 	ext=".html"
@@ -93,7 +93,7 @@ genwebring(){
     > static/webring.html 
 }
 
-#genwebring
+genwebring
 genblogindex
 gensite
 genrss
