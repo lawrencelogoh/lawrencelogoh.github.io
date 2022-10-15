@@ -12,22 +12,22 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
+        <a href="https://protesilaos.com/books/2022-10-14-show-demo-overthink/" target="_blank" rel="noopener">Showing off, demonstration, and overthinking (feat Chantara Waterfall)</a>
+      </h4>
+      <p class="summary">A work on philosophy by Protesilaos Stavrou about showing off, demonstration, and overthinking.</p>
+      <small class="source">
+        via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
+      </small>
+      <small class="date">October 14, 2022</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
         <a href="https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html" target="_blank" rel="noopener">A Hope</a>
       </h4>
       <p class="summary">So things have been pretty bad lately. The culture war is as far from won as ever. And I’m getting sued by a patent troll, which is a daily reminder of how completely broken our societial reward mechanisms are. Thinking of naming my next song</p>
       <small class="source">
         via <a href="https://geohot.github.io//blog/">the singularity is nearer</a>
-      </small>
-      <small class="date">October 13, 2022</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://protesilaos.com/books/2022-10-13-practicality-honesty-patience/" target="_blank" rel="noopener">Practicality, honesty, and patience</a>
-      </h4>
-      <p class="summary">A work on philosophy by Protesilaos Stavrou about practicality, honesty, and patience.</p>
-      <small class="source">
-        via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
       </small>
       <small class="date">October 13, 2022</small>
     </div>
