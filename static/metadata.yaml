@@ -6,11 +6,13 @@ devcssfile: >-
   ../static/style.css
 
 include-before: >-
+  <header>
   <a href="https://lawrencelogoh.com/">Home</a>
   <a href="https://lawrencelogoh.com/blog/">Blog</a>
   <a href="https://lawrencelogoh.com/about/">About Me</a>
   <a href="https://lawrencelogoh.com/donate/">Donate</a>
   <a href="https://lawrencelogoh.com/rss.xml">RSS</a>
+  </header>
 
 include-after: >-
   <br />

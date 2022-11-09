@@ -12,38 +12,38 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://protesilaos.com/books/2022-10-14-show-demo-overthink/" target="_blank" rel="noopener">Showing off, demonstration, and overthinking (feat Chantara Waterfall)</a>
+        <a href="https://protesilaos.com/news/2022-11-07-job-help-cv-story/" target="_blank" rel="noopener">Vlog: help for job &#43; story about my CV</a>
       </h4>
-      <p class="summary">A work on philosophy by Protesilaos Stavrou about showing off, demonstration, and overthinking.</p>
+      <p class="summary">A public plea to find employement together with an explanation of why I am in this situation.</p>
       <small class="source">
         via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
       </small>
-      <small class="date">October 14, 2022</small>
+      <small class="date">November 7, 2022</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html" target="_blank" rel="noopener">A Hope</a>
+        <a href="https://geohot.github.io//blog/jekyll/update/2022/10/29/the-heroes-journey.html" target="_blank" rel="noopener">The Hero’s Journey</a>
       </h4>
-      <p class="summary">So things have been pretty bad lately. The culture war is as far from won as ever. And I’m getting sued by a patent troll, which is a daily reminder of how completely broken our societial reward mechanisms are. Thinking of naming my next song</p>
+      <p class="summary">I’m taking some time away from comma. In some ways, I feel like it’s all planned out, it only remains to see if it works or not. I rewatched my first Lex Fridman and realized I hadn’t said much new on the self driving front for the past couple years. My t…</p>
       <small class="source">
         via <a href="https://geohot.github.io//blog/">the singularity is nearer</a>
       </small>
-      <small class="date">October 13, 2022</small>
+      <small class="date">October 29, 2022</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://drewdevault.com/2022/10/12/In-praise-of-ffmpeg.html" target="_blank" rel="noopener">In praise of ffmpeg</a>
+        <a href="https://drewdevault.com/2022/10/27/Kernel-hacking-with-Hare-part-3.html" target="_blank" rel="noopener">Notes from kernel hacking in Hare, part 3: serial driver</a>
       </h4>
-      <p class="summary">My last “In praise of” article covered qemu, a project founded by Fabrice
-Bellard, and today I want to take a look at another work by Bellard:
-ffmpeg. Bellard has a knack for building high-quality software which solves
-a problem so well that every other solu…</p>
+      <p class="summary">Today I would like to show you the implementation of the first userspace driver
+for Helios: a simple serial driver. All of the code we’re going to look at today
+runs in userspace, not in the kernel, so strictly speaking this should be “notes
+from OS hacking …</p>
       <small class="source">
         via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
       </small>
-      <small class="date">October 12, 2022</small>
+      <small class="date">October 27, 2022</small>
     </div>
     
   </section>
