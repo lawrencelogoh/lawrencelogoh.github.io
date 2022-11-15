@@ -10,9 +10,6 @@ Your very own cooking assistant
 ### [Homebase](https://github.com/lawrencelogoh/homebase)
 A hub for consuming online content
 
-### [Learn](https://github.com/lawrencelogoh/learn)
-A place where I document things I learn
-
 ## Links
 Email [lawrence.logoh@gmail.com](mailto:lawrence.logoh@gmail.com)
 
