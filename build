@@ -70,6 +70,9 @@ genrss(){
 
 	article=$(awk "/<article>/, /<\/article>/" blog/"$filename$ext")
 
+	article=$(tr '\n' ' ' <<< "$article")
+
+
 	post="<item>
 		<title>"$title"</title>
 		<link>"$link"</link>
@@ -77,7 +80,7 @@ genrss(){
 		<guid>"$link"</guid>
 		<description><![CDATA["${article//$'\n'/}"]]></description>
 		</item>" 
-	printf "$post" >> rss.xml
+	echo -e "$post" >> rss.xml
     done
     printf "$rss_include_after" >> rss.xml
 }
