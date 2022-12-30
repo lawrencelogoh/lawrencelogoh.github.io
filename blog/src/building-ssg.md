@@ -42,7 +42,9 @@ The blog posts are arranged according to their dates by putting the date in the 
 _Yuck_.
 
 I tried using an associative array to do it at first, but I found it difficult to sort the dates with the sort program.
-I'll figure it out eventually
+I'll figure it out eventually.
+
+_I have since implemented what I call "ghetto sorting". It's not pretty but it works_ 
 
 If you have any suggestions email me or send a pull request :).
 

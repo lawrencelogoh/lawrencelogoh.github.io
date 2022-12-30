@@ -1,0 +1,17 @@
+---
+title: 2022 Review
+date: 2022-12-29
+author: Lawrence Logoh
+---
+
+Overall, this was a good year.
+Unfortunately, I wasn't as productive as I had hoped to be.
+But, I learned a lot about myself and I made progress.
+I started learning Go and C, started some new projects, and even lost some weight.
+I also made some new friends along the way.
+
+While I'm happy with how the year went in general, I can't help but feel like I could have done more.
+One of the big things I tried to learn was to not take things too seriously.
+It would feel like the world was ending if I forgot about some homework, for example.
+I feel I may have taken a bit too far, but I think I'm ready to take a more balanced approach.
+I have a good feeling about next year.
