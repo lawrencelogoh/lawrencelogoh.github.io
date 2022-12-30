@@ -22,5 +22,5 @@ If you're curious, you can [get an image here](https://www.openbsd.org/faq/faq4.
 
 
 
-[^1]: This probably Twitch's fault.
+[^1]: This probably [Twitch's fault](https://help.twitch.tv/s/article/supported-browsers?language=en_US).
 
