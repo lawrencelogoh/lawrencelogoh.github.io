@@ -32,7 +32,7 @@ genblogindex(){
 	filename="$(basename "$file" ".md")"
 	ext=".html"
 	link="[$title]($prefix$filename$ext)"
-	echo "$date - $link" >> blog/src/index.md
+	echo "$date - $link  " >> blog/src/index.md
     done
     
     sorted_list=$(cat blog/src/index.md|sort)

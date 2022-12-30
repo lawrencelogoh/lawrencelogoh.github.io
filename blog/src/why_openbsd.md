@@ -4,7 +4,7 @@ date: 2022-12-28
 author: Lawrence Logoh
 ---
 
-*_TLDR_*
+**_TLDR_**
 
 _It just werks_
 

@@ -39,12 +39,11 @@ If you want the details, read the script.
 I'm happy with how it works right now but there's a minor annoyance I have with it.
 The blog posts are arranged according to their dates by putting the date in the file name.
 
-_Yuck_.
+_Yuck_.[^1]
 
 I tried using an associative array to do it at first, but I found it difficult to sort the dates with the sort program.
 I'll figure it out eventually.
 
-_I have since implemented what I call "ghetto sorting". It's not pretty but it works_ 
-
 If you have any suggestions email me or send a pull request :).
 
+[^1]: I have since implemented what I call "ghetto sorting". It's not pretty but it works
