@@ -18,6 +18,7 @@ But it works.
 Everything works the way I expect it to.
 
 So, I think I'll be sticking with this as my main system for a while.
+
 If you're curious, you can [get an image here](https://www.openbsd.org/faq/faq4.html#Download)
 
 

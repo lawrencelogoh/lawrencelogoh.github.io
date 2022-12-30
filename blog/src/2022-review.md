@@ -13,5 +13,6 @@ I also made some new friends along the way.
 While I'm happy with how the year went in general, I can't help but feel like I could have done more.
 One of the big things I tried to learn was to not take things too seriously.
 It would feel like the world was ending if I forgot about some homework, for example.
-I feel I may have taken a bit too far, but I think I'm ready to take a more balanced approach.
+I feel like I took it a bit too far, but I think I'm ready to try a more _balanced_ approach.
+
 I have a good feeling about next year.
