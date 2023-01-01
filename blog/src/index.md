@@ -7,6 +7,7 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2022-06-24 - [Building a static site generator](https://lawrencelogoh.com/blog/building-ssg.html)  
 2022-12-28 - [Why OpenBSD?](https://lawrencelogoh.com/blog/why_openbsd.html)  
 2022-12-29 - [2022 Review](https://lawrencelogoh.com/blog/2022-review.html)  
+2023-01-01 - [Plans for 2023](https://lawrencelogoh.com/blog/2023-plans.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
