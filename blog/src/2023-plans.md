@@ -5,7 +5,7 @@ author: Lawrence Logoh
 ---
 
 The basic idea behind this year is to play to my strengths and work on my weaknesses. Min-maxing essentially. 
-A lot of these things are not a checklist item that I can just list and tick off.
+A lot of these things are not checklist items that I can just list and tick off.
 They require step-by-step plans which I will make and follow.
 
 ## Productivity
@@ -19,16 +19,28 @@ I know some programming languages but I don't think I know any of them well enou
 So the plan is to become good at two of them at least. 
 Python and Go seem like the obvious choices so I'll go with them for now.
 While I do that, I also plan to at least check out Rust and Zig and see how I like them.
+When it comes to programming domains, I want to become a well-rounded backend developer and improve my frontend skills.
 Beyond that, I will be trying out other domains like mobile development and OS development(for fun).
+What this will generally look like is, building a lot of projects that are not necessarily useful to the general public. But if I can do that, I will.
 
 ## Money
-I've lived a very comfortable life.Because of that, I haven't had to really think about money until now.
+I've lived a very comfortable life.
+Because of that, I haven't had to think about money until now.
 I want to do a lot of cool stuff but money seems to be the thing that I lack to do them.
 So this year, I'm going to focus on making money.
-My humble goal for now is at least a steady income of $2000.
+My humble goal, for now, is at least an average income of $2000/month by the end of the year.
 I know I can make more than that, but I live in Ghana, and most employers don't pay that much.
 I'm going to try to make this by freelancing and building projects. I'll add a job if necessary. 
 
+## Other skills
+As you can already tell, my writing is shit. 
+I want to write a book next year about a concept I'm chewing on, so it has to be improved.
+Another big one is some type of artistic outlet that is not writing. The ones I'm most attracted to right now are drawing and the electric guitar. 
 
-There are other goals I have but I'm not sure if it's appropriate to share them publicly.
+This is a non-exhaustive list but these are the non-negotiables. They come first before everything else.
+
+Happy New Year.
+
+
+
 
