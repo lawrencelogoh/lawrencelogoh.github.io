@@ -100,7 +100,7 @@ genwebring(){
     > static/webring.html 
 }
 
-#genwebring
+genwebring
 genblogindex
 gensite
 genrss
