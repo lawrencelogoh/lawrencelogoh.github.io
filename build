@@ -96,6 +96,8 @@ genwebring(){
     -s https://drewdevault.com/feed.xml \
     -s https://protesilaos.com/master.xml \
     -s https://geohot.github.io/blog/feed.xml \
+    -s https://dataswamp.org/~solene/rss-html.xml \
+    -s https://100r.co/links/rss.xml \
     < static/wr_template.html \
     > static/webring.html 
 }

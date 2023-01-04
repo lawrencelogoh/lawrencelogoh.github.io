@@ -37,7 +37,6 @@ I want to do a lot of cool stuff but money seems to be the thing that I lack to 
 So this year, I'm going to focus on making money.
 My humble goal, for now, is at least an average income of $2000/month by the end of the year.
 I know I can make more than that, but I live in Ghana, and most employers don't pay that much.
-I'm going to try to make this by freelancing and building projects. I'll add a job if necessary. 
 
 ## Other skills
 As you can already tell, my writing is shit. 
