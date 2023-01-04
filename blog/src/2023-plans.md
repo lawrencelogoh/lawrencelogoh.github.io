@@ -13,6 +13,13 @@ I already have a system that I use to manage my life. It's just a folder of org 
 I plan to rethink and clearly define this system and some of the other systems that I use in conjunction with it.
 I think doing that will boost my productivity.
 
+## Relationships
+When it comes to relationships, I'm very passive.
+I generally don't call or text people until they call me and I don't check on people I care about.
+When I talk to people about how they do it, they say it just comes naturally to them.
+For whatever reason, that doesn't happen for me. But I want to do it, so I'm going to be more active and intentional about my relationships.
+This will involve not only calling and checking on people more, but also planning and scheduling activities to spend more time with the people I care about.
+
 ## Programming
 
 I know some programming languages but I don't think I know any of them well enough.
