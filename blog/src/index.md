@@ -9,9 +9,6 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2022-12-29 - [2022 Review](https://lawrencelogoh.com/blog/2022_review.html)  
 2023-01-01 - [Plans for 2023](https://lawrencelogoh.com/blog/2023_plans.html)  
 2023-02-01 - [Finding my Feet (January 2023 Review)](https://lawrencelogoh.com/blog/jan_2023_review.html)  
-null
-null - [You look lost
-null](https://lawrencelogoh.com/blog/404.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
