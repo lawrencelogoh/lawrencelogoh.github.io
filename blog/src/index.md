@@ -9,6 +9,9 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2022-12-29 - [2022 Review](https://lawrencelogoh.com/blog/2022_review.html)  
 2023-01-01 - [Plans for 2023](https://lawrencelogoh.com/blog/2023_plans.html)  
 2023-02-01 - [Finding my Feet (January 2023 Review)](https://lawrencelogoh.com/blog/jan_2023_review.html)  
+null
+null - [You look lost
+null](https://lawrencelogoh.com/blog/404.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
@@ -47,15 +50,18 @@ online regarding wh…</p>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://rachelbythebay.com/w/2023/01/29/bash/" target="_blank" rel="noopener">Determine durations with monotonic clocks if available</a>
+        <a href="https://dataswamp.org/~solene/2023-01-29-fossil-scm.html" target="_blank" rel="noopener">[Cheatsheet] Fossil version control software</a>
       </h4>
       <p class="summary">
-Sometimes, on a lazy weekend afternoon, I use apt-get to pull down the 
-source of something and start grepping it for things that are bound to 
-be interesting.  This is one of those afternoons, and I found something 
-silly.  While looking for uses of time_t …</p>
+    
+1. Introduction §
+Fossil is a DVCS (decentralized version control software), an alternative to programs such as darcs, mercurial or git.  It&#39;s developed by the same people doing sqlite and rely on sqlite internally.
+
+Fossil official website
+2. Why? §
+W…</p>
       <small class="source">
-        via <a href="https://rachelbythebay.com/w/">Writing - rachelbythebay</a>
+        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
       </small>
       <small class="date">January 29, 2023</small>
     </div>
