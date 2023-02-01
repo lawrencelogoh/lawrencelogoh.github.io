@@ -4,10 +4,11 @@ title: >
 include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 ---
 
-2022-06-24 - [Building a static site generator](https://lawrencelogoh.com/blog/building-ssg.html)  
+2022-06-24 - [Building a static site generator](https://lawrencelogoh.com/blog/building_ssg.html)  
 2022-12-28 - [Why OpenBSD?](https://lawrencelogoh.com/blog/why_openbsd.html)  
-2022-12-29 - [2022 Review](https://lawrencelogoh.com/blog/2022-review.html)  
-2023-01-01 - [Plans for 2023](https://lawrencelogoh.com/blog/2023-plans.html)  
+2022-12-29 - [2022 Review](https://lawrencelogoh.com/blog/2022_review.html)  
+2023-01-01 - [Plans for 2023](https://lawrencelogoh.com/blog/2023_plans.html)  
+2023-02-01 - [Finding my Feet (January 2023 Review)](https://lawrencelogoh.com/blog/jan_2023_review.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
@@ -15,50 +16,48 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://rachelbythebay.com/w/2023/01/03/ssl/" target="_blank" rel="noopener">Why I still have an old-school cert on my https site</a>
+        <a href="https://100r.co/site/log.html#jan2023" target="_blank" rel="noopener">Summary of changes for January 2023</a>
       </h4>
       <p class="summary">
-People sometimes ask me why I don&#39;t use Let&#39;s Encrypt, and it&#39;s a long 
-story.  It has a lot to do with just how damn evil the protocol is.  It 
-looks like it was created by people who had been drinking FAR too much 
-of the web kool-aid, since it…</p>
-      <small class="source">
-        via <a href="https://rachelbythebay.com/w/">Writing - rachelbythebay</a>
-      </small>
-      <small class="date">January 4, 2023</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://dataswamp.org/~solene/2023-01-04-boot-on-btrfs-snapshot.html" target="_blank" rel="noopener">How to boot on a BTRFS snapshot</a>
-      </h4>
-      <p class="summary">
-    
- Introduction §
-I always wanted to have a simple rollback method on Linux systems, NixOS gave me a full featured one, but it wasn&#39;t easy to find a solution for other distributions.
-
-Fortunately, with BTRFS, it&#39;s really simple thanks to snapshots …</p>
-      <small class="source">
-        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
-      </small>
-      <small class="date">January 4, 2023</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://100r.co/site/log.html#dec2022" target="_blank" rel="noopener">Summary of changes for December</a>
-      </h4>
-      <p class="summary">
-Hey everyone! This is the list of all the changes we&#39;ve done to our projects and apps during the month of December. We&#39;ll also be reporting in our on position in the world, and on our future plans.
+Hey everyone! This is the list of all the changes we&#39;ve done to our projects and apps during the month of January. We&#39;ll also be reporting in our on position in the world, and on our future plans.
 
 Summary Of Changes
 
-	
-	100r.co, added a new page: elect…</p>
+    
+    100r.co, added electrical…</p>
       <small class="source">
         via <a href="https://100r.co">Hundred Rabbits</a>
       </small>
-      <small class="date">January 1, 2023</small>
+      <small class="date">January 31, 2023</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
+        <a href="https://drewdevault.com/2023/01/30/2023-01-30-Should-private-platforms-engage-in-censorship.html" target="_blank" rel="noopener">Should private platforms engage in censorship?</a>
+      </h4>
+      <p class="summary">Private service providers are entitled to do business with whom they please, or
+not to. Occasionally, a platform will take advantage of this to deny service to
+a particular entity on any number of grounds, often igniting a flood of debate
+online regarding wh…</p>
+      <small class="source">
+        via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
+      </small>
+      <small class="date">January 30, 2023</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
+        <a href="https://rachelbythebay.com/w/2023/01/29/bash/" target="_blank" rel="noopener">Determine durations with monotonic clocks if available</a>
+      </h4>
+      <p class="summary">
+Sometimes, on a lazy weekend afternoon, I use apt-get to pull down the 
+source of something and start grepping it for things that are bound to 
+be interesting.  This is one of those afternoons, and I found something 
+silly.  While looking for uses of time_t …</p>
+      <small class="source">
+        via <a href="https://rachelbythebay.com/w/">Writing - rachelbythebay</a>
+      </small>
+      <small class="date">January 29, 2023</small>
     </div>
     
   </section>
