@@ -5,9 +5,9 @@ title: 'Lawrence Logoh'
 ## Projects
 
 ### [Chef Companion](https://chefcompanion.net)
-Your very own cooking assistant 
+A personal cooking assistant 
 
-### [Homebase](https://github.com/lawrencelogoh/homebase)
+### [Homebase](https://github.com/homebaseorg/homebase)
 A hub for consuming online content
 
 ## Links
