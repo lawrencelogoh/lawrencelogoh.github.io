@@ -46,18 +46,13 @@ I like my servers to run the least code possible, and the least services running
     
     <div class="article">
       <h4 class="title">
-        <a href="https://rachelbythebay.com/w/2023/02/13/broken/" target="_blank" rel="noopener">More than five whys and &#34;layer eight&#34; problems</a>
+        <a href="https://geohot.github.io//blog/jekyll/update/2023/02/13/wokeism.html" target="_blank" rel="noopener">Wokeism</a>
       </h4>
-      <p class="summary">
-I saw a post about a year ago talking about the &#34;five whys&#34; technique of 
-trying to figure out what caused something to fail.  It was using a car 
-scenario for an example, and it went something like this:
-
-The car didn&#39;t start... because the batte…</p>
+      <p class="summary">There’s been much discussion about “wokeism”, and I think a definition might help to clarify things. My followers on Twitter helped me with this.</p>
       <small class="source">
-        via <a href="https://rachelbythebay.com/w/">Writing - rachelbythebay</a>
+        via <a href="https://geohot.github.io//blog/">the singularity is nearer</a>
       </small>
-      <small class="date">February 14, 2023</small>
+      <small class="date">February 13, 2023</small>
     </div>
     
   </section>
