@@ -13,7 +13,7 @@ I'm happy with the current system I have. It does exactly what I want it to.
 I'm not fully used to all parts of it but that'll come with time. 
 One new thing I want to try is [batching](https://www.youtube.com/watch?v=ghVdzAeX0bg). 
 This is because when I work on things for extended periods of time(4+ hours) I feel more productive.
-The [task switching costs](https://www.apa.org/topics/research/multitasking) for my normal days seem to result in a lot of wasted time.
+The [task switching costs](https://www.apa.org/topics/research/multitasking) for my normal days seem to be a lot of wasted time.
 
 In other news, my [kms](https://github.com/lawrencelogoh/kms) is out. It's empty right now, but I will be adding to it over time.
 
