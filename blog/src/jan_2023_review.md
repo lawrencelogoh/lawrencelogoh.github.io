@@ -1,5 +1,5 @@
 ---
-title: Finding my Feet (January 2023 Review)
+title: January 2023 Review
 date: 2023-02-01
 author: Lawrence Logoh
 ---
