@@ -31,6 +31,5 @@ The current system is good enough. I have taken a bit of a different approach of
 I forget how I came across the concept of an [exokernel](https://pdos.csail.mit.edu/6.828/2008/readings/engler95exokernel.pdf) but it's been stuck in my head ever since. In simple terms, an exokernel is a minimalist operating system architecture that gives applications direct access to hardware resources for optimized performance and flexibility. From that, I'm sure a plethora of reasons come to mind about why this would be a bad idea. I just think it would be a fun thing to build.
 
 Overall, this month was better than last month.
-It can always be better but it was good.
 
 I wouldn't mind if every month was like this
