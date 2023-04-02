@@ -9,6 +9,7 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2023-01-01 - [Plans for 2023](https://lawrencelogoh.com/blog/2023_plans.html)  
 2023-02-01 - [January 2023 Review](https://lawrencelogoh.com/blog/jan_2023_review.html)  
 2023-02-28 - [February 2023 Review](https://lawrencelogoh.com/blog/feb_2023_review.html)  
+2023-03-31 - [March 2023 Review](https://lawrencelogoh.com/blog/mar_2023_review.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
@@ -16,45 +17,49 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://drewdevault.com/2023/02/20/2023-02-20-Helios-aarch64.html" target="_blank" rel="noopener">Porting Helios to aarch64 for my FOSDEM talk, part one</a>
+        <a href="https://100r.co/site/log.html#mar2023" target="_blank" rel="noopener">Summary of changes for March 2023</a>
       </h4>
-      <p class="summary">Helios is a microkernel written in the Hare programming language, and the
-subject of a talk I did at FOSDEM earlier this month. You can watch the talk
-here if you like:
+      <p class="summary">
+Hey everyone! This is the list of all the changes we&#39;ve done to our projects and apps during the month of March. We&#39;ll also be reporting in our on position in the world, and on our future plans.
 
-A while ago I promised someone that I would not do any talks on Helios until I
-could prese…</p>
+Summary Of Changes
+
+    Donsol, added 100r logo to spla…</p>
+      <small class="source">
+        via <a href="https://100r.co">Hundred Rabbits</a>
+      </small>
+      <small class="date">March 31, 2023</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
+        <a href="https://dataswamp.org/~solene/2023-03-26-smokeping.html" target="_blank" rel="noopener">Monitor your remote host network quality using smokeping on OpenBSD</a>
+      </h4>
+      <p class="summary">
+    
+1. Introduction §
+If you need to more the network quality of a link, or the network availability of a remote host, I&#39;d recommend you to take a look at Smokeping.
+
+Smokeping official Website
+Smokeping is a Perl daemon that will regularly run a command …</p>
+      <small class="source">
+        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
+      </small>
+      <small class="date">March 26, 2023</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
+        <a href="https://drewdevault.com/2023/03/09/2023-03-09-Comment-or-no-comment.html" target="_blank" rel="noopener">When to comment that code</a>
+      </h4>
+      <p class="summary">My software tends to have a surprisingly low number of comments. One of my
+projects, scdoc, has 25 comments among its 1,133 lines of C code, or 2%,
+compared to the average of 19%.1 Naturally, I insist that my code is
+well-written in spite of this divergence …</p>
       <small class="source">
         via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
       </small>
-      <small class="date">February 20, 2023</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://rachelbythebay.com/w/2023/02/13/broken/" target="_blank" rel="noopener">More than five whys and &#34;layer eight&#34; problems</a>
-      </h4>
-      <p class="summary">
-I saw a post about a year ago talking about the &#34;five whys&#34; technique of 
-trying to figure out what caused something to fail.  It was using a car 
-scenario for an example, and it went something like this:
-
-The car didn&#39;t start... because the batte…</p>
-      <small class="source">
-        via <a href="https://rachelbythebay.com/w/">Writing - rachelbythebay</a>
-      </small>
-      <small class="date">February 14, 2023</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://geohot.github.io//blog/jekyll/update/2023/02/13/wokeism.html" target="_blank" rel="noopener">Wokeism</a>
-      </h4>
-      <p class="summary">There’s been much discussion about “wokeism”, and I think a definition might help to clarify things. My followers on Twitter helped me with this.</p>
-      <small class="source">
-        via <a href="https://geohot.github.io//blog/">the singularity is nearer</a>
-      </small>
-      <small class="date">February 13, 2023</small>
+      <small class="date">March 9, 2023</small>
     </div>
     
   </section>

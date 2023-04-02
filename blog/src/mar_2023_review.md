@@ -5,10 +5,12 @@ author: Lawrence Logoh
 ---
 
 This was a great month. 
-I haven't built as many great habits as I wanted to do but I'm trying and these things take time.
+I haven't built as many great habits as I wanted to but I'm trying and these things take time.
 
 ## Money
-I landed  a job with a company called [Blue Torus](https://torus.blue). The pay is good, the hours are amazing and I love working with the other people there. I'm still a ways from my goal of $2000 a month but this is stable income, which is a big improvement from freelancing gigs. I am still freelancing though, the hours for the job are flexible enough that I can do that. 
+I landed  a job with a company called [Blue Torus](https://torus.blue). The pay is good, the hours are amazing and I get to work with cool people.
+I'm still a ways from my goal of $2000 a month but this is stable income, which is a big improvement from only doing freelancing gigs. 
+I am still freelancing though, the hours for the job are flexible enough that I can do that. 
 
 
 ## Productivity
@@ -18,11 +20,14 @@ If it doesn't work I'll use GNUCash or maybe even just org tables.
 
 
 ## Programming
-Unfortunately, I haven't made too much progress on this. I haven't been able to consistently work on the projects that I've created to up my skills. I did do some work on the [Homebase prototype](https://github.com/homebaseorg/homebase-prototype) and I've learned a bit about React and NextJS which my new job requires. It's not all bad but this will be one of my main focal points moving forward.
+Unfortunately, I haven't made too much progress on this. I haven't been able to consistently work on the projects that I've created to up my skills. I did do some work on the [Homebase prototype](https://github.com/homebaseorg/homebase-prototype) and I've learned more about React and NextJS which my new job requires. It's not all bad but this will be one of my main focal points moving forward.
 
-## A dark lining 
+## The dark lining in the silver cloud
 Maybe a week after I started my new job, I was pickpocketed. I didn't lose any money but I did lose my phone. I got a replacement the next day, it's a worse phone but it'll do for now. 
 
+---
 
-Great month overall, except I would mind if every month went like this.
+Great month overall.
+
+Unlike last month I would mind if every month went like this.
 Can't be losing my phone every month.
