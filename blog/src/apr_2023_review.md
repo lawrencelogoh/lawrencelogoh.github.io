@@ -18,7 +18,7 @@ I think I was sufficiently productive, but this is only true when it comes to wo
 My personal projects didn't get any love. I think I've found my feet at work now so it shouldn't be a problem going forward. My school workload is going to reduce next semester too so that should help.
 
 ## Programming
-I haven't made much progress on this outside of work. So my JavaScript skills have gone up, but that's a consequence of working with it not intentionally trying to improve. I intend to change that next month. I want to be more intentional about it. 
+I haven't made much progress on this outside of work. So my JavaScript skills have gone up, but that's a consequence of working with it, not intentionally trying to improve. I intend to change that next month. I want to be more intentional about it. 
 
 ---
 
