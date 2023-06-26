@@ -1,6 +1,6 @@
 ---
 title: June 2023 Review
-date: 2023-06-20
+date: 2023-06-25
 author: Lawrence Logoh
 ---
 
