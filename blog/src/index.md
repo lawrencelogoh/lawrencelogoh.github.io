@@ -13,6 +13,7 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2023-05-15 - [April 2023 Review](https://lawrencelogoh.com/blog/apr_2023_review.html)  
 2023-06-20 - [May 2023 Review](https://lawrencelogoh.com/blog/may_2023_review.html)  
 2023-06-25 - [June 2023 Review](https://lawrencelogoh.com/blog/jun_2023_review.html)  
+2023-08-01 - [July 2023 Review](https://lawrencelogoh.com/blog/july_2023_review.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
@@ -20,45 +21,47 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://protesilaos.com/codelog/2023-06-20-logos-1-1-0/" target="_blank" rel="noopener">Emacs: logos version 1.1.0</a>
-      </h4>
-      <p class="summary">Information about the latest version of my logos package for GNU Emacs.</p>
-      <small class="source">
-        via <a href="https://protesilaos.com/codelog">Protesilaos Stavrou: Coding blog</a>
-      </small>
-      <small class="date">June 20, 2023</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html" target="_blank" rel="noopener">Why one would use Qubes OS?</a>
+        <a href="https://100r.co/site/log.html#jul2023" target="_blank" rel="noopener">Summary of changes for July 2023</a>
       </h4>
       <p class="summary">
-    
-1. Intro §
-Hello, I&#39;ve been talking a lot about Qubes OS lately but I never explained why I got hooked to its offer.  It&#39;s time to tell why I like it.
+Hey everyone! This is the list of all the changes we&#39;ve done to our projects and apps during the month of July. We&#39;ll also be reporting in our on position in the world, and on our future plans.
 
-Qubes OS official project website
-2. Presentation §
-Qubes OS is like a meta system emphasizing o…</p>
+Summary Of Changes
+
+
+  Slide Rule, released a little slid…</p>
       <small class="source">
-        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
+        via <a href="https://100r.co">Hundred Rabbits</a>
       </small>
-      <small class="date">June 20, 2023</small>
+      <small class="date">August 1, 2023</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html" target="_blank" rel="noopener">Reforming the free software message</a>
+        <a href="https://drewdevault.com/2023/07/31/The-rc-shell-and-whitespace.html" target="_blank" rel="noopener">The rc shell and its excellent handling of whitespace</a>
       </h4>
-      <p class="summary">Several weeks ago, I wrote The Free Software Foundation is dying, wherein I
-enumerated a number of problems with the Free Software Foundation. Some of my
-criticisms focused on the message: fsf.org and gnu.org together suffer from no
-small degree of incompreh…</p>
+      <p class="summary">This blog post is a response to Mark Dominus&#39; “The shell and its crappy handling of whitespace&#34;.
+I’ve been working on a shell for Unix-like systems called
+rc, which draws heavily from the Plan 9 shell
+of the same name. When I saw Mark’s post about th…</p>
       <small class="source">
         via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
       </small>
-      <small class="date">June 19, 2023</small>
+      <small class="date">July 31, 2023</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
+        <a href="https://dataswamp.org/~solene/2023-07-24-childproof-retrogaming-station.html" target="_blank" rel="noopener">Turning a 15 years old laptop into a children proof retrogaming station</a>
+      </h4>
+      <p class="summary">
+    
+1. Introduction §
+This article explains a setup I made for our family vacation place, I wanted to turn an old laptop (a Dell Vostro 1500 from 2008) into a retrogaming station.  That&#39;s actually easy to do, but I wanted to make it &#34;childproof&#34…</p>
+      <small class="source">
+        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
+      </small>
+      <small class="date">July 28, 2023</small>
     </div>
     
   </section>
