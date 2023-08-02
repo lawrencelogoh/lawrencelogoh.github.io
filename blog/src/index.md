@@ -38,6 +38,17 @@ Summary Of Changes
     
     <div class="article">
       <h4 class="title">
+        <a href="https://protesilaos.com/poems/2023-08-01-moonrise/" target="_blank" rel="noopener">Moonrise (my poem)</a>
+      </h4>
+      <p class="summary">Just read the poem.  No further comment.</p>
+      <small class="source">
+        via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
+      </small>
+      <small class="date">August 1, 2023</small>
+    </div>
+    
+    <div class="article">
+      <h4 class="title">
         <a href="https://drewdevault.com/2023/07/31/The-rc-shell-and-whitespace.html" target="_blank" rel="noopener">The rc shell and its excellent handling of whitespace</a>
       </h4>
       <p class="summary">This blog post is a response to Mark Dominus&#39; “The shell and its crappy handling of whitespace&#34;.
@@ -48,20 +59,6 @@ of the same name. When I saw Mark’s post about th…</p>
         via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
       </small>
       <small class="date">July 31, 2023</small>
-    </div>
-    
-    <div class="article">
-      <h4 class="title">
-        <a href="https://dataswamp.org/~solene/2023-07-24-childproof-retrogaming-station.html" target="_blank" rel="noopener">Turning a 15 years old laptop into a children proof retrogaming station</a>
-      </h4>
-      <p class="summary">
-    
-1. Introduction §
-This article explains a setup I made for our family vacation place, I wanted to turn an old laptop (a Dell Vostro 1500 from 2008) into a retrogaming station.  That&#39;s actually easy to do, but I wanted to make it &#34;childproof&#34…</p>
-      <small class="source">
-        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
-      </small>
-      <small class="date">July 28, 2023</small>
     </div>
     
   </section>

@@ -19,6 +19,7 @@ Expect an article on that soon :).
 This time I have negative feelings about this area.
 I didn't make time for the people I care about.
 And I haven't been straightforward with people.
+
 A regression, to be sure, but all I can do is try to be better.
 
 ## Programming
@@ -32,6 +33,7 @@ On the bright side, I've made progress on managing the money I do have.
 Speaking of money, most people seem really weird about it.
 Maybe "pocket watching" is the best way to describe it.
 It's made me consider not talking about it publicly anymore.
+
 On the other hand, maybe it's a good way to filter out certain people from my life.
 
 ## Other skills
