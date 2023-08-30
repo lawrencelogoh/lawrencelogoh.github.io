@@ -14,6 +14,7 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2023-06-20 - [May 2023 Review](https://lawrencelogoh.com/blog/may_2023_review.html)  
 2023-06-25 - [June 2023 Review](https://lawrencelogoh.com/blog/jun_2023_review.html)  
 2023-08-01 - [July 2023 Review](https://lawrencelogoh.com/blog/july_2023_review.html)  
+2023-08-29 - [August 2023 Review](https://lawrencelogoh.com/blog/august_2023_review.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
