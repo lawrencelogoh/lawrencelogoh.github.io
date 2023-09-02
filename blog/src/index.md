@@ -22,44 +22,51 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://100r.co/site/log.html#jul2023" target="_blank" rel="noopener">Summary of changes for July 2023</a>
+        <a href="https://100r.co/site/log.html#aug2023" target="_blank" rel="noopener">Summary of changes for August 2023</a>
       </h4>
       <p class="summary">
-Hey everyone! This is the list of all the changes we&#39;ve done to our projects and apps during the month of July. We&#39;ll also be reporting in our on position in the world, and on our future plans.
+Hey everyone! This is the list of all the changes we&#39;ve done to our projects and apps during the month of August. We&#39;ll also be reporting in our on position in the world, and on our future plans.
 
 Summary Of Changes
 
 
-  Slide Rule, released a little slid…</p>
+  100r.co, added Heriot Bay, Balle…</p>
       <small class="source">
         via <a href="https://100r.co">Hundred Rabbits</a>
       </small>
-      <small class="date">August 1, 2023</small>
+      <small class="date">September 1, 2023</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://protesilaos.com/poems/2023-08-01-moonrise/" target="_blank" rel="noopener">Moonrise (my poem)</a>
+        <a href="https://protesilaos.com/news/2023-08-31-doors-cabin-hut/" target="_blank" rel="noopener">Vlog: a cabin made out of old doors for the hut</a>
       </h4>
-      <p class="summary">Just read the poem.  No further comment.</p>
+      <p class="summary">I am making the electricity cabin out of discarded doors.</p>
       <small class="source">
         via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
       </small>
-      <small class="date">August 1, 2023</small>
+      <small class="date">August 31, 2023</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://drewdevault.com/2023/07/31/The-rc-shell-and-whitespace.html" target="_blank" rel="noopener">The rc shell and its excellent handling of whitespace</a>
+        <a href="https://dataswamp.org/~solene/2023-08-31-my-top20-favorite-video-games.html" target="_blank" rel="noopener">My top 20 video games</a>
       </h4>
-      <p class="summary">This blog post is a response to Mark Dominus&#39; “The shell and its crappy handling of whitespace&#34;.
-I’ve been working on a shell for Unix-like systems called
-rc, which draws heavily from the Plan 9 shell
-of the same name. When I saw Mark’s post about th…</p>
+      <p class="summary">
+    
+1. Introduction §
+I wanted to share my favorite games list of all time.  Making the list wasn&#39;t easy though, but I&#39;ve set some rules to help deciding myself.
+
+Here are the criteria:
+
+
+
+  if you show me the game, I&#39;d be happy to play it again
+  if …</p>
       <small class="source">
-        via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
+        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
       </small>
-      <small class="date">July 31, 2023</small>
+      <small class="date">August 31, 2023</small>
     </div>
     
   </section>

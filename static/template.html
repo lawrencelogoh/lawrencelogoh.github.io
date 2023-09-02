@@ -23,8 +23,14 @@
   <body>
     $include-before$
     <h1 class="title">$title$</h1>
+    $if(date)$
     <p class="subtitle date">$date$</p>
+    $endif$
+    
     <article>$body$</article>
+    $if(date)$
+    <a href="mailto:lawrencelogoh@gmail.com?subject=Re: $pagetitle$">Reply</a>
+    $endif$
     $include-after$
   </body>
 </html>
