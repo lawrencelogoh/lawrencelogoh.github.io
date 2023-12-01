@@ -17,6 +17,7 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2023-08-29 - [August 2023 Review](https://lawrencelogoh.com/blog/august_2023_review.html)  
 2023-10-15 - [September 2023 Review](https://lawrencelogoh.com/blog/sept_2023_review.html)  
 2023-11-17 - [October 2023 Review](https://lawrencelogoh.com/blog/oct_2023_review.html)  
+2023-11-30 - [November 2023 Review](https://lawrencelogoh.com/blog/nov_2023_review.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
@@ -24,45 +25,50 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://protesilaos.com/codelog/2023-10-14-notmuch-indicator-1-1-0/" target="_blank" rel="noopener">Emacs: notmuch-indicator version 1.1.0</a>
+        <a href="https://protesilaos.com/codelog/2023-11-17-emacs-ediff-basics/" target="_blank" rel="noopener">Emacs: ediff basics</a>
       </h4>
-      <p class="summary">Information about my notmuch email counter for the mode line of GNU Emacs.</p>
+      <p class="summary">Video demonstration on how to use Emacs to show a side-by-side comparison between files.</p>
       <small class="source">
         via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
       </small>
-      <small class="date">October 14, 2023</small>
+      <small class="date">November 17, 2023</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://drewdevault.com/2023/10/13/Going-off-script.html" target="_blank" rel="noopener">Going off-script</a>
+        <a href="https://drewdevault.com/2023/11/09/Can-I-be-on-your-podcast.html" target="_blank" rel="noopener">Can I be on your podcast?</a>
       </h4>
-      <p class="summary">There is a phenomenon in society which I find quite bizarre. Upon our entry to
-this mortal coil, we are endowed with self-awareness, agency, and free will.
-Each of the 8 billion members of this human race represents a unique person, a
-unique worldview, and a…</p>
+      <p class="summary">I am working on rousing the Hare community to get the
+word out about our work. I have drafted the Hare evangelism guidelines to
+this effect, which summarizes how we want to see our community bringing Hare to
+more people.
+We’d like to spread the word in a way …</p>
       <small class="source">
         via <a href="https://drewdevault.com">Drew DeVault&#39;s blog</a>
       </small>
-      <small class="date">October 13, 2023</small>
+      <small class="date">November 9, 2023</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://dataswamp.org/~solene/2023-10-04-potw-syncthing.html" target="_blank" rel="noopener">Port of the Week: Presenting Syncthing</a>
+        <a href="https://rachelbythebay.com/w/2023/11/07/wpa3/" target="_blank" rel="noopener"> Asahi Linux folks are doing us a solid with WPA3 fixes</a>
       </h4>
       <p class="summary">
-    
-1. Introduction §
-Today&#39;s &#34;port of the week&#34; article is featuring Syncthing, a file synchronization software.
 
-Syncthing official project website
-2. Quick intro §
-As stated earlier, Syncthing is a network daemon that synchronize files between c…</p>
+
+Thanks to a bit of anonymous feedback this morning, I have some good 
+news about the 
+Raspberry Pi WPA3 thing.
+Apparently the good folks over at the Asahi Linux project have 
+taken up
+the cause of 
+fixing
+the upstream kernel situation.  It seems this will 
+happen…</p>
       <small class="source">
-        via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
+        via <a href="https://rachelbythebay.com/w/">Writing - rachelbythebay</a>
       </small>
-      <small class="date">October 7, 2023</small>
+      <small class="date">November 7, 2023</small>
     </div>
     
   </section>

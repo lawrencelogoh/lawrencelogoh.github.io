@@ -4,7 +4,7 @@ date: 2023-11-17
 author: Lawrence Logoh
 ---
 
-All things considered, this was a good month. It was tough balancing, school, work and freelance gigs but I managed to do it. Now school is off the plate so we can redirect energy elsewhere. 
+It was tough balancing, school, work and freelance gigs but I managed to do it. Now school is off the plate so we can redirect energy elsewhere. 
 
 ## Productivity
 This is the most productive I've ever been. However, it was mostly fueled by coffee, red bull and dread. So in other words, not sustainable.  A strange thing that has happened as a result of this is that I feel like I've "unlocked" something. I'll have to think about it a bit more but my it feels like my baseline productivity has improved as a result.
@@ -21,7 +21,8 @@ I made some extra money this month. It came with added stress but it was worth i
 ## Other skills
 I'm still learning how to make music with Ardour. It might be the hardest thing I've had to learn. It just feels foreign to me and there's so much to take in.
 
-I'm also learning how to draw and web design. I'm learning drawing for fun but I'm learning web design to be able to build web apps from end to end instead of just being able to code a design. 
+I'm also learning how to draw and UI/UX design. I'm learning drawing for
+fun but I'm learning UI/UX design to be able to build web apps from end to end instead of just being able to code a design. 
 
 ---
 
