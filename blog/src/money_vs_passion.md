@@ -23,7 +23,7 @@ passed since then and I've changed a lot. I've come to understand that
 wanting to make a lot of money isn't a bad thing. If programming helps
 someone achieve that, then more power to them. 
 
-A few days ago I read an article my Pieter Levels titled 
+A few days ago I read an article by Pieter Levels titled 
 ["How I build my minimum viable products"](https://levels.io/how-i-build-my-minimum-viable-products/).
 I read it because I've been thinking about ways to make money with
 programming and he seemed to be good at doing just that. I think it's a
