@@ -23,27 +23,28 @@ passed since then and I've changed a lot. I've come to understand that
 wanting to make a lot of money isn't a bad thing. If programming helps
 someone achieve that, then more power to them. 
 
-A few days ago I read an article my Pieter Levels called 
-[How I build my minimum viable products](https://levels.io/how-i-build-my-minimum-viable-products/).
+A few days ago I read an article my Pieter Levels titled 
+["How I build my minimum viable products"](https://levels.io/how-i-build-my-minimum-viable-products/).
 I read it because I've been thinking about ways to make money with
-programming. I think it's a helpful article and if you want to do a
-similar thing to what he's doing, go read it.
-One part of the article caught my attention. 
+programming and he seemed to be good at doing just that. I think it's a
+helpful article and if you want to do a similar thing to what he's
+doing, go read it. 
+While reading the article, two sentences caught my attention.
 
 >Programming is not my passion. Making stuff is my passion.
 
 I felt a little uncomfortable reading that.
 The making stuff part I can understand because, of course, I want to make
-stuff, but I think I still agreed with fourteen year old me on some level.
+stuff, but I think I still agreed with fourteen-year-old me on some level.
 So I decided to sit down and think about why it made me feel uncomfortable
 beyond it dirtying programming and I came up with an answer that felt right.
 
 >Should I sell out?
 
-It felt like it was an either or choice. One thing that changed my mind
-a little was this stream by George Hotz titled [what is programming? (noob lessons!)](https://www.youtube.com/watch?v=N2bXEUSAiTI). 
-In the stream he makes a differentiation between a thing he calls "High
-Brow Software Engineering" and "Translating business requirements into
+It felt like it was an either or choice. One thing that helped me
+changed my mind was this stream by George Hotz titled ["what is programming? (noob lessons!)"](https://www.youtube.com/watch?v=N2bXEUSAiTI). 
+In the stream he makes a distinction between a thing he calls "High
+Brow Software Engineering" and another he calls "Translating business requirements into
 code". We call both of them programming but they're different things.
 I think the latter is self explanatory but the former is best explained
 by George [here](https://youtu.be/N2bXEUSAiTI?si=ghH_2nW3MVSWIfJk&t=1260).
@@ -52,8 +53,8 @@ The conclusion I came to was that I can do both.
 One can be a thing I do for work and the other can be something I do for
 fun. The thing that I will keep in mind is that while I am "selling out"
 I'm still going to be selective in the things that I build.
-I'm not going to build yet another AI tool that uses OpenAI's APIs for
-example. 
+I'm not going to build yet another AI tool that uses OpenAI's APIs in a
+really basic way for example. 
 
 While the things I'm passionate about may not bring money in the short
 term, I think I should still do them because I enjoy them. On the other
