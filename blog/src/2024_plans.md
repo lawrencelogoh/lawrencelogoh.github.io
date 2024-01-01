@@ -1,0 +1,48 @@
+---
+title: Plans for 2023
+date: 2024-01-01
+author: Lawrence Logoh
+---
+
+The plan this year is to get good.
+I'm okay at a few things, but I need to get really good.
+I will write a detailed list of actions I will need to do to make this
+year a success but I'm not sure if I'll release it publicly or not.
+We'll see.
+
+## Health
+This is going to be one of my main priorities this year.
+The goal here is to lose weight and get in shape.
+
+>A healthy mind resides in a healthy body 
+
+My mental health isn't a big priority this year.
+I have a high baseline of happiness so we can leave that for
+another time. 
+This doesn't mean I will be neglecting it but it won't be a high priority.
+
+## Productivity
+My system is at a place that I'm really happy with. 
+The focus for this would be to build habits that will help me be more
+productive. 
+
+## Relationships
+A lot of progress was made last year but there is still more to be made.
+The goal is to be more proactive and not just leave things to chance.
+Yes, this applies to romantic relationships as well. 
+
+## Programming
+I've done a lot of learning when it comes to programming but very little
+doing.
+I'm still going to be learning but I'll be writing a lot of ~~bad~~
+software so that I can get better.
+
+## Money
+The goal is the same as last year $2000/month.
+
+## Other skills
+This year, the focus is on design. Mainly graphic design and UI/UX
+design.
+I will focus on writing and making music with a DAW as well.
+
+Happy New Year.

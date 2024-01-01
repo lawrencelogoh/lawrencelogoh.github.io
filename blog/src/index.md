@@ -21,6 +21,7 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
 2023-12-10 - [Money vs Passion](https://lawrencelogoh.com/blog/money_vs_passion.html)  
 2023-12-30 - [December 2023 Review](https://lawrencelogoh.com/blog/dec_2023_review.html)  
 2023-12-31 - [2023 Review](https://lawrencelogoh.com/blog/2023_review.html)  
+2024-01-01 - [Plans for 2023](https://lawrencelogoh.com/blog/2024_plans.html)  
 
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
@@ -28,46 +29,56 @@ include-after: '<a href="https://lawrencelogoh.com"><- Back to home</a>'
     
     <div class="article">
       <h4 class="title">
-        <a href="https://protesilaos.com/codelog/2023-12-10-denote-2-2-0/" target="_blank" rel="noopener">Emacs: Denote version 2.2.0</a>
+        <a href="https://protesilaos.com/codelog/2023-12-29-ef-arbutus/" target="_blank" rel="noopener">Emacs: ‘ef-arbutus’ is now part of the ‘ef-themes’ collection</a>
       </h4>
-      <p class="summary">Information about the latest version of my Denote package for GNU Emacs.</p>
+      <p class="summary">I added a new pair of dark and light themes to my &#39;ef-themes&#39; collection.  They are quite different from the rest of the collection.</p>
       <small class="source">
         via <a href="https://protesilaos.com/">Protesilaos Stavrou: Master feed with all updates</a>
       </small>
-      <small class="date">December 10, 2023</small>
+      <small class="date">December 29, 2023</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://dataswamp.org/~solene/2023-12-03-sourcehut-and-openbsd-ci.html" target="_blank" rel="noopener">OpenBSD in a CI environment with sourcehut</a>
+        <a href="https://dataswamp.org/~solene/2023-12-24-qubes-os-migrate-vm-between-computers.html" target="_blank" rel="noopener">Qubes OS backup transfer from old to new computer</a>
       </h4>
       <p class="summary">
     
 1. Introduction §
-If you ever required continuous integration pipelines to do some actions in an OpenBSD environment, you certainly figured that most Git &#34;forge&#34; didn&#39;t provide OpenBSD as a host environment for the CI.
+With the recent release of Qubes OS 4.2, I took the opportunity to migrate to a newer laptop (from a Thinkpad T470 to a NovaCustom NV41) so I had to backup all the qubes from the T470 and restore them on the NV41.
 
-It turns out that sour…</p>
+The fastest way to pr…</p>
       <small class="source">
         via <a href="https://dataswamp.org/~solene/">Solene&#39;%</a>
       </small>
-      <small class="date">December 6, 2023</small>
+      <small class="date">December 27, 2023</small>
     </div>
     
     <div class="article">
       <h4 class="title">
-        <a href="https://100r.co/site/log.html#nov2023" target="_blank" rel="noopener">Summary of changes for November 2023</a>
+        <a href="https://rachelbythebay.com/w/2023/12/25/feedback/" target="_blank" rel="noopener">A year-end wrapup of responses to reader feedback</a>
       </h4>
       <p class="summary">
-Hey everyone!This is the list of all the changes we&#39;ve done to our projects during the month of November.
 
-Summary Of Changes
 
-  Wiktopher, drew some new art(Mastodon), finalized a few translations(Mastodon), and released it the project on Itchio!
-  Thousa…</p>
+It&#39;s time for some end of the year feedback.  I get a bunch of comments 
+and questions from people through my contact page, and sometimes this is 
+the only way to reply.  Other times, a response is also suitable for a 
+wider audience.
+
+
+...
+
+
+Igor asks:
+
+
+
+Have yo…</p>
       <small class="source">
-        via <a href="https://100r.co">Hundred Rabbits</a>
+        via <a href="https://rachelbythebay.com/w/">Writing - rachelbythebay</a>
       </small>
-      <small class="date">December 1, 2023</small>
+      <small class="date">December 26, 2023</small>
     </div>
     
   </section>
