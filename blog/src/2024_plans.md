@@ -23,7 +23,7 @@ This doesn't mean I will be neglecting it but it won't be a high priority.
 
 ## Productivity
 My system is at a place that I'm really happy with. 
-The focus for this would be to build habits that will help me be more
+The focus now is to be to build habits that will help me be more
 productive. 
 
 ## Relationships
@@ -37,11 +37,12 @@ doing.
 I'm still going to be learning but I'll be writing a lot of ~~bad~~
 software so that I can get better.
 
+
 ## Money
 The goal is the same as last year $2000/month.
 
 ## Other skills
-This year, the focus is on design. Mainly graphic design and UI/UX
+This year, the main focus is on design. Mainly graphic design and UI/UX
 design.
 I will focus on writing and making music with a DAW as well.
 
