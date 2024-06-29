@@ -1,0 +1,14 @@
+* {
+  font-family: "Fira Code", monospace;
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  display: flex;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Bebas Neue", Helvetica;
+}

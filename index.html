@@ -8,56 +8,16 @@
       href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
       rel="stylesheet"
     />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <link href="assets/style.css" rel="stylesheet" />
     <title>Lawrence Logoh</title>
   </head>
   <body>
-    <div id="message"></div>
+    <h1>Lawrence Logoh</h1>
   </body>
-  <style>
-    * {
-      font-family: "Fira Code", monospace;
-      box-sizing: border-box;
-    }
-    body {
-      display: flex;
-      justify-content: center;
-      font-size: 48px;
-      align-items: center;
-      height: 100dvh;
-      width: 100dvw;
-      margin: 0;
-    }
 
-    #message {
-      border-right: .15em solid #000; 
-      animation: blink-caret .25s step-end infinite;
-      padding-right: .5ch;
-    }
-    @keyframes blink-caret {
-      from,
-      to {
-        border-color: transparent;
-      }
-      50% {
-        border-color: #000;
-      }
-    }
-  </style>
-  <script>
-    let i = 0;
-    const txt = "Under Construction";
-    const speed = 250; 
-    const message = document.getElementById("message")
-    function typeWriter() {
-      if (i < txt.length) {
-        message.innerHTML += txt.charAt(i);
-        i++;
-        setTimeout(typeWriter, speed);
-      }
-
-    }
-
-    typeWriter();
-
-  </script>
+  <script src="assets/main.js"></script>
 </html>
