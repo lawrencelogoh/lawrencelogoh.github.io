@@ -1,14 +1,54 @@
+:root {
+  --black: #1a1a1a;
+}
+
 * {
   font-family: "Fira Code", monospace;
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
 body {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0.5rem;
+  line-height: 1.5;
+  color: var(--black);
 }
 
 h1,
 h2,
 h3 {
   font-family: "Bebas Neue", Helvetica;
+  padding: 1rem 0;
+}
+
+article {
+  max-width: 750px;
+}
+
+#intro,
+#projects,
+#links,
+#contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 750px;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+a {
+  color: var(--black);
+}
+a:visited {
+  color: var(--black);
 }
