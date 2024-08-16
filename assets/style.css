@@ -1,5 +1,6 @@
 :root {
   --black: #1a1a1a;
+  --grey: #474747;
 }
 
 * {
@@ -29,6 +30,19 @@ article {
   max-width: 750px;
 }
 
+footer {
+  padding: 1rem 0;
+  text-align: center;
+  color: var(--grey);
+}
+
+.footer-link {
+  color: var(--grey);
+}
+.footer-link:visited {
+  color: var(--grey);
+}
+
 #intro,
 #projects,
 #links,
@@ -51,4 +65,9 @@ a {
 }
 a:visited {
   color: var(--black);
+}
+
+.date {
+  color: #000;
+  opacity: 60%;
 }
