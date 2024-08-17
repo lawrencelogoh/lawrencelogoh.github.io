@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=1"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <link href={{ url_for("static", file="style.css") }} rel="stylesheet" />
+    <title>{% block title %}{{ site_name }}{% endblock %}</title>
+  </head>
+  <body>
+    {% block body %}{% endblock %}
+
+    <footer>
+      <p>
+        The content for this site is
+        <a
+          class="footer-link"
+          href="https://creativecommons.org/licenses/by-sa/4.0/"
+          >CC BY-SA</a
+        >
+      </p>
+      <p>
+        The
+        <a
+          class="footer-link"
+          href="https://github.com/lawrencelogoh/lawrencelogoh.github.io"
+          >code</a
+        >
+        is
+        <a
+          class="footer-link"
+          href="https://opensource.org/licenses/BSD-2-Clause"
+          >BSD-2-Clause</a
+        >
+      </p>
+    </footer>
+  </body>
+
+  <script src={{ url_for("static", file="main.js") }}></script>
+</html>
