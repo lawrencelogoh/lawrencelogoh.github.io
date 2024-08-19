@@ -30,7 +30,7 @@ article {
   max-width: 750px;
 }
 p {
-  margin-top: 1.5rem;
+  padding-top: 1.5rem;
 }
 
 ul {
@@ -77,4 +77,7 @@ a:visited {
 .date {
   color: #000;
   opacity: 60%;
+}
+.footdef p {
+  padding: 0;
 }
