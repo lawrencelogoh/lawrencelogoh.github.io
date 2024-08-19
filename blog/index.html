@@ -17,12 +17,30 @@
       href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
       rel="stylesheet"
     />
-    <link href={{ url_for("static", file="style.css") }} rel="stylesheet" />
-    <title>{% block title %}{{ site_name }}{% endblock %}</title>
+    <link href=http://localhost:8000/theme/static/style.css rel="stylesheet" />
+    <title>
+Blog Index
+</title>
   </head>
   <body>
-    <h1 id="name">{% block title %}{{ site_name }}{% endblock %}</h1>
-    {% block body %}{% endblock %}
+    <h1 id="name">
+Blog Index
+</h1>
+    
+<ul>
+
+
+<li>
+  <span class="date">
+	  
+      Jun 24, 2022 &mdash;
+    
+	</span> <a href=http://localhost:8000/blog/building-a-static-site-generator.html>Building a static site generator</a>
+</li>
+
+
+</ul>
+
 
     <footer>
       <p>
@@ -50,5 +68,5 @@
     </footer>
   </body>
 
-  <script src={{ url_for("static", file="main.js") }}></script>
+  <script src=http://localhost:8000/theme/static/main.js></script>
 </html>

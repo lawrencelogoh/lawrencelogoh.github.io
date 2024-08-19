@@ -8,7 +8,7 @@
                   ("site_description" . "Lawrence Logoh's Personal Blog.")))
 
 
-o(if (string= (getenv "ENV") "prod")
+(if (string= (getenv "ENV") "prod")
     (setq weblorg-default-url "https://lawrencelogoh.com"))
 
 ;; route for rendering each post
@@ -33,14 +33,14 @@ o(if (string= (getenv "ENV") "prod")
 ;;  :name "pages"
 ;;  :input-pattern "src/*.org"
 ;;  :template "page.html"
-;;  :output "/{{ slug }}.html"
-;;  :url "/{{ slug }}.html")
+;;  :output "/{{ slug }}/index.html"
+;;  :url "/{{ slug }}")
 
 ;; route for static assets that also copies files to output directory
 (weblorg-route
  :name "static"
  :template nil
- :url "/static/{{ file }}")
+ :url "/theme/static/{{ file }}")
 
 ;; fire the engine and export all the files declared in the routes above
 (weblorg-export)
