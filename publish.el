@@ -8,9 +8,10 @@
                   ("site_description" . "Lawrence Logoh's Personal Blog.")))
 
 
-(if (string= (getenv "ENV") "prod")
-    (setq weblorg-default-url "https://lawrencelogoh.com"))
+;; (if (string= (getenv "ENV") "prod")
+;;     (setq weblorg-default-url "https://lawrencelogoh.com"))
 
+(setq weblorg-default-url "")
 ;; route for rendering each post
 (weblorg-route
  :name "blog"

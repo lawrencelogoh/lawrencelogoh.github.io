@@ -29,6 +29,9 @@ h3 {
 article {
   max-width: 750px;
 }
+p {
+  margin-bottom: 1.5rem;
+}
 
 footer {
   padding: 1rem 0;

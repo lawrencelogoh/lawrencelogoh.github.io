@@ -1,4 +1,4 @@
- #+TITLE: Building a static site generator
+#+TITLE: Building a static site generator
 #+DATE: 2022-06-24
 #+AUTHOR: Lawrence Logoh
 
@@ -17,7 +17,6 @@ My requirements for the current script were:
 - Must generate an RSS file with all blog posts
 - Must arrange blog posts by date
 
-
 I didn't put too much thought into how the old script worked.
 I started by writing a function that compiles the markdown files of my blog posts.
 Everything else came after that.
@@ -35,8 +34,11 @@ If you want the details, read the script.
 
 
 I'm happy with how it works right now but there's a minor annoyance I have with it.
-The blog posts are arranged according to their dates by putting the date in the file name.
+The blog posts are arranged according to their dates by putting the date
+in the file name.
+
 /Yuck/.[fn:1]
+
 I tried using an associative array to do it at first, but I found it difficult to sort the dates with the sort program.
 I'll figure it out eventually.
 
