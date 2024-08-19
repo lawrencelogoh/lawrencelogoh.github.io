@@ -30,6 +30,7 @@ generator" />
     <title>{% block title %}{{ site_name }}{% endblock %}</title>
   </head>
   <body>
+    {% include "navbar.html" %}
     <h1 id="name">{% block title %}{{ site_name }}{% endblock %}</h1>
     {% block body %}{% endblock %}
 
