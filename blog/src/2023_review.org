@@ -1,0 +1,47 @@
+#+TITLE: 2023 Review
+#+DATE: 2023-12-31
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+The plan this year was to play to my strengths and work on my weaknesses. I ended up doing both very poorly.
+
+* Productivity
+My Life Management System(LMS) is at the point where I can see myself using it for the rest of my life. It's very simple and doesn't really depend on any tools even though I only use it with emacs.
+
+There are a few issues like, using it on mobile but I think I can find an app that works reasonably well or make one.
+
+My productivity itself has been boosted. Not only because of the system but because I pushed myself and realised what I was capable of. 
+
+* Relationships
+I made a lot of progress here. I called people I care about a few times. Made time to just hang out where just being around friends was the goal. I checked on people a few times as well.
+
+In terms of romantic relationships, I tried. I generally don't try but I tried this time. I was unsuccessful but I learned a lot not just about what I like but about the kind of person I am. 
+
+* Programming
+So I programmed a lot this year. More than I did last year. But I didn't do exactly what I planned to do.
+
+I planned to get better at Python and Go and try out Rust and Zig. I got a job where I mainly work with JavaScript so that became my main focus. I did learn Python and Go but not as much as I had planned to.
+
+I didn't even touch Rust and Zig. I did do some mobile development but no OS development. 
+
+I'm not happy with how this went, but I'll try again next year.
+
+* Money
+I didn't get to my goal of $2000/month. I have however moved from making $0 to a respectable amount. 
+
+I've also had to think about money a lot[fn:1]. I've decided that I want a lot of it now and I'm going to try everything I can to get it without compromising my morals or ethics.
+
+* Other skills
+I'm not sure if my writing has improved or not. What I do know is that I'm not yet good enough so I'm going to keep trying.
+
+I haven't practised drawing enough but I am practising. 
+
+I didn't buy an electric guitar but I have started learning how to use a DAW to make music. Music is the hardest thing I've had to learn so far but I will keep trying.
+
+* Conclusion
+Overall, this was a good year.
+I'm not happy with how some things went, but I'll learn from it and try to make next year better.
+
+[fn:1] [[https://lawrencelogoh.com/blog/money_vs_passion.html][Money vs Passion]]
+
+
