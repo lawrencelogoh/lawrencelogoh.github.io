@@ -24,14 +24,6 @@
     <h1 id="name"> Building a static site generator  </h1>
     
 <article>
-<div id="table-of-contents" role="doc-toc">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#why-not-just-use-x">1. "Why not just use x?"</a></li>
-</ul>
-</div>
-</div>
 <p>
 What I was using is <a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/921d8d1012f73c6298b7d5412404b0f7b2a33ed/build">a badly written bash script that depends on pup and pandoc</a>.
 I don't mind the pandoc dependency too much as I have it on all my systems anyway. 
@@ -39,13 +31,12 @@ But the script is messy and I'd rather have something cleaner.
 </p>
 
 <div id="outline-container-why-not-just-use-x" class="outline-2">
-<h2 id="why-not-just-use-x"><span class="section-number-2">1.</span> "Why not just use x?"</h2>
-<div class="outline-text-2" id="text-1">
+<h2 id="why-not-just-use-x">"Why not just use x?"</h2>
+<div class="outline-text-2">
 <p>
 Most of the static site generators I've seen like Hugo and Jekyll seem too complicated for me.
 I'm not saying I can't use them, I just felt some friction and thought it would be cool to build my own.
 </p>
-
 
 <p>
 My requirements for the current script were:
@@ -57,7 +48,6 @@ My requirements for the current script were:
 <li>Must arrange blog posts by date</li>
 </ul>
 
-
 <p>
 I didn't put too much thought into how the old script worked.
 I started by writing a function that compiles the markdown files of my blog posts.
@@ -68,8 +58,7 @@ I also started to run into problems when I wanted to add new functionality or ch
 </p>
 
 <p>
-<a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build">
-The current script</a> is not as bad.
+<a href="https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build">The current script</a> is not as bad.
 The way that it works is, it assumes every directory(including the root directory) has an <code>src</code> subdirectory.
 It compiles every markdown file in the <code>src</code> subdirectories to HTML files that live in the directory itself.
 To get away with not creating an <code>index.html</code> I create an <code>index.md</code> instead and that gets compiled like every other markdown file.
@@ -80,8 +69,15 @@ If you want the details, read the script.
 
 <p>
 I'm happy with how it works right now but there's a minor annoyance I have with it.
-The blog posts are arranged according to their dates by putting the date in the file name.
+The blog posts are arranged according to their dates by putting the date
+in the file name.
+</p>
+
+<p>
 <i>Yuck</i>.<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>
+</p>
+
+<p>
 I tried using an associative array to do it at first, but I found it difficult to sort the dates with the sort program.
 I'll figure it out eventually.
 </p>

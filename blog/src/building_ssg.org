@@ -1,6 +1,7 @@
 #+TITLE: Building a static site generator
 #+DATE: 2022-06-24
 #+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
 
 What I was using is [[https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/921d8d1012f73c6298b7d5412404b0f7b2a33ed/build][a badly written bash script that depends on pup and pandoc]].
 I don't mind the pandoc dependency too much as I have it on all my systems anyway. 
@@ -10,12 +11,11 @@ But the script is messy and I'd rather have something cleaner.
 Most of the static site generators I've seen like Hugo and Jekyll seem too complicated for me.
 I'm not saying I can't use them, I just felt some friction and thought it would be cool to build my own.
 
-
 My requirements for the current script were:
-- Must have as few dependencies as possible.
-- Must work on UNIX/UNIX-like systems
-- Must generate an RSS file with all blog posts
-- Must arrange blog posts by date
+  - Must have as few dependencies as possible.
+  - Must work on UNIX/UNIX-like systems
+  - Must generate an RSS file with all blog posts
+  - Must arrange blog posts by date
 
 I didn't put too much thought into how the old script worked.
 I started by writing a function that compiles the markdown files of my blog posts.
@@ -24,8 +24,7 @@ Whenever I hit a roadblock, I looked for a program that could help me.
 In the end, I had a hacky script that worked but I wasn't proud of it.
 I also started to run into problems when I wanted to add new functionality or change something.
 
-[[https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build][
-The current script]] is not as bad.
+[[https://github.com/lawrencelogoh/lawrencelogoh.github.io/blob/9c27fe701fb522f936147f5ad5fbd01a02f7ad13/build][The current script]] is not as bad.
 The way that it works is, it assumes every directory(including the root directory) has an =src= subdirectory.
 It compiles every markdown file in the =src= subdirectories to HTML files that live in the directory itself.
 To get away with not creating an =index.html= I create an =index.md= instead and that gets compiled like every other markdown file.

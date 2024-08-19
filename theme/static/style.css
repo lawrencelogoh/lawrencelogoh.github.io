@@ -23,14 +23,18 @@ h1,
 h2,
 h3 {
   font-family: "Bebas Neue", Helvetica;
-  padding: 1rem 0;
+  padding-top: 1.5rem;
 }
 
 article {
   max-width: 750px;
 }
 p {
-  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+ul {
+  list-style-type: "- ";
 }
 
 footer {
