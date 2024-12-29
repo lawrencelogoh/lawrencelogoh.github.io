@@ -10,7 +10,6 @@ crafting efficient, scalable solutions for complex business needs.
 * Links
 #+ATTR_HTML: :class links
 - [[https://github.com/lawrencelogoh][GitHub]]
-- [[/theme/static/cv.pdf][CV]]
 * Contact me
 #+ATTR_HTML: :class links
 - [[mailto:lawrencelogoh@gmail.com][Email]]
