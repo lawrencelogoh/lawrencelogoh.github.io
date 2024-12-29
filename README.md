@@ -5,3 +5,9 @@ A simple personal website.
 - Emacs
 - weblorg
 
+# How to run `publish.el`
+```shell
+$ emacs --script publish.el
+```
+
+
