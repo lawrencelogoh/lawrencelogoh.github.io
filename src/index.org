@@ -1,0 +1,18 @@
+#+TITLE: Lawrence Logoh
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+#+ATTR_HTML: :id intro
+I specialize in building robust enterprise web applications and
+exploring innovative areas in software development. My work focuses on
+crafting efficient, scalable solutions for complex business needs.
+
+* Links
+#+ATTR_HTML: :class links
+- [[https://github.com/lawrencelogoh][GitHub]]
+- [[/theme/static/cv.pdf][CV]]
+* Contact me
+#+ATTR_HTML: :class links
+- [[mailto:lawrencelogoh@gmail.com][Email]]
+- [[https://x.com/lawrencelogoh][X]]
+

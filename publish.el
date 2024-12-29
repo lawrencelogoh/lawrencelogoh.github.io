@@ -12,6 +12,15 @@
 ;;     (setq weblorg-default-url "https://lawrencelogoh.com"))
 
 (setq weblorg-default-url "")
+
+;; route for rendering the homepage
+(weblorg-route
+ :name "index"
+ :input-pattern "src/index.org"
+ :template "blog_post.html"
+ :output "index.html"
+ :url "/")
+
 ;; route for rendering each post
 (weblorg-route
  :name "blog"
@@ -29,19 +38,32 @@
  :output "blog/index.html"
  :url "/blog")
 
-;; route for rendering each page
-;; (weblorg-route
-;;  :name "pages"
-;;  :input-pattern "src/*.org"
-;;  :template "page.html"
-;;  :output "/{{ slug }}/index.html"
-;;  :url "/{{ slug }}")
+;; route for the rss feed
+(weblorg-route
+ :name "rss feed"
+ :input-pattern "blog/src/*.org"
+ :input-aggregate #'weblorg-input-aggregate-all-desc
+ :template "feed.xml"
+ :output "rss.xml"
+ :url "/rss.xml")
+
+
+;;route for rendering each page
+(weblorg-route
+ :name "pages"
+ :input-pattern "src/*.org"
+ :input-exclude "index\.org$"
+ :template "page.html"
+ :output "{{ slug }}/index.html"
+ :url "/{{ slug }}")
 
 ;; route for static assets that also copies files to output directory
 (weblorg-route
  :name "static"
  :template nil
  :url "/theme/static/{{ file }}")
+
+
 
 ;; fire the engine and export all the files declared in the routes above
 (weblorg-export)
