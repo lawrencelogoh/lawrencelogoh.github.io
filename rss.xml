@@ -10,7 +10,7 @@
      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Simple Blog</title>
+    <title>Lawrence Logoh</title>
     <atom:link
       href="/rss.xml"
       rel="self" type="application/rss+xml" />
@@ -18,9 +18,9 @@
     <description><![CDATA[]]></description>
     <language>en</language>
     <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-    <lastBuildDate>Sun, 29 Dec 2024 04:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 04:24:50 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
-    <webMaster>web@master (Blog Author)</webMaster>
+    <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
       <url>/media/img/8bitme.png</url>
       <title>Blog Author</title>

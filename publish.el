@@ -5,8 +5,7 @@
 (weblorg-site
  :template-vars '(("site_name" . "Lawrence Logoh")
                   ("site_owner" . "lawrencelogoh@gmail.com (Owner)")
-                  ("site_description" . "Lawrence Logoh's Personal Blog.")))
-
+                  ("site_description" . "Lawrence Logoh's Personal Blog")))
 
 ;; (if (string= (getenv "ENV") "prod")
 ;;     (setq weblorg-default-url "https://lawrencelogoh.com"))

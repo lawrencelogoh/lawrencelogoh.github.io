@@ -10,7 +10,7 @@
      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>{{ site_name | default("Simple Blog") }}</title>
+    <title>{{ site_name | default("Lawrence Logoh")}}</title>
     <atom:link
       href="{{ url_for("rss feed") }}"
       rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
     <pubDate>{{ posts | first | getattr("date") | strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
     <lastBuildDate>{{ now() | strftime("%a, %d %b %Y %H:%M:%S %z") }}</lastBuildDate>
     <generator>{{ meta.generator }}</generator>
-    <webMaster>{{ site_owner | default("web@master (Blog Author)") }}</webMaster>
+    <webMaster>{{ site_owner | default("lawrencelogoh@gmail.com (Blog Author)") }}</webMaster>
     <image>
       <url>{{ url_for("index") }}media/img/8bitme.png</url>
       <title>Blog Author</title>
