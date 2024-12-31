@@ -47,14 +47,14 @@
  :url "/rss.xml")
 
 
-;;route for rendering each page
+;;route for rendering other "top-level" pages
 (weblorg-route
  :name "pages"
  :input-pattern "src/*.org"
  :input-exclude "index\.org$"
  :template "page.html"
- :output "{{ slug }}/index.html"
- :url "/{{ slug }}")
+ :output "{{ file_slug }}/index.html"
+ :url "/{{ file_slug }}")
 
 ;; route for static assets that also copies files to output directory
 (weblorg-route
