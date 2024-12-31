@@ -133,6 +133,20 @@ a:visited {
   background-color: var(--black);
 }
 
+/* style quotes */
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1em 10px;
+  padding: 0.5em 10px;
+
+}
+
+blockquote p {
+  display: inline;
+}
+
 /* Responsive adjustments */
 @media (min-width: 768px) {
   .project {
