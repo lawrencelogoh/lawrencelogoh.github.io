@@ -17,8 +17,8 @@
     <link>/</link>
     <description><![CDATA[]]></description>
     <language>en</language>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 31 Dec 2024 03:31:44 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jan 2025 01:49:15 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
     <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
@@ -27,6 +27,118 @@
       <link>/</link>
     </image>
 
+    
+    <item>
+      <title>2024 Review</title>
+      <link>/blog/2024-review.html</link>
+      <author>Lawrence Logoh</author>
+      <guid isPermaLink="false">/blog/2024-review.html</guid>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>
+The general plan this year was to get good. I made detailed plans that I
+followed to the best of my ability but unfortunately, I didn't reach
+most of my goals. I bit off more than I could chew.
+</p>
+
+<div id="outline-container-health" class="outline-2">
+<h2 id="health">Health</h2>
+<div class="outline-text-2">
+<p>
+I created a workout routine and made time for it.
+The problem was, I had to actually workout.
+I worked out sometimes but most of the time I didn't.
+Mentally, I'm doing better than I was last year.
+I'm less anxious and my baseline happiness is still high so I'm good on
+this front.
+</p>
+</div>
+</div>
+
+<div id="outline-container-productivity" class="outline-2">
+<h2 id="productivity">Productivity</h2>
+<div class="outline-text-2">
+<p>
+The goal was to create habits that will make me more productive.
+I definitely created habits.
+The problem was, I created too much.
+This led to me not following them at all in some cases.
+It's an improvement from last year but I could have been better.
+</p>
+</div>
+</div>
+
+<div id="outline-container-programming" class="outline-2">
+<h2 id="programming">Programming</h2>
+<div class="outline-text-2">
+<p>
+I feel like I got better at programming, but I don't have much to show
+for it.
+I don't remember how many personal projects I started but I didn't
+finish any of them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-money" class="outline-2">
+<h2 id="money">Money</h2>
+<div class="outline-text-2">
+<p>
+I made more money this year than I did last year.
+I didn't get to an average of $2000 a month but it's an improvement.
+One thing I decided halfway through the year was to stop talking about
+money.
+I've found that people get really weird when money comes up so for now
+I won't be talking about concrete numbers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-relationships" class="outline-2">
+<h2 id="relationships">Relationships</h2>
+<div class="outline-text-2">
+<p>
+I made some new friends this year and I put more effort into maintaining
+the relationships that I have.
+Still no dice in the romantic department but I'll keep trying.
+</p>
+</div>
+</div>
+
+<div id="outline-container-knowledge" class="outline-2">
+<h2 id="knowledge">Knowledge</h2>
+<div class="outline-text-2">
+<p>
+I learned a lot about a lot of different things. I also made some
+decisions on how I'm going to document some of these things.
+Most of them will go into my zettelkasten but for other things they will
+go into my Knowledge Management System.
+</p>
+</div>
+</div>
+
+<div id="outline-container-skills" class="outline-2">
+<h2 id="skills">Skills</h2>
+<div class="outline-text-2">
+<p>
+I tried to do too much here and I've learned my lesson.
+I'm going to take it one at a time from now on.
+</p>
+</div>
+</div>
+
+<div id="outline-container-conclusion" class="outline-2">
+<h2 id="conclusion">Conclusion</h2>
+<div class="outline-text-2">
+<p>
+This was a good year.
+I didn't do everything I wanted to but I've learned a lot about myself
+and I'm going to try to work with what I have instead of trying to
+brute force everything.
+</p>
+</div>
+</div>
+]]></description>
+    </item>
     
     <item>
       <title>Plans for 2024</title>
