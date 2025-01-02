@@ -86,7 +86,7 @@ current income.
 
 ** Actions
 *** DOING Create client acquisition habit in LMS
-*** TODO Start a consulting business
+*** TODO Start a service business
 I've mostly been using platforms like Fiverr and Upwork but I think it's
 time to start a business proper.
 *** TODO Get a salary increase
