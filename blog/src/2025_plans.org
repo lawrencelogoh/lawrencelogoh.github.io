@@ -20,11 +20,10 @@ finish more things.
 This time, I will share the actions for each section.
 
 * Health
-My weight is the main problem here so the main thing I will be focusing
+My weight is the main problem here, so the main thing I will be focusing
 on this year is my diet and eating habits. Exercise will be a secondary
-focus and I'm sure it'll help a little bit as well. The reason
-I'm including exercise is that it makes me feel good and it seems to
-help with my mental state.
+focus and I'm sure it'll also help a bit. The main reason I'm including
+exercise is that it makes me feel good.
 
 ** Actions
 *** DOING Document current diet
@@ -33,7 +32,7 @@ help with my mental state.
 *** TODO Create spreadsheet to track weight
 
 * Productivity
-I've always known willpower was finite but I acted as if mine wasn't.
+I've always known that willpower is finite but I acted as if mine wasn't.
 Limiting the things I do within a day has been helpful so I'm going to
 keep doing that.
 The main thing I will be focusing on here is finishing personal
