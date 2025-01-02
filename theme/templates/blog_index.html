@@ -3,17 +3,22 @@
 Lawrence Logoh's Blog
 {% endblock %}
 {% block body %}
-<ul>
-{% for post in posts %}
+<article>
 
-<li>
+{% for post in posts %}
+<p class="post">
   <span class="date">
-	  {% if post.date is defined %}
-      {{ post.date|strftime("%b %d, %Y") }} &mdash;
+    {% if post.date is defined %}
+      {{ post.date|strftime("%b %d, %Y") }}
     {% endif %}
-	</span> <a href={{ url_for("blog", slug=post.slug) }}>{{ post.title }}</a>
-</li>
+  </span><br>
+  <a href={{ url_for("blog", slug=post.slug) }}>{{ post.title }}</a>
+</p>
+
+
 
 {% endfor %}
-</ul>
+
+
+</article>
 {% endblock %}
