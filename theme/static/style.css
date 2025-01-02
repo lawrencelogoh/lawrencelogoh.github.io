@@ -22,7 +22,16 @@ body {
 
 h1, h2, h3 {
   font-family: "Bebas Neue", Helvetica;
+
+}
+
+h1, h2{
   padding-top: 1.5rem;
+  
+}
+
+h3{
+  font-size: 1.25em;
 }
 
 article {
@@ -30,7 +39,7 @@ article {
 }
 
 p {
-  padding-top: 1.5rem;
+  padding-bottom: 0.5em;
 }
 
 ul {
@@ -144,7 +153,16 @@ blockquote {
 }
 
 blockquote p {
-  display: inline;
+  display: inline-block;
+  
+}
+
+blockquote p:first-child{
+  padding-bottom: 0.5em;
+}
+
+blockquote p:last-child{
+  padding-bottom: 0;
 }
 
 /* Responsive adjustments */

@@ -1,0 +1,118 @@
+#+TITLE: Plans for 2025
+#+DATE: 2025-01-01
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+#+begin_quote
+He is a genius, a philosopher, an abstract thinker. He has a brain of
+the first order. He sits motionless, like a spider in the center of its
+web, but that web has a thousand radiations, and he knows well every
+quiver of each of them. He does little himself. He only plans.
+
+/-- Arthur Conan Doyle, The Memoirs of Sherlock Holmes/
+#+end_quote
+
+
+The general idea this year is to make and do things.
+I plan a lot but I end up finishing very little. 
+As such, I've decided to reduce the amount of things I do so that I can
+finish more things.
+This time, I will share the actions for each section.
+
+* Health
+My weight is the main problem here so the main thing I will be focusing
+on this year is my diet and eating habits. Exercise will be a secondary
+focus and I'm sure it'll help a little bit as well. The reason
+I'm including exercise is that it makes me feel good and it seems to
+help with my mental state.
+
+** Actions
+*** DOING Document current diet
+*** TODO Make improvements to current diet
+*** TODO Create exercise habit in Life Management System(LMS)
+*** TODO Create spreadsheet to track weight
+
+* Productivity
+I've always known willpower was finite but I acted as if mine wasn't.
+Limiting the things I do within a day has been helpful so I'm going to
+keep doing that.
+The main thing I will be focusing on here is finishing personal
+projects. 
+Last year I started more than twenty personal projects but I finished
+maybe two. 
+I'm going to try to not start any more personal projects and finish some
+of the current projects instead.
+
+** Actions
+*** DOING Finish three personal projects
+*** TODO Build three digital products
+
+* Programming
+I spent a lot of time programming last year.
+Most of it was not focused practice or learning though, I was just
+trying to get things to work.
+I learned new programming languages but I'm still not good at any of
+them.
+I started learning OCaml for advent of code so I'll still keep learning
+that but I won't be learning any new programming languages this year.
+
+** Actions
+*** DOING Create leetcode habit in LMS
+*** TODO Finish programming boost
+The programming boost is a project I created to "get good" at the
+programming languages I already know and DSA
+*** TODO Finish [[https://threejs-journey.com/][ThreeJS Journey]] course
+*** TODO Read [[https://interpreterbook.com/][Writing An Interpreter In Go]]
+
+* Relationships
+I was a bit more proactive in my relationships last year.
+This was a big improvement from previous years.
+This year I want to spend more time with people I care about.
+There are a lot of cool people I know that I want to be closer to but I
+didn't make time for them.
+On the romantic side, I wasn't as proactive as I could've been so I'm
+going to do that this year.
+
+** Actions
+*** DOING Go out with friends at least ten times
+*** TODO Ask at most ten girls out on a date
+The goal is to get a girlfriend but I do not want to go on a date with
+more than ten people.
+
+* Money
+Like I said in [[https://lawrencelogoh.com/blog/2024-review.html][my 2024 review]], people are weird about money so I'm not
+going to talk about concrete amounts. The overall goal is to double my
+current income.
+
+** Actions
+*** DOING Create client acquisition habit in LMS
+*** TODO Start a consulting business
+I've mostly been using platforms like Fiverr and Upwork but I think it's
+time to start a business proper.
+*** TODO Get a salary increase
+
+* Other skills
+Last year the goal was to focus on Graphic Design and UI/UX Design.
+I ended up doing too many things instead.
+This year I'll be focusing on UI/UX Design and playing guitar.
+
+** Actions
+*** DOING Create UI/UX Design learning habit in LMS
+*** TODO Create Guitar learning habit in LMS
+*** TODO Finish three design projects
+*** TODO Learn how to play three pieces
+
+* Conclusion
+This list seems more doable than what I had last year. I also made the
+mistake of adding some goals to my plans but because they weren't very
+actionable I didn't /do/ anything.
+
+
+There are other things I want to do but they don't fit properly into any
+of the categories and some are a bit sensitive so I'll keep those to
+myself.
+If I end up doing them, I will post about it on [[https://x.com/lawrencelogoh][my Twitter]] and/or
+[[https://instagram.com/larrylogoh][Instagram]].
+
+
+Happy New Year.

@@ -5,12 +5,13 @@
 
 The plan this year is to get good.
 I'm okay at a few things, but I need to get really good.
-I will write a detailed list of actions I will need to do to make this year a success but I'm not sure if I'll release it publicly or not.
+I will write a detailed list of actions I will need to do to make this
+year a success but I'm not sure if I'll release it publicly or not. 
 We'll see.
 
 * Health
 This is going to be one of my main priorities this year.
-The goal here is to lose weight and get in shape.
+The goal here is to lose weight and get in shape. 
 
 #+BEGIN_QUOTE
 A healthy mind resides in a healthy body 
