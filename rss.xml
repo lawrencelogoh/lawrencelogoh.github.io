@@ -18,7 +18,7 @@
     <description><![CDATA[]]></description>
     <language>en</language>
     <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Thu, 02 Jan 2025 08:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 02:51:19 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
     <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
@@ -71,21 +71,20 @@ exercise is that it makes me feel good.
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
+<div id="outline-container-create-exercise-habit-in-life-management-system-lms" class="outline-4">
+<h4 id="create-exercise-habit-in-life-management-system-lms"><span class="done DONE">DONE</span> Create exercise habit in Life Management System(LMS)</h4>
+</div>
+<div id="outline-container-create-spreadsheet-to-track-weight" class="outline-4">
+<h4 id="create-spreadsheet-to-track-weight"><span class="done DONE">DONE</span> Create spreadsheet to track weight</h4>
+</div>
 <div id="outline-container-doing-document-current-diet" class="outline-4">
 <h4 id="doing-document-current-diet">DOING Document current diet</h4>
 </div>
 <div id="outline-container-make-improvements-to-current-diet" class="outline-4">
 <h4 id="make-improvements-to-current-diet"><span class="todo TODO">TODO</span> Make improvements to current diet</h4>
 </div>
-<div id="outline-container-create-exercise-habit-in-life-management-system-lms" class="outline-4">
-<h4 id="create-exercise-habit-in-life-management-system-lms"><span class="todo TODO">TODO</span> Create exercise habit in Life Management System(LMS)</h4>
-</div>
-<div id="outline-container-create-spreadsheet-to-track-weight" class="outline-4">
-<h4 id="create-spreadsheet-to-track-weight"><span class="todo TODO">TODO</span> Create spreadsheet to track weight</h4>
 </div>
 </div>
-</div>
-
 <div id="outline-container-productivity" class="outline-2">
 <h2 id="productivity">Productivity</h2>
 <div class="outline-text-2">
@@ -133,11 +132,11 @@ that but I won't be learning any new programming languages this year.
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
-<div id="outline-container-doing-create-leetcode-habit-in-lms" class="outline-4">
-<h4 id="doing-create-leetcode-habit-in-lms">DOING Create leetcode habit in LMS</h4>
+<div id="outline-container-create-leetcode-habit-in-lms" class="outline-4">
+<h4 id="create-leetcode-habit-in-lms"><span class="done DONE">DONE</span> Create leetcode habit in LMS</h4>
 </div>
-<div id="outline-container-finish-programming-boost" class="outline-4">
-<h4 id="finish-programming-boost"><span class="todo TODO">TODO</span> Finish programming boost</h4>
+<div id="outline-container-doing-finish-programming-boost" class="outline-4">
+<h4 id="doing-finish-programming-boost">DOING Finish programming boost</h4>
 <div class="outline-text-4">
 <p>
 The programming boost is a project I created to "get good" at the
@@ -201,11 +200,11 @@ current income.
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
-<div id="outline-container-doing-create-client-acquisition-habit-in-lms" class="outline-4">
-<h4 id="doing-create-client-acquisition-habit-in-lms">DOING Create client acquisition habit in LMS</h4>
+<div id="outline-container-create-client-acquisition-habit-in-lms" class="outline-4">
+<h4 id="create-client-acquisition-habit-in-lms"><span class="done DONE">DONE</span> Create client acquisition habit in LMS</h4>
 </div>
-<div id="outline-container-start-a-service-business" class="outline-4">
-<h4 id="start-a-service-business"><span class="todo TODO">TODO</span> Start a service business</h4>
+<div id="outline-container-doing-start-a-service-business" class="outline-4">
+<h4 id="doing-start-a-service-business">DOING Start a service business</h4>
 <div class="outline-text-4">
 <p>
 I've mostly been using platforms like Fiverr and Upwork but I think it's
@@ -233,14 +232,14 @@ This year I'll be focusing on UI/UX Design and playing guitar.
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
-<div id="outline-container-doing-create-ui-ux-design-learning-habit-in-lms" class="outline-4">
-<h4 id="doing-create-ui-ux-design-learning-habit-in-lms">DOING Create UI/UX Design learning habit in LMS</h4>
+<div id="outline-container-create-ui-ux-design-learning-habit-in-lms" class="outline-4">
+<h4 id="create-ui-ux-design-learning-habit-in-lms"><span class="done DONE">DONE</span> Create UI/UX Design learning habit in LMS</h4>
 </div>
-<div id="outline-container-create-guitar-learning-habit-in-lms" class="outline-4">
-<h4 id="create-guitar-learning-habit-in-lms"><span class="todo TODO">TODO</span> Create Guitar learning habit in LMS</h4>
+<div id="outline-container-create-classical-guitar-learning-habit-in-lms" class="outline-4">
+<h4 id="create-classical-guitar-learning-habit-in-lms"><span class="done DONE">DONE</span> Create classical guitar learning habit in LMS</h4>
 </div>
-<div id="outline-container-finish-three-design-projects" class="outline-4">
-<h4 id="finish-three-design-projects"><span class="todo TODO">TODO</span> Finish three design projects</h4>
+<div id="outline-container-doing-finish-three-design-projects" class="outline-4">
+<h4 id="doing-finish-three-design-projects">DOING Finish three design projects</h4>
 </div>
 <div id="outline-container-learn-how-to-play-three-pieces" class="outline-4">
 <h4 id="learn-how-to-play-three-pieces"><span class="todo TODO">TODO</span> Learn how to play three pieces</h4>

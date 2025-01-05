@@ -26,11 +26,10 @@ focus and I'm sure it'll also help a bit. The main reason I'm including
 exercise is that it makes me feel good.
 
 ** Actions
+*** DONE Create exercise habit in Life Management System(LMS)
+*** DONE Create spreadsheet to track weight
 *** DOING Document current diet
 *** TODO Make improvements to current diet
-*** TODO Create exercise habit in Life Management System(LMS)
-*** TODO Create spreadsheet to track weight
-
 * Productivity
 I've always known that willpower is finite but I acted as if mine wasn't.
 Limiting the things I do within a day has been helpful so I'm going to
@@ -56,8 +55,8 @@ I started learning OCaml for advent of code so I'll still keep learning
 that but I won't be learning any new programming languages this year.
 
 ** Actions
-*** DOING Create leetcode habit in LMS
-*** TODO Finish programming boost
+*** DONE Create leetcode habit in LMS
+*** DOING Finish programming boost
 The programming boost is a project I created to "get good" at the
 programming languages I already know and DSA
 *** TODO Finish [[https://threejs-journey.com/][ThreeJS Journey]] course
@@ -84,8 +83,8 @@ going to talk about concrete amounts. The overall goal is to double my
 current income.
 
 ** Actions
-*** DOING Create client acquisition habit in LMS
-*** TODO Start a service business
+*** DONE Create client acquisition habit in LMS
+*** DOING Start a service business
 I've mostly been using platforms like Fiverr and Upwork but I think it's
 time to start a business proper.
 *** TODO Get a salary increase
@@ -96,9 +95,9 @@ I ended up doing too many things instead.
 This year I'll be focusing on UI/UX Design and playing guitar.
 
 ** Actions
-*** DOING Create UI/UX Design learning habit in LMS
-*** TODO Create Guitar learning habit in LMS
-*** TODO Finish three design projects
+*** DONE Create UI/UX Design learning habit in LMS
+*** DONE Create classical guitar learning habit in LMS
+*** DOING Finish three design projects
 *** TODO Learn how to play three pieces
 
 * Conclusion
