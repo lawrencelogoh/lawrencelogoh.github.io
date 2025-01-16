@@ -28,8 +28,7 @@ exercise is that it makes me feel good.
 ** Actions
 *** DONE Create exercise habit in Life Management System(LMS)
 *** DONE Create spreadsheet to track weight
-*** DOING Document current diet
-*** TODO Make improvements to current diet
+*** DONE Start "weight loss" project
 * Productivity
 I've always known that willpower is finite but I acted as if mine wasn't.
 Limiting the things I do within a day has been helpful so I'm going to
@@ -44,7 +43,6 @@ of the current projects instead.
 ** Actions
 *** DOING Finish three personal projects
 *** TODO Build three digital products
-
 * Programming
 I spent a lot of time programming last year.
 Most of it was not focused practice or learning though, I was just
@@ -72,7 +70,7 @@ On the romantic side, I wasn't as proactive as I could've been so I'm
 going to do that this year.
 
 ** Actions
-*** DOING Go out with friends at least ten times
+*** DOING Go out with friends at least ten times [0/10]
 *** TODO Ask at most ten girls out on a date
 The goal is to get a girlfriend but I do not want to go on a date with
 more than ten people.
@@ -84,11 +82,10 @@ current income.
 
 ** Actions
 *** DONE Create client acquisition habit in LMS
-*** DOING Start a service business
+*** DOING Start a business
 I've mostly been using platforms like Fiverr and Upwork but I think it's
 time to start a business proper.
 *** TODO Get a salary increase
-
 * Other skills
 Last year the goal was to focus on Graphic Design and UI/UX Design.
 I ended up doing too many things instead.
