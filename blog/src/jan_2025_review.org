@@ -1,0 +1,92 @@
+#+TITLE: January 2025 Review
+#+DATE: 2025-02-03
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+
+This was a decent month.
+In general, things went better than I expected but it could have been better.
+I gained weight, which I don't like but I don't want to be too quick to
+judge since I have been exercising.
+My mental health on the other hand is great.
+My productivity still needs some work and I have made zero progress on
+the relationships end.
+My income has increased but I have made no progress in my other skills.
+I can only hope things will go the same or better next month.
+
+* Health
+According to my spreadsheet I have gained 0.6KG.
+Not good.
+My diet hasn't been the best so I think I will have to make more
+aggressive changes.
+I have exercised consistently since 05/01/2025. On some days, I really
+did not feel like exercising but I did it anyway.
+I'm surprised I haven't missed a day since I started.
+My mental health has been fine.
+It was hard to get through some days but usually after a few days, I
+felt good again.
+
+** Actions progress
+*** DONE Create exercise habit in Life Management System(LMS)
+*** DONE Create meditation habit in Life Management System(LMS)
+*** DONE Create spreadsheet to track weight
+*** DONE Start "weight loss" project
+
+* Productivity
+The plan was to focus on personal projects but life happens.
+This month I've had more work than I know what to do with.
+So my main focus has been client work and my job.
+I am productive but I've noticed there's a lot of wasted time.
+One of the things I'm going to be doing is trying to notice in the
+moment and get back to work.
+
+** Actions progress
+*** DOING Finish three personal projects [0/3]
+*** TODO Build three digital products
+* Programming
+I started strong in the first week but I feel off the wagon around week
+three and never got back on. 
+I could blame it on the fact that I have more work to do but that would
+just be an excuse.
+I could have made time and I will.
+** Actions
+*** DONE Create leetcode habit in LMS
+*** DOING Finish [[https://threejs-journey.com/][ThreeJS Journey]] course
+*** TODO Finish programming boost
+The programming boost is a project I created to "get good" at the
+programming languages I already know and DSA
+*** TODO Read [[https://interpreterbook.com/][Writing An Interpreter In Go]]
+
+* Relationships
+I have made zero progress here.
+** Actions
+*** DOING Go out with friends at least ten times [0/10]
+*** TODO Ask at most ten girls out on a date
+The goal is to get a girlfriend but I do not want to go on a date with
+more than ten people.
+* Money
+The main goal here was to double my income and I'm happy to say that I'm
+more than halfway there. I got a raise at work which helped a lot so now
+all I have to do is to increase my other income sources and I should be
+good.
+On starting a business, I'm not sure how I feel about this now because
+multiple people are trying to start a business with me and I'm not sure
+if it counts if I don't own all of the business.
+I'll think more about that and report next month.
+** Actions
+*** DONE Create client acquisition habit in LMS
+*** DONE Get a salary increase
+*** DOING Start a business
+I've mostly been using platforms like Fiverr and Upwork but I think it's
+time to start a business proper.
+* Other skills
+I learned some guitar but I fell off after week two and I haven't
+touched my guitar since.
+On the UI/UX side I have learned nothing.
+I'll try again this month, but if it doesn't work I might have to pick
+just one to focus on.
+** Actions
+*** DONE Create UI/UX Design learning habit in LMS
+*** DONE Create Guitar learning habit in LMS
+*** DOING Finish three design projects
+*** TODO Learn how to play three classical guitar pieces
