@@ -49,21 +49,17 @@ three and never got back on.
 I could blame it on the fact that I have more work to do but that would
 just be an excuse.
 I could have made time and I will.
-** Actions
+** Actions progress
 *** DONE Create leetcode habit in LMS
 *** DOING Finish [[https://threejs-journey.com/][ThreeJS Journey]] course
 *** TODO Finish programming boost
-The programming boost is a project I created to "get good" at the
-programming languages I already know and DSA
 *** TODO Read [[https://interpreterbook.com/][Writing An Interpreter In Go]]
 
 * Relationships
 I have made zero progress here.
-** Actions
+** Actions progress
 *** DOING Go out with friends at least ten times [0/10]
 *** TODO Ask at most ten girls out on a date
-The goal is to get a girlfriend but I do not want to go on a date with
-more than ten people.
 * Money
 The main goal here was to double my income and I'm happy to say that I'm
 more than halfway there. I got a raise at work which helped a lot so now
@@ -73,19 +69,17 @@ On starting a business, I'm not sure how I feel about this now because
 multiple people are trying to start a business with me and I'm not sure
 if it counts if I don't own all of the business.
 I'll think more about that and report next month.
-** Actions
+** Actions progress
 *** DONE Create client acquisition habit in LMS
 *** DONE Get a salary increase
 *** DOING Start a business
-I've mostly been using platforms like Fiverr and Upwork but I think it's
-time to start a business proper.
 * Other skills
 I learned some guitar but I fell off after week two and I haven't
 touched my guitar since.
 On the UI/UX side I have learned nothing.
 I'll try again this month, but if it doesn't work I might have to pick
 just one to focus on.
-** Actions
+** Actions progress
 *** DONE Create UI/UX Design learning habit in LMS
 *** DONE Create Guitar learning habit in LMS
 *** DOING Finish three design projects
