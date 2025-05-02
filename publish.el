@@ -13,12 +13,12 @@
 (setq weblorg-default-url "")
 
 ;; route for rendering the homepage
-(weblorg-route
- :name "index"
- :input-pattern "src/index.org"
- :template "blog_post.html"
- :output "index.html"
- :url "/")
+;; (weblorg-route
+;;  :name "index"
+;;  :input-pattern "src/index.org"
+;;  :template "blog_post.html"
+;;  :output "index.html"
+;;  :url "/")
 
 ;; route for rendering each post
 (weblorg-route

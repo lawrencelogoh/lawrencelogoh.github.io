@@ -14,19 +14,171 @@
     <atom:link
       href="/rss.xml"
       rel="self" type="application/rss+xml" />
-    <link>/</link>
+    <link></link>
     <description><![CDATA[]]></description>
     <language>en</language>
-    <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Mar 2025 00:06:10 +0000</lastBuildDate>
+    <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 02 May 2025 00:26:01 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
     <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
-      <url>/media/img/8bitme.png</url>
+      <url>media/img/8bitme.png</url>
       <title>Blog Author</title>
-      <link>/</link>
+      <link></link>
     </image>
 
+    
+    <item>
+      <title>April 2025 Review</title>
+      <link>/blog/april-2025-review.html</link>
+      <author>Lawrence Logoh</author>
+      <guid isPermaLink="false">/blog/april-2025-review.html</guid>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>
+This was an okay month.
+Unfortunately I haven't made much progress on my goals since February.
+I have my reasons but I don't want to go into it too much.
+I talk a bit about it in the productivity section though.
+For those same reasons, there's no March review.
+I'm fully back now so May should be a good month.
+</p>
+<div id="outline-container-health" class="outline-2">
+<h2 id="health">Health</h2>
+<div class="outline-text-2">
+<p>
+According to my spreadsheet I have gained 0.9KG.
+I'm not happy with this but clearly I can't be doing what I've been
+doing.
+I am already exercising so I'll be doing a full overhaul of my diet instead.
+My current diet is a combination of food from my mother's restaurant and
+food I order from other restaurants I like.
+I'll be dusting off my recipe book and start cooking for myself more.
+Mentally, I am better.
+I'm more relaxed and happier in general and I intend to keep it that
+way.
+</p>
+</div>
+</div>
+<div id="outline-container-productivity" class="outline-2">
+<h2 id="productivity">Productivity</h2>
+<div class="outline-text-2">
+<p>
+I was productive in the sense that I did a lot of things.
+Most of it was client work but I'm done with most of that now.
+I had a negative experience with a client and I've learned a lot from
+it.
+So I won't be taking any client work until I've documented what I
+learned and incorporate it into how I will handle future clients.
+In terms of my actions below, I was 0% productive.
+That will change this month.
+</p>
+</div>
+<div id="outline-container-actions-progress" class="outline-3">
+<h3 id="actions-progress">Actions progress</h3>
+<div class="outline-text-3" id="text-actions-progress">
+</div>
+<div id="outline-container-doing-finish-three-personal-projects-0-3" class="outline-4">
+<h4 id="doing-finish-three-personal-projects-0-3">DOING Finish three personal projects <code>[0/3]</code></h4>
+</div>
+<div id="outline-container-build-three-digital-products" class="outline-4">
+<h4 id="build-three-digital-products"><span class="todo TODO">TODO</span> Build three digital products</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-programming" class="outline-2">
+<h2 id="programming">Programming</h2>
+<div class="outline-text-2">
+<p>
+I made zero progress here.
+</p>
+</div>
+<div id="outline-container-actions-progress" class="outline-3">
+<h3 id="actions-progress">Actions progress</h3>
+<div class="outline-text-3" id="text-actions-progress">
+</div>
+<div id="outline-container-create-leetcode-habit-in-lms" class="outline-4">
+<h4 id="create-leetcode-habit-in-lms"><span class="done DONE">DONE</span> Create leetcode habit in LMS</h4>
+</div>
+<div id="outline-container-doing-finish-https-threejs-journey-com-threejs-journey-course" class="outline-4">
+<h4 id="doing-finish-https-threejs-journey-com-threejs-journey-course">DOING Finish <a href="https://threejs-journey.com/">ThreeJS Journey</a> course</h4>
+</div>
+<div id="outline-container-finish-programming-boost" class="outline-4">
+<h4 id="finish-programming-boost"><span class="todo TODO">TODO</span> Finish programming boost</h4>
+</div>
+<div id="outline-container-read-https-interpreterbook-com-writing-an-interpreter-in-go" class="outline-4">
+<h4 id="read-https-interpreterbook-com-writing-an-interpreter-in-go"><span class="todo TODO">TODO</span> Read <a href="https://interpreterbook.com/">Writing An Interpreter In Go</a></h4>
+</div>
+</div>
+</div>
+<div id="outline-container-relationships" class="outline-2">
+<h2 id="relationships">Relationships</h2>
+<div class="outline-text-2">
+<p>
+I went out with a friend to a restaurant we wanted to try.
+I had fun.
+</p>
+</div>
+<div id="outline-container-actions-progress" class="outline-3">
+<h3 id="actions-progress">Actions progress</h3>
+<div class="outline-text-3" id="text-actions-progress">
+</div>
+<div id="outline-container-doing-go-out-with-friends-at-least-ten-times-1-10" class="outline-4">
+<h4 id="doing-go-out-with-friends-at-least-ten-times-1-10">DOING Go out with friends at least ten times <code>[1/10]</code></h4>
+</div>
+<div id="outline-container-ask-at-most-ten-girls-out-on-a-date-0-10" class="outline-4">
+<h4 id="ask-at-most-ten-girls-out-on-a-date-0-10"><span class="todo TODO">TODO</span> Ask at most ten girls out on a date <code>[0/10]</code></h4>
+</div>
+</div>
+</div>
+<div id="outline-container-money" class="outline-2">
+<h2 id="money">Money</h2>
+<div class="outline-text-2">
+<p>
+I haven't started my own business yet.
+</p>
+</div>
+<div id="outline-container-actions-progress" class="outline-3">
+<h3 id="actions-progress">Actions progress</h3>
+<div class="outline-text-3" id="text-actions-progress">
+</div>
+<div id="outline-container-create-client-acquisition-habit-in-lms" class="outline-4">
+<h4 id="create-client-acquisition-habit-in-lms"><span class="done DONE">DONE</span> Create client acquisition habit in LMS</h4>
+</div>
+<div id="outline-container-get-a-salary-increase" class="outline-4">
+<h4 id="get-a-salary-increase"><span class="done DONE">DONE</span> Get a salary increase</h4>
+</div>
+<div id="outline-container-doing-start-a-business" class="outline-4">
+<h4 id="doing-start-a-business">DOING Start a business</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-other-skills" class="outline-2">
+<h2 id="other-skills">Other skills</h2>
+<div class="outline-text-2">
+<p>
+I have made zero progress here.
+</p>
+</div>
+<div id="outline-container-actions" class="outline-3">
+<h3 id="actions">Actions</h3>
+<div class="outline-text-3" id="text-actions">
+</div>
+<div id="outline-container-create-ui-ux-design-learning-habit-in-lms" class="outline-4">
+<h4 id="create-ui-ux-design-learning-habit-in-lms"><span class="done DONE">DONE</span> Create UI/UX Design learning habit in LMS</h4>
+</div>
+<div id="outline-container-create-guitar-learning-habit-in-lms" class="outline-4">
+<h4 id="create-guitar-learning-habit-in-lms"><span class="done DONE">DONE</span> Create Guitar learning habit in LMS</h4>
+</div>
+<div id="outline-container-doing-finish-three-design-projects-0-3" class="outline-4">
+<h4 id="doing-finish-three-design-projects-0-3">DOING Finish three design projects <code>[0/3]</code></h4>
+</div>
+<div id="outline-container-learn-how-to-play-three-classical-guitar-pieces" class="outline-4">
+<h4 id="learn-how-to-play-three-classical-guitar-pieces"><span class="todo TODO">TODO</span> Learn how to play three classical guitar pieces</h4>
+</div>
+</div>
+</div>
+]]></description>
+    </item>
     
     <item>
       <title>February 2025 Review</title>
@@ -41,7 +193,6 @@ I was overwhelmed and my sleep was poor.
 Understandably, my productivity and habits suffered.
 As did my physical and mental health.
 </p>
-
 <div id="outline-container-health" class="outline-2">
 <h2 id="health">Health</h2>
 <div class="outline-text-2">
@@ -54,7 +205,6 @@ On the bright side, I can do pushups now.
 </p>
 </div>
 </div>
-
 <div id="outline-container-productivity" class="outline-2">
 <h2 id="productivity">Productivity</h2>
 <div class="outline-text-2">
@@ -130,7 +280,7 @@ I have made zero progress here, again.
 <h2 id="money">Money</h2>
 <div class="outline-text-2">
 <p>
-I've thought about and I think I'm just going to start my own business.
+I've thought about it and I think I'm just going to start my own business.
 I liked the ideas of the others and I may still work with them but it
 just didn't feel like "mine". So I'll start my own business and see how
 it goes.
@@ -196,7 +346,6 @@ the relationships end.
 My income has increased but I have made no progress in my other skills.
 I can only hope things will go the same or better next month.
 </p>
-
 <div id="outline-container-health" class="outline-2">
 <h2 id="health">Health</h2>
 <div class="outline-text-2">
@@ -213,7 +362,6 @@ It was hard to get through some days but usually after a few days, I
 felt good again.
 </p>
 </div>
-
 <div id="outline-container-actions-progress" class="outline-3">
 <h3 id="actions-progress">Actions progress</h3>
 <div class="outline-text-3" id="text-actions-progress">
@@ -232,7 +380,6 @@ felt good again.
 </div>
 </div>
 </div>
-
 <div id="outline-container-productivity" class="outline-2">
 <h2 id="productivity">Productivity</h2>
 <div class="outline-text-2">
@@ -245,7 +392,6 @@ One of the things I'm going to be doing is trying to notice in the
 moment and get back to work.
 </p>
 </div>
-
 <div id="outline-container-actions-progress" class="outline-3">
 <h3 id="actions-progress">Actions progress</h3>
 <div class="outline-text-3" id="text-actions-progress">
@@ -287,7 +433,6 @@ I could have made time and I will.
 </div>
 </div>
 </div>
-
 <div id="outline-container-relationships" class="outline-2">
 <h2 id="relationships">Relationships</h2>
 <div class="outline-text-2">
@@ -395,7 +540,6 @@ As such, I've decided to reduce the amount of things I do so that I can
 finish more things.
 This time, I will share the actions for each section.
 </p>
-
 <div id="outline-container-health" class="outline-2">
 <h2 id="health">Health</h2>
 <div class="outline-text-2">
@@ -406,7 +550,6 @@ focus and I'm sure it'll also help a bit. The main reason I'm including
 exercise is that it makes me feel good.
 </p>
 </div>
-
 <div id="outline-container-actions" class="outline-3">
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
@@ -437,7 +580,6 @@ I'm going to try to not start any more personal projects and finish some
 of the current projects instead.
 </p>
 </div>
-
 <div id="outline-container-actions" class="outline-3">
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
@@ -463,7 +605,6 @@ I started learning OCaml for advent of code so I'll still keep learning
 that but I won't be learning any new programming languages this year.
 </p>
 </div>
-
 <div id="outline-container-actions" class="outline-3">
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
@@ -488,7 +629,6 @@ programming languages I already know and DSA
 </div>
 </div>
 </div>
-
 <div id="outline-container-relationships" class="outline-2">
 <h2 id="relationships">Relationships</h2>
 <div class="outline-text-2">
@@ -502,7 +642,6 @@ On the romantic side, I wasn't as proactive as I could've been so I'm
 going to do that this year.
 </p>
 </div>
-
 <div id="outline-container-actions" class="outline-3">
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
@@ -521,7 +660,6 @@ more than ten people.
 </div>
 </div>
 </div>
-
 <div id="outline-container-money" class="outline-2">
 <h2 id="money">Money</h2>
 <div class="outline-text-2">
@@ -531,7 +669,6 @@ going to talk about concrete amounts. The overall goal is to double my
 current income.
 </p>
 </div>
-
 <div id="outline-container-actions" class="outline-3">
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
@@ -562,7 +699,6 @@ I ended up doing too many things instead.
 This year I'll be focusing on UI/UX Design and playing guitar.
 </p>
 </div>
-
 <div id="outline-container-actions" class="outline-3">
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
@@ -581,7 +717,6 @@ This year I'll be focusing on UI/UX Design and playing guitar.
 </div>
 </div>
 </div>
-
 <div id="outline-container-conclusion" class="outline-2">
 <h2 id="conclusion">Conclusion</h2>
 <div class="outline-text-2">
@@ -620,7 +755,6 @@ The general plan this year was to get good. I made detailed plans that I
 followed to the best of my ability but unfortunately, I didn't reach
 most of my goals. I bit off more than I could chew.
 </p>
-
 <div id="outline-container-health" class="outline-2">
 <h2 id="health">Health</h2>
 <div class="outline-text-2">
@@ -634,7 +768,6 @@ this front.
 </p>
 </div>
 </div>
-
 <div id="outline-container-productivity" class="outline-2">
 <h2 id="productivity">Productivity</h2>
 <div class="outline-text-2">
@@ -647,7 +780,6 @@ It's an improvement from last year but I could have been better.
 </p>
 </div>
 </div>
-
 <div id="outline-container-programming" class="outline-2">
 <h2 id="programming">Programming</h2>
 <div class="outline-text-2">
@@ -659,7 +791,6 @@ finish any of them.
 </p>
 </div>
 </div>
-
 <div id="outline-container-money" class="outline-2">
 <h2 id="money">Money</h2>
 <div class="outline-text-2">
@@ -673,7 +804,6 @@ I won't be talking about concrete numbers.
 </p>
 </div>
 </div>
-
 <div id="outline-container-relationships" class="outline-2">
 <h2 id="relationships">Relationships</h2>
 <div class="outline-text-2">
@@ -684,7 +814,6 @@ Still no dice in the romantic department but I'll keep trying.
 </p>
 </div>
 </div>
-
 <div id="outline-container-knowledge" class="outline-2">
 <h2 id="knowledge">Knowledge</h2>
 <div class="outline-text-2">
@@ -696,7 +825,6 @@ go into my Knowledge Management System.
 </p>
 </div>
 </div>
-
 <div id="outline-container-skills" class="outline-2">
 <h2 id="skills">Skills</h2>
 <div class="outline-text-2">
@@ -707,7 +835,6 @@ I'm going to take it one at a time from now on.
 </p>
 </div>
 </div>
-
 <div id="outline-container-conclusion" class="outline-2">
 <h2 id="conclusion">Conclusion</h2>
 <div class="outline-text-2">
@@ -735,7 +862,6 @@ I will write a detailed list of actions I will need to do to make this
 year a success but I'm not sure if I'll release it publicly or not. 
 We'll see.
 </p>
-
 <div id="outline-container-health" class="outline-2">
 <h2 id="health">Health</h2>
 <div class="outline-text-2">
@@ -757,7 +883,6 @@ This doesn't mean I will be neglecting it but it won't be a high priority.
 </p>
 </div>
 </div>
-
 <div id="outline-container-productivity" class="outline-2">
 <h2 id="productivity">Productivity</h2>
 <div class="outline-text-2">
@@ -767,7 +892,6 @@ The focus now is to be to build habits that will help me be more productive.
 </p>
 </div>
 </div>
-
 <div id="outline-container-relationships" class="outline-2">
 <h2 id="relationships">Relationships</h2>
 <div class="outline-text-2">
@@ -778,7 +902,6 @@ Yes, this applies to romantic relationships as well.
 </p>
 </div>
 </div>
-
 <div id="outline-container-programming" class="outline-2">
 <h2 id="programming">Programming</h2>
 <div class="outline-text-2">
@@ -788,7 +911,6 @@ I'm still going to be learning but I'll be writing a lot of <del>bad</del> softw
 </p>
 </div>
 </div>
-
 <div id="outline-container-money" class="outline-2">
 <h2 id="money">Money</h2>
 <div class="outline-text-2">
@@ -797,7 +919,6 @@ The goal is the same as last year $2000/month.
 </p>
 </div>
 </div>
-
 <div id="outline-container-other-skills" class="outline-2">
 <h2 id="other-skills">Other skills</h2>
 <div class="outline-text-2">
@@ -823,7 +944,6 @@ Happy New Year.
       <description><![CDATA[<p>
 The plan this year was to play to my strengths and work on my weaknesses. I ended up doing both very poorly.
 </p>
-
 <div id="outline-container-productivity" class="outline-2">
 <h2 id="productivity">Productivity</h2>
 <div class="outline-text-2">
@@ -840,7 +960,6 @@ My productivity itself has been boosted. Not only because of the system but beca
 </p>
 </div>
 </div>
-
 <div id="outline-container-relationships" class="outline-2">
 <h2 id="relationships">Relationships</h2>
 <div class="outline-text-2">
@@ -853,7 +972,6 @@ In terms of romantic relationships, I tried. I generally don't try but I tried t
 </p>
 </div>
 </div>
-
 <div id="outline-container-programming" class="outline-2">
 <h2 id="programming">Programming</h2>
 <div class="outline-text-2">
@@ -874,7 +992,6 @@ I'm not happy with how this went, but I'll try again next year.
 </p>
 </div>
 </div>
-
 <div id="outline-container-money" class="outline-2">
 <h2 id="money">Money</h2>
 <div class="outline-text-2">
@@ -887,7 +1004,6 @@ I've also had to think about money a lot<sup><a id="fnr.1" class="footref" href=
 </p>
 </div>
 </div>
-
 <div id="outline-container-other-skills" class="outline-2">
 <h2 id="other-skills">Other skills</h2>
 <div class="outline-text-2">
@@ -904,7 +1020,6 @@ I didn't buy an electric guitar but I have started learning how to use a DAW to 
 </p>
 </div>
 </div>
-
 <div id="outline-container-conclusion" class="outline-2">
 <h2 id="conclusion">Conclusion</h2>
 <div class="outline-text-2">
@@ -939,7 +1054,6 @@ didn't grow up "rich", money was never a thing I had to think
 about. Sometimes I got what I wanted, other times my parents told me it
 was outside of their budget and I understood(even if I was mad).  
 </p>
-
 <div id="outline-container-early-perspective-on-programming-and-money" class="outline-2">
 <h2 id="early-perspective-on-programming-and-money">Early Perspective on Programming and Money</h2>
 <div class="outline-text-2">
@@ -965,7 +1079,6 @@ someone achieve that, then more power to them.
 </p>
 </div>
 </div>
-
 <div id="outline-container-reflection-on-pieter-levels-article" class="outline-2">
 <h2 id="reflection-on-pieter-levels-article">Reflection on Pieter Levels' Article</h2>
 <div class="outline-text-2">
@@ -996,7 +1109,6 @@ programming and I came up with an answer that felt right.
 </p>
 </div>
 </div>
-
 <div id="outline-container-changing-perspective" class="outline-2">
 <h2 id="changing-perspective">Changing Perspective</h2>
 <div class="outline-text-2">
@@ -1023,7 +1135,6 @@ is best explained by George
 </p>
 </div>
 </div>
-
 <div id="outline-container-conclusion" class="outline-2">
 <h2 id="conclusion">Conclusion</h2>
 <div class="outline-text-2">
@@ -1070,7 +1181,6 @@ The basic idea behind this year is to play to my strengths and work on my weakne
 A lot of these things are not checklist items that I can just list and tick off.
 They require step-by-step plans which I will make and follow.
 </p>
-
 <div id="outline-container-productivity" class="outline-2">
 <h2 id="productivity">Productivity</h2>
 <div class="outline-text-2">
@@ -1081,7 +1191,6 @@ I think doing that will boost my productivity.
 </p>
 </div>
 </div>
-
 <div id="outline-container-relationships" class="outline-2">
 <h2 id="relationships">Relationships</h2>
 <div class="outline-text-2">
@@ -1094,7 +1203,6 @@ This will involve not only calling and checking on people more, but also plannin
 </p>
 </div>
 </div>
-
 <div id="outline-container-programming" class="outline-2">
 <h2 id="programming">Programming</h2>
 <div class="outline-text-2">
@@ -1109,7 +1217,6 @@ What this will generally look like is, building a lot of projects that are not n
 </p>
 </div>
 </div>
-
 <div id="outline-container-money" class="outline-2">
 <h2 id="money">Money</h2>
 <div class="outline-text-2">
@@ -1123,7 +1230,6 @@ I know I can make more than that, but I live in Ghana, and most employers don't 
 </p>
 </div>
 </div>
-
 <div id="outline-container-other-skills" class="outline-2">
 <h2 id="other-skills">Other skills</h2>
 <div class="outline-text-2">
@@ -1189,7 +1295,6 @@ What I was using is <a href="https://github.com/lawrencelogoh/lawrencelogoh.gith
 I don't mind the pandoc dependency too much as I have it on all my systems anyway. 
 But the script is messy and I'd rather have something cleaner.
 </p>
-
 <div id="outline-container-why-not-just-use-x" class="outline-2">
 <h2 id="why-not-just-use-x">"Why not just use x?"</h2>
 <div class="outline-text-2">
