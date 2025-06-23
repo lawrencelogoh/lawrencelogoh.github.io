@@ -32,7 +32,7 @@ In terms of my actions below, I was 0% productive.
 That will change in May.
 
 ** Actions progress
-*** DOING Finish three personal projects [0/3]
+*** DOING Build three personal projects [0/3]
 *** TODO Build three digital products
 * Programming
 I made zero progress here.

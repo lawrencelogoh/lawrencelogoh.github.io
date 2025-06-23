@@ -1,0 +1,59 @@
+#+TITLE: May 2025 Review
+#+DATE: 2025-06-23
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+This was a decent month.
+I feel like I'm finally back to baseline.
+There's still a lot of work to be done but I feel better physically and
+mentally. 
+
+* Health
+According to my spreadsheet I've lost 1.5KG.
+It's not ideal but it's a step in the right direction.
+On average, I've been exercising about three days every week.
+My diet is "fine" but I haven't been able to cook as much I wanted to.
+It feels like I can't make time for it so I'll have to fix that.
+* Productivity
+A lot of my productivity was focused on work and client work once again.
+The upside is that my relationship with my new client is much better.
+It's hard to make time for my projects just because it feels like I
+won't get anything in return.
+** Actions progress
+*** DOING Build three personal projects [0/3]
+*** TODO Build three digital products [0/3]
+* Programming
+I moved the needle here but I might as well have done nothing.
+I will have to find a way to make time for it.
+** Actions progress
+*** DONE Create leetcode habit in LMS
+*** DOING Finish [[https://threejs-journey.com/][ThreeJS Journey]] course
+*** TODO Finish programming boost
+*** TODO Read [[https://interpreterbook.com/][Writing An Interpreter In Go]]
+* Relationships
+I haven't been as intentional about my relationships as I was at the
+beginning of the year.
+I'm not sure how to fix this but I'll be thinking about it.
+Still no dice at the romantic side.
+I haven't even asked anyone out yet.
+** Actions progress
+*** DOING Go out with friends at least ten times [1/10]
+*** TODO Ask at most ten girls out on a date [0/10]
+* Money
+I /still/ haven't started my own business yet. But I know what I want to
+do now at least. I've been torn between a SaaS and a service business
+but I think I will go for a service business first.
+From what I've learned, it's easier to get to the point where you're
+bringing in cash with a service businesses compared to a SaaS, so I'll
+go with that for now.
+** Actions progress
+*** DONE Create client acquisition habit in LMS
+*** DONE Get a salary increase
+*** DOING Start a business
+* Other skills
+I have made zero progress here again.
+** Actions
+*** DONE Create UI/UX Design learning habit in LMS
+*** DONE Create Guitar learning habit in LMS
+*** DOING Finish three design projects [0/3]
+*** TODO Learn how to play three classical guitar pieces
