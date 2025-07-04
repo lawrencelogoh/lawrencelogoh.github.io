@@ -1,0 +1,9 @@
+#+TITLE: No More Monthly Reviews
+#+DATE: 2025-07-04
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+I sat down to write my June review and realized I didn't want to do it.
+
+I'll still do my yearly reviews, but the monthly reviews feel like work
+so I'm not doing it anymore.
