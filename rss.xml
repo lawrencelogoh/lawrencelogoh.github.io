@@ -17,8 +17,8 @@
     <link></link>
     <description><![CDATA[]]></description>
     <language>en</language>
-    <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Nov 2025 15:51:51 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 01:01:50 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
     <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
@@ -27,6 +27,122 @@
       <link></link>
     </image>
 
+    
+    <item>
+      <title>2025 Review</title>
+      <link>/blog/2025-review.html</link>
+      <author>Lawrence Logoh</author>
+      <guid isPermaLink="false">/blog/2025-review.html</guid>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>
+The general idea this year was to make and do things.
+I didn't do or make enough things for me to call it a success.
+</p>
+<div id="outline-container-health" class="outline-2">
+<h2 id="health">Health</h2>
+<div class="outline-text-2">
+<p>
+I tried to stick to a diet and created an exercise habit but I lost no
+weight. I lost some during the year, but I yo-yoed back every
+time.
+</p>
+
+<p>
+My general solution is that I need to be clearer and more radical about
+my diet. I'll share more details in my plan for 2026.
+</p>
+</div>
+</div>
+<div id="outline-container-productivity" class="outline-2">
+<h2 id="productivity">Productivity</h2>
+<div class="outline-text-2">
+<p>
+I started more projects than I planned to do this year, and I haven't
+finished any of the ones that matter. I feel like I was more productive
+in terms of the sheer amount of hours I've put in, but it wasn't directed
+where I wanted. Most of the projects will be moved to next year but I
+will be cancelling some of them.
+</p>
+
+<p>
+I can't promise to not start any more projects but I will be quitting
+freelancing next year. That should give me enough time to do what matters.
+</p>
+</div>
+</div>
+<div id="outline-container-programming" class="outline-2">
+<h2 id="programming">Programming</h2>
+<div class="outline-text-2">
+<p>
+I ended up learning more programming languages this year. Ruby and Rust
+to be specific. These got in the way of my goals for this year but I
+still learned a lot so it's not all bad.
+</p>
+
+<p>
+I'll be more brief in my language exploration next year and I won't use
+them for any projects.  
+</p>
+</div>
+</div>
+<div id="outline-container-relationships" class="outline-2">
+<h2 id="relationships">Relationships</h2>
+<div class="outline-text-2">
+<p>
+My modus operandi here has improved. I met a lot of cool people and I've
+made some new friends as well. Romantically, as my people would say, "It
+ended in tears". And no, I will not elaborate.
+</p>
+
+<p>
+I'm going to chill on looking for a romantic partner and just focus on
+nurturing my current relationships. If one comes along, if not, that's
+fine too.
+</p>
+</div>
+</div>
+<div id="outline-container-money" class="outline-2">
+<h2 id="money">Money</h2>
+<div class="outline-text-2">
+<p>
+My income more than doubled this year so I'm happy about that, but I
+ended up spending a lot more money than last year. I haven't officially
+started my business though. I bought the domain so that's something at
+least.
+Expect more info about it soon.
+</p>
+</div>
+</div>
+<div id="outline-container-other-skills" class="outline-2">
+<h2 id="other-skills">Other skills</h2>
+<div class="outline-text-2">
+<p>
+This was the weakest part of the year for me.
+The other skills all took a backseat because I had other pressing
+matters to deal with.
+I am currently working on some design projects and I've practiced guitar
+a few times as well but not enough for it to matter.
+</p>
+
+<p>
+To fix this, I'm going to stop working on weekends. When I was
+freelancing, everyday was a workday. Didn't even matter if it was a national
+holiday. I'll be going back to regular weekends so that I can use them
+to practice other skills and enjoy some hobbies.
+</p>
+</div>
+</div>
+<div id="outline-container-conclusion" class="outline-2">
+<h2 id="conclusion">Conclusion</h2>
+<div class="outline-text-2">
+<p>
+This was a good year. Better than last year for sure but it doesn't feel
+that way. I hope I feel differently next year.
+</p>
+</div>
+</div>
+]]></description>
+    </item>
     
     <item>
       <title>No More Monthly Reviews</title>
@@ -178,11 +294,11 @@ going to do that this year.
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
-<div id="outline-container-doing-go-out-with-friends-at-least-ten-times-0-10" class="outline-4">
-<h4 id="doing-go-out-with-friends-at-least-ten-times-0-10">DOING Go out with friends at least ten times <code>[0/10]</code></h4>
+<div id="outline-container-doing-go-out-with-friends-at-least-ten-times-5-10" class="outline-4">
+<h4 id="doing-go-out-with-friends-at-least-ten-times-5-10">DOING Go out with friends at least ten times <code>[5/10]</code></h4>
 </div>
-<div id="outline-container-ask-at-most-ten-girls-out-on-a-date" class="outline-4">
-<h4 id="ask-at-most-ten-girls-out-on-a-date"><span class="todo TODO">TODO</span> Ask at most ten girls out on a date</h4>
+<div id="outline-container-ask-at-most-ten-girls-out-on-a-date-2-10" class="outline-4">
+<h4 id="ask-at-most-ten-girls-out-on-a-date-2-10"><span class="todo TODO">TODO</span> Ask at most ten girls out on a date <code>[2/10]</code></h4>
 <div class="outline-text-4">
 <p>
 The goal is to get a girlfriend but I do not want to go on a date with
@@ -205,9 +321,6 @@ current income.
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
-<div id="outline-container-create-client-acquisition-habit-in-lms" class="outline-4">
-<h4 id="create-client-acquisition-habit-in-lms"><span class="done DONE">DONE</span> Create client acquisition habit in LMS</h4>
-</div>
 <div id="outline-container-doing-start-a-business" class="outline-4">
 <h4 id="doing-start-a-business">DOING Start a business</h4>
 <div class="outline-text-4">
@@ -217,8 +330,11 @@ time to start a business proper.
 </p>
 </div>
 </div>
+<div id="outline-container-create-client-acquisition-habit-in-lms" class="outline-4">
+<h4 id="create-client-acquisition-habit-in-lms"><span class="done DONE">DONE</span> Create client acquisition habit in LMS</h4>
+</div>
 <div id="outline-container-get-a-salary-increase" class="outline-4">
-<h4 id="get-a-salary-increase"><span class="todo TODO">TODO</span> Get a salary increase</h4>
+<h4 id="get-a-salary-increase"><span class="done DONE">DONE</span> Get a salary increase</h4>
 </div>
 </div>
 </div>

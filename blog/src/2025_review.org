@@ -1,0 +1,62 @@
+#+TITLE: 2025 Review
+#+DATE: 2025-12-31
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+The general idea this year was to make and do things.
+I didn't do or make enough things for me to call it a success.
+
+* Health
+I tried to stick to a diet and created an exercise habit but I lost no
+weight. I lost some during the year, but I yo-yoed back every
+time.
+
+My general solution is that I need to be clearer and more radical about
+my diet. I'll share more details in my plan for 2026.
+
+* Productivity
+I started more projects than I planned to do this year, and I haven't
+finished any of the ones that matter. I feel like I was more productive
+in terms of the sheer amount of hours I've put in, but it wasn't directed
+where I wanted. Most of the projects will be moved to next year but I
+will be cancelling some of them.
+
+I can't promise to not start any more projects but I will be quitting
+freelancing next year. That should give me enough time to do what matters.
+* Programming
+I ended up learning more programming languages this year. Ruby and Rust
+to be specific. These got in the way of my goals for this year but I
+still learned a lot so it's not all bad.
+
+I'll be more brief in my language exploration next year and I won't use
+them for any projects.  
+* Relationships
+My modus operandi here has improved. I met a lot of cool people and I've
+made some new friends as well. Romantically, as my people would say, "It
+ended in tears". And no, I will not elaborate.
+
+I'm going to chill on looking for a romantic partner and just focus on
+nurturing my current relationships. If one comes along, if not, that's
+fine too.
+
+* Money
+My income more than doubled this year so I'm happy about that, but I
+ended up spending a lot more money than last year. I haven't officially
+started my business though. I bought the domain so that's something at
+least.
+Expect more info about it soon.
+
+* Other skills
+This was the weakest part of the year for me.
+The other skills all took a backseat because I had other pressing
+matters to deal with.
+I am currently working on some design projects and I've practiced guitar
+a few times as well but not enough for it to matter.
+
+To fix this, I'm going to stop working on weekends. When I was
+freelancing, everyday was a workday. Didn't even matter if it was a national
+holiday. I'll be going back to regular weekends so that I can use them
+to practice other skills and enjoy some hobbies.
+* Conclusion
+This was a good year. Better than last year for sure but it doesn't feel
+that way. I hope I feel differently next year.
