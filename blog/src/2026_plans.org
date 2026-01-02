@@ -101,27 +101,37 @@ connected to any of my goals. I just found them interesting.
 *** TODO Read "Necessary Fiction"
 *** TODO Read "Christian Atheism"
 *** TODO Read "The Joy of X"
+*** TODO Read "Phenomenology of Spirit"
+*** TODO Read "The Hour of The Star"
 ** Actions
 *** TODO Read for 1 hour everyday [0/300]
 *** TODO Write one reflection or note per completed book [0/10]
 
 * Other skills
-I'll be continuing where I left off last year but I'll be adding math to
-the mix.
+I'll be continuing where I left off last year but I'll be adding math
+and french to the mix.
 
 ** Goals
 *** TODO Finish [[https://www.youtube.com/playlist?list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn][Beginner's Guide to Graphic Design]] course 
 *** TODO Finish three design projects [0/3]
 *** TODO Learn how to play three pieces on classical guitar [0/3]
+*** TODO Learn Conversational French
 *** TODO Read "How to prove it"
 *** TODO Read "Discrete Mathematics with Applications" by Epp
 *** TODO Read "Concrete Mathematics" by Graham, Knuth and Patashnik
-
 ** Actions
 *** TODO Learn UI/UX for 1 hour every other weekend [0/50]
 *** TODO Learn Math for 1 hour every other weekend [0/50]
 *** TODO Practice classical guitar for 2 hours every weekend [0/100]
 *** TODO Write a blog post on any major concept I learn [0/?]
+*** TODO Watch five french movies [0/5]
+**** TODO Blue is the warmest color
+**** TODO The Intouchables
+**** TODO Three Colours: Blue
+**** TODO Three Colours: White
+**** TODO Three Colours: Red
+*** TODO Write five blog posts in french [0/5]
+*** TODO Review french flashcards twice a week [0/100]
 
 
 

@@ -18,7 +18,7 @@
     <description><![CDATA[]]></description>
     <language>en</language>
     <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 13:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 14:56:38 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
     <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
@@ -265,6 +265,12 @@ connected to any of my goals. I just found them interesting.
 <div id="outline-container-read-the-joy-of-x" class="outline-4">
 <h4 id="read-the-joy-of-x"><span class="todo TODO">TODO</span> Read "The Joy of X"</h4>
 </div>
+<div id="outline-container-read-phenomenology-of-spirit" class="outline-4">
+<h4 id="read-phenomenology-of-spirit"><span class="todo TODO">TODO</span> Read "Phenomenology of Spirit"</h4>
+</div>
+<div id="outline-container-read-the-hour-of-the-star" class="outline-4">
+<h4 id="read-the-hour-of-the-star"><span class="todo TODO">TODO</span> Read "The Hour of The Star"</h4>
+</div>
 </div>
 <div id="outline-container-actions" class="outline-3">
 <h3 id="actions">Actions</h3>
@@ -282,8 +288,8 @@ connected to any of my goals. I just found them interesting.
 <h2 id="other-skills">Other skills</h2>
 <div class="outline-text-2">
 <p>
-I'll be continuing where I left off last year but I'll be adding math to
-the mix.
+I'll be continuing where I left off last year but I'll be adding math
+and french to the mix.
 </p>
 </div>
 <div id="outline-container-goals" class="outline-3">
@@ -298,6 +304,9 @@ the mix.
 </div>
 <div id="outline-container-learn-how-to-play-three-pieces-on-classical-guitar-0-3" class="outline-4">
 <h4 id="learn-how-to-play-three-pieces-on-classical-guitar-0-3"><span class="todo TODO">TODO</span> Learn how to play three pieces on classical guitar <code>[0/3]</code></h4>
+</div>
+<div id="outline-container-learn-conversational-french" class="outline-4">
+<h4 id="learn-conversational-french"><span class="todo TODO">TODO</span> Learn Conversational French</h4>
 </div>
 <div id="outline-container-read-how-to-prove-it" class="outline-4">
 <h4 id="read-how-to-prove-it"><span class="todo TODO">TODO</span> Read "How to prove it"</h4>
@@ -324,6 +333,24 @@ the mix.
 </div>
 <div id="outline-container-write-a-blog-post-on-any-major-concept-i-learn-0" class="outline-4">
 <h4 id="write-a-blog-post-on-any-major-concept-i-learn-0"><span class="todo TODO">TODO</span> Write a blog post on any major concept I learn [0/?]</h4>
+</div>
+<div id="outline-container-watch-five-french-movies-0-5" class="outline-4">
+<h4 id="watch-five-french-movies-0-5"><span class="todo TODO">TODO</span> Watch five french movies <code>[0/5]</code></h4>
+<div class="outline-text-4" id="text-watch-five-french-movies-0-5">
+</div>
+<ul class="org-ul">
+<li><a id="blue-is-the-warmest-color"></a><span class="todo TODO">TODO</span> Blue is the warmest color<br /></li>
+<li><a id="the-intouchables"></a><span class="todo TODO">TODO</span> The Intouchables<br /></li>
+<li><a id="three-colours-blue"></a><span class="todo TODO">TODO</span> Three Colours: Blue<br /></li>
+<li><a id="three-colours-white"></a><span class="todo TODO">TODO</span> Three Colours: White<br /></li>
+<li><a id="three-colours-red"></a><span class="todo TODO">TODO</span> Three Colours: Red<br /></li>
+</ul>
+</div>
+<div id="outline-container-write-five-blog-posts-in-french-0-5" class="outline-4">
+<h4 id="write-five-blog-posts-in-french-0-5"><span class="todo TODO">TODO</span> Write five blog posts in french <code>[0/5]</code></h4>
+</div>
+<div id="outline-container-review-french-flashcards-twice-a-week-0-100" class="outline-4">
+<h4 id="review-french-flashcards-twice-a-week-0-100"><span class="todo TODO">TODO</span> Review french flashcards twice a week <code>[0/100]</code></h4>
 </div>
 </div>
 </div>
