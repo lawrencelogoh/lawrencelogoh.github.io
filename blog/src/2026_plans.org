@@ -1,0 +1,130 @@
+#+TITLE: Plans for 2026
+#+DATE: 2026-01-02
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+#+begin_quote
+A healthy mind resides in a health body
+#+end_quote
+
+
+The name of the game this year, is execution.
+I'll update this page as things get done.
+
+* Health
+My health is the main priority this year. I suspect it'll make
+everything else easier. Let's see if I'm right.
+
+** Goal
+*** TODO Get down to 100KG
+
+** Actions
+*** TODO Add 10 weight-loss–friendly recipes to the recipe book. [0/10]
+*** TODO Exercise for at least 30 minutes daily [0/300]
+*** TODO Eat weight-loss-friendly foods daily [0/300]
+
+* Productivity
+The plan here isn't necessarily to do more. It's to be more strategic
+about how I use my time. As a rule, I won't be working on weekends. I'll
+also be more intentional about how I spend my time.
+
+** Goals
+*** TODO Complete ten projects [0/10]
+/Completing a project means the core work is done and only updates or
+maintenance are needed./
+
+**** TODO 99P Studio
+**** TODO Avril
+**** TODO Placeholder A
+**** TODO Placeholder B
+**** TODO Placeholder C
+**** TODO Placeholder D
+**** TODO Placeholder E
+**** TODO Placeholder F
+**** TODO Placeholder G
+**** TODO Placeholder H
+
+** Actions
+*** TODO Work for 4 hours every weekday [0/250]
+/This does not include my day job/
+*** TODO Engage in leisure activities for 4 hours every weekend [0/100]
+
+* Programming
+There are a few things I want to learn this year, so I'll mostly be
+reading books. I don't have any goals per se. I'm just trying to have fun.
+
+** Goals
+*** TODO Finish programming boost
+*** TODO Finish [[https://threejs-journey.com/][ThreeJS Journey]] course
+*** TODO Read "[[https://braiins.com/books/building-bitcoin-in-rust][Building Bitcoin in Rust]]"
+*** TODO Read "[[https://interpreterbook.com/][Writing An Interpreter In Go]]"
+*** TODO Read "Designing Data-Intensive Applications"
+*** TODO Read "The Scientist & Engineer's Guide to Digital Signal Processing"
+
+** Actions
+*** TODO Learn programming for 1 hour every weekday [0/250]
+*** TODO Build one small demo per major concept learned [0/?]
+
+* Relationships
+I want to continue where I left off last year. The only difference is
+that I won't be actively pursuing romantic relationships.
+
+** Actions
+*** TODO Go out with friends at least ten times [0/10]
+
+* Finances
+This year I want to 5x my income. It's ambitious but I think I can do
+it. 
+
+** Goals
+*** TODO 5X my income [1X]
+*** TODO Get 500 paying customers [0/500]
+
+** Actions
+*** TODO Invest money every month [0/12]
+*** TODO Send 750 cold emails [0/750] 
+
+* Reading
+There are some books I want to read this year that aren't necessarily
+connected to any of my goals. I just found them interesting.
+
+** Goals
+*** TODO Read "Nausea"
+*** TODO Read "The Wretched of the Earth"
+*** TODO Read "The Sex Lives of African Women"
+*** TODO Read "What You Are Looking For Is in the Library"
+*** TODO Read "Vagabonds!"
+*** TODO Read "Necessary Fiction"
+*** TODO Read "Christian Atheism"
+*** TODO Read "The Joy of X"
+** Actions
+*** TODO Read for 1 hour everyday [0/300]
+*** TODO Write one reflection or note per completed book [0/10]
+
+* Other skills
+I'll be continuing where I left off last year but I'll be adding math to
+the mix.
+
+** Goals
+*** TODO Finish [[https://www.youtube.com/playlist?list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn][Beginner's Guide to Graphic Design]] course 
+*** TODO Finish three design projects [0/3]
+*** TODO Learn how to play three pieces on classical guitar [0/3]
+*** TODO Read "How to prove it"
+*** TODO Read "Discrete Mathematics with Applications" by Epp
+*** TODO Read "Concrete Mathematics" by Graham, Knuth and Patashnik
+
+** Actions
+*** TODO Learn UI/UX for 1 hour every other weekend [0/50]
+*** TODO Learn Math for 1 hour every other weekend [0/50]
+*** TODO Practice classical guitar for 2 hours every weekend [0/100]
+*** TODO Write a blog post on any major concept I learn [0/?]
+
+
+
+* Conclusion
+This list feels longer than what I had last year. I don't necessarily
+expect to complete everything, but that's what I'll be aiming for.
+Health will be prioritized over everything else. 
+
+
+Happy New Year.
