@@ -9,6 +9,7 @@ A healthy mind resides in a health body
 
 
 The name of the game this year, is execution.
+
 I'll update this page as things get done.
 
 * Health
@@ -25,8 +26,10 @@ everything else easier. Let's see if I'm right.
 
 * Productivity
 The plan here isn't necessarily to do more. It's to be more strategic
-about how I use my time. As a rule, I won't be working on weekends. I'll
-also be more intentional about how I spend my time.
+about how I use my time.
+
+As a rule, I won't be working on weekends. I'll also be more intentional
+about how I spend my time. 
 
 ** Goals
 *** TODO Complete ten projects [0/10]
@@ -51,7 +54,7 @@ maintenance are needed./
 
 * Programming
 There are a few things I want to learn this year, so I'll mostly be
-reading books. I don't have any goals per se. I'm just trying to have fun.
+reading books.
 
 ** Goals
 *** TODO Finish programming boost
@@ -73,8 +76,9 @@ that I won't be actively pursuing romantic relationships.
 *** TODO Go out with friends at least ten times [0/10]
 
 * Finances
-This year I want to 5x my income. It's ambitious but I think I can do
-it. 
+This year I want to 5x my income.
+
+It's ambitious but I think I can do it. 
 
 ** Goals
 *** TODO 5X my income [1X]
@@ -124,6 +128,7 @@ the mix.
 * Conclusion
 This list feels longer than what I had last year. I don't necessarily
 expect to complete everything, but that's what I'll be aiming for.
+
 Health will be prioritized over everything else. 
 
 
