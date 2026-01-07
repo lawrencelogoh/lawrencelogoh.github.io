@@ -7,7 +7,6 @@
 A healthy mind resides in a health body
 #+end_quote
 
-
 The name of the game this year, is execution.
 
 I'll update this page as things get done.
@@ -17,13 +16,11 @@ My health is the main priority this year. I suspect it'll make
 everything else easier. Let's see if I'm right.
 
 ** Goal
-*** TODO Get down to 100KG
-
+*** TODO Get down to 100KG [126.9KG]
 ** Actions
-*** TODO Add 10 weight-loss–friendly recipes to the recipe book. [0/10]
+*** TODO Add 10 weight-loss–friendly recipes to the recipe book [0/10]
 *** TODO Exercise for at least 30 minutes daily [0/300]
 *** TODO Eat weight-loss-friendly foods daily [0/300]
-
 * Productivity
 The plan here isn't necessarily to do more. It's to be more strategic
 about how I use my time.
@@ -74,7 +71,6 @@ that I won't be actively pursuing romantic relationships.
 
 ** Actions
 *** TODO Go out with friends at least ten times [0/10]
-
 * Finances
 This year I want to 5x my income.
 
@@ -82,12 +78,9 @@ It's ambitious but I think I can do it.
 
 ** Goals
 *** TODO 5X my income [1X]
-*** TODO Get 500 paying customers [0/500]
-
 ** Actions
 *** TODO Invest money every month [0/12]
 *** TODO Send 750 cold emails [0/750] 
-
 * Reading
 There are some books I want to read this year that aren't necessarily
 connected to any of my goals. I just found them interesting.
@@ -106,7 +99,6 @@ connected to any of my goals. I just found them interesting.
 ** Actions
 *** TODO Read for 1 hour everyday [0/300]
 *** TODO Write one reflection or note per completed book [0/10]
-
 * Other skills
 I'll be continuing where I left off last year but I'll be adding math
 and french to the mix.
@@ -120,8 +112,8 @@ and french to the mix.
 *** TODO Read "Discrete Mathematics with Applications" by Epp
 *** TODO Read "Concrete Mathematics" by Graham, Knuth and Patashnik
 ** Actions
-*** TODO Learn UI/UX for 1 hour every other weekend [0/50]
-*** TODO Learn Math for 1 hour every other weekend [0/50]
+*** TODO Learn UI/UX for 1 hours every weekend [0/100]
+*** TODO Learn Math for 1 hours every weekend [0/100]
 *** TODO Practice classical guitar for 2 hours every weekend [0/100]
 *** TODO Write a blog post on any major concept I learn [0/?]
 *** TODO Watch five french movies [0/5]
@@ -131,7 +123,7 @@ and french to the mix.
 **** TODO Three Colours: White
 **** TODO Three Colours: Red
 *** TODO Write five blog posts in french [0/5]
-*** TODO Review french flashcards twice a week [0/100]
+*** TODO Review french flashcards everyday [0/300]
 
 
 
