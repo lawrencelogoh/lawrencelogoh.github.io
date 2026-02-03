@@ -3,9 +3,7 @@
 #+OPTIONS: toc:nil num:nil
 
 #+ATTR_HTML: :id intro
-I specialize in building robust enterprise web applications and
-exploring innovative areas in software development. My work focuses on
-crafting efficient, scalable solutions for complex business needs.
+I exist
 
 * Links
 #+ATTR_HTML: :class links
