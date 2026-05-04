@@ -18,7 +18,7 @@
     <description><![CDATA[]]></description>
     <language>en</language>
     <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 10:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:16:30 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
     <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
@@ -46,7 +46,7 @@ The name of the game this year, is execution.
 
 <p>
 I'll update this page as things get done.
-<i>Last updated: 09-04-2026</i>
+<i>Last updated: 04-05-2026</i>
 </p>
 <div id="outline-container-health" class="outline-2">
 <h2 id="health">Health</h2>
@@ -67,6 +67,7 @@ everything else easier. Let's see if I'm right.
 <li>January: 126.9KG</li>
 <li>February: 124.3KG</li>
 <li>March: 124.2KG</li>
+<li>April: 124.6KG</li>
 </ul>
 </div>
 </div>
@@ -78,11 +79,11 @@ everything else easier. Let's see if I'm right.
 <div id="outline-container-add-10-weight-loss-friendly-recipes-to-the-recipe-book-10-10" class="outline-4">
 <h4 id="add-10-weight-loss-friendly-recipes-to-the-recipe-book-10-10"><span class="done DONE">DONE</span> Add 10 weight-loss–friendly recipes to the recipe book <code>[10/10]</code></h4>
 </div>
-<div id="outline-container-doing-exercise-for-at-least-30-minutes-daily-44-300" class="outline-4">
-<h4 id="doing-exercise-for-at-least-30-minutes-daily-44-300">DOING Exercise for at least 30 minutes daily <code>[44/300]</code></h4>
+<div id="outline-container-doing-exercise-for-at-least-30-minutes-daily-52-300" class="outline-4">
+<h4 id="doing-exercise-for-at-least-30-minutes-daily-52-300">DOING Exercise for at least 30 minutes daily <code>[52/300]</code></h4>
 </div>
-<div id="outline-container-doing-eat-weight-loss-friendly-foods-daily-51-300" class="outline-4">
-<h4 id="doing-eat-weight-loss-friendly-foods-daily-51-300">DOING Eat weight-loss-friendly foods daily <code>[51/300]</code></h4>
+<div id="outline-container-doing-eat-weight-loss-friendly-foods-daily-58-300" class="outline-4">
+<h4 id="doing-eat-weight-loss-friendly-foods-daily-58-300">DOING Eat weight-loss-friendly foods daily <code>[58/300]</code></h4>
 </div>
 </div>
 </div>
@@ -112,6 +113,13 @@ maintenance are needed.</i>
 </p>
 </div>
 <ul class="org-ul">
+<li><a id="doing-yama"></a>DOING Yama<br />
+<div class="outline-text-5">
+<p>
+A wallpaper generator
+</p>
+</div>
+</li>
 <li><a id="doing-99p-studio"></a>DOING 99P Studio<br /></li>
 <li><a id="doing-metis"></a>DOING Metis<br />
 <div class="outline-text-5">
@@ -137,13 +145,6 @@ Cultivate your digital garden
 </li>
 <li><a id="terminal-typing-game"></a><span class="todo TODO">TODO</span> Terminal typing game<br /></li>
 <li><a id="a-simple-live-service-game"></a><span class="todo TODO">TODO</span> A simple live service game<br /></li>
-<li><a id="wallpaper-dashboard-app-thing"></a><span class="todo TODO">TODO</span> Wallpaper dashboard app thing.<br />
-<div class="outline-text-5">
-<p>
-Think TRMNL but as a wallpaper
-</p>
-</div>
-</li>
 <li><a id="a-toy-linux-filesystem"></a><span class="todo TODO">TODO</span> A toy linux filesystem<br /></li>
 <li><a id="a-toy-compiler"></a><span class="todo TODO">TODO</span> A toy compiler<br /></li>
 </ul>
@@ -153,8 +154,8 @@ Think TRMNL but as a wallpaper
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
-<div id="outline-container-doing-work-for-4-hours-every-weekday-20-250" class="outline-4">
-<h4 id="doing-work-for-4-hours-every-weekday-20-250">DOING Work for 4 hours every weekday <code>[20/250]</code></h4>
+<div id="outline-container-doing-work-for-4-hours-every-weekday-28-250" class="outline-4">
+<h4 id="doing-work-for-4-hours-every-weekday-28-250">DOING Work for 4 hours every weekday <code>[28/250]</code></h4>
 <div class="outline-text-4">
 <p>
 <i>This does not include my day job</i>
@@ -255,11 +256,11 @@ Current income: 1X
 <h3 id="actions">Actions</h3>
 <div class="outline-text-3" id="text-actions">
 </div>
-<div id="outline-container-doing-invest-money-every-month-3-12" class="outline-4">
-<h4 id="doing-invest-money-every-month-3-12">DOING Invest money every month <code>[3/12]</code></h4>
+<div id="outline-container-doing-invest-money-every-month-4-12" class="outline-4">
+<h4 id="doing-invest-money-every-month-4-12">DOING Invest money every month <code>[4/12]</code></h4>
 </div>
-<div id="outline-container-doing-send-750-cold-emails-15-750" class="outline-4">
-<h4 id="doing-send-750-cold-emails-15-750">DOING Send 750 cold emails <code>[15/750]</code></h4>
+<div id="outline-container-doing-send-750-cold-emails-20-750" class="outline-4">
+<h4 id="doing-send-750-cold-emails-20-750">DOING Send 750 cold emails <code>[20/750]</code></h4>
 </div>
 </div>
 </div>
