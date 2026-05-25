@@ -17,8 +17,8 @@
     <link></link>
     <description><![CDATA[]]></description>
     <language>en</language>
-    <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 13:16:30 +0000</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 14:46:00 +0000</lastBuildDate>
     <generator>weblorg 0.1.0 (https://emacs.love/weblorg)</generator>
     <webMaster>lawrencelogoh@gmail.com (Blog Author)</webMaster>
     <image>
@@ -27,6 +27,121 @@
       <link></link>
     </image>
 
+    
+    <item>
+      <title>How I use AI</title>
+      <link>/blog/how-i-use-ai.html</link>
+      <author>Lawrence Logoh</author>
+      <guid isPermaLink="false">/blog/how-i-use-ai.html</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>
+I haven't talked about AI at all because I didn't care about it.
+I like programming and having a tool to "free" me of programming isn't a
+big selling point.
+That said, I use twitter a lot(big mistake) and I've seen a lot of posts
+that say if you don't use AI you're going to get left behind.
+So I tried it.
+I tried vibe-coding, spec-driven development, and other things I can't
+remember.
+</p>
+
+<p>
+I didn't enjoy any of them but I can see how they can be useful to
+someone who only cares about having a program or website. It might not
+be high-quality, but most software people use these days isn't, so I'm
+sure people are fine with it.
+</p>
+
+<p>
+The place I've found myself using AI more and more is in doing things
+that feel like chores. These are things I would've previously used
+something like <a href="https://github.com/joaotavora/yasnippet">yasnippet</a> for like adding a new page or something. It's
+usually something that already exists in the codebase, and I want a copy
+of it somewhere else or something.
+Outside of this and using it as a better google, I don't have any other
+use for it.
+</p>
+
+<p>
+I've tried using it for features and I've always felt like tearing my
+hair out. I know some people will say I need to prompt better or be more
+detailed. I tried that, but it requires some thinking and I would rather
+just write the code as I think, than write English and get something
+that is not quite what I want.
+</p>
+
+<p>
+I think LLMs are cool. The business applications with things like RAG
+and tool use are also really cool. Smaller LLMs that are useful in
+applications are more interesting to me than the "frontier models".
+</p>
+
+<p>
+I also have ethical concerns about how AI is used so I'm waiting for
+someone to make something decent that uses data obtained in an ethical
+manner.
+</p>
+
+<p>
+If no one makes it, I might have to make it myself ;-).
+</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Everything Matters</title>
+      <link>/blog/everything-matters.html</link>
+      <author>Lawrence Logoh</author>
+      <guid isPermaLink="false">/blog/everything-matters.html</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>
+In March of 2023, I started working at Blue Torus.
+If I had to describe myself back then I would say I was very
+"engineer-brained".
+What I mean is, I only cared if something worked.
+Aesthetics didn't matter that much to me.
+</p>
+
+<p>
+I consider myself a pretty smart guy.
+I don't often meet people who I think are smarter than me.
+Tim, my team lead, was the first person I met in real life who I thought was
+legitimately smarter than me.
+He also cared a lot about aesthetics, which I found strange at the time.
+</p>
+
+<p>
+Tim would give me tasks that I would complete in my "engineer-brained"
+way and then Tim would explain how I could improve it. I didn't always
+get it and in the beginning I didn't think it mattered. 
+Over time, I think I've developed my own sense of what I think good
+aesthetics are and now I see aesthetics everywhere.
+</p>
+
+<p>
+I see it when I look at this website, when I watch a YouTube video or
+even when I read an email.
+I'm still a little "engineer-brained" but I think the aesthetics matter
+a lot.
+</p>
+
+<p>
+I'm a firm believer in "how you do one thing is how you do everything"
+and I'm trying to incorporate my newfound love of aesthetics into
+everything.
+</p>
+
+<p>
+In how I program, how I express myself, how I work with others, in my
+fashion sense, in the things I buy, et cetera, et cetera.
+</p>
+
+
+<p>
+I'm taking it one step at a time though, so don't expect any big changes XD.
+</p>
+]]></description>
+    </item>
     
     <item>
       <title>Plans for 2026</title>

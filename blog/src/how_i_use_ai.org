@@ -1,0 +1,42 @@
+#+TITLE: How I use AI
+#+DATE: 2026-05-25
+#+AUTHOR: Lawrence Logoh
+#+OPTIONS: toc:nil num:nil
+
+I haven't talked about AI at all because I didn't care about it.
+I like programming and having a tool to "free" me of programming isn't a
+big selling point.
+That said, I use twitter a lot(big mistake) and I've seen a lot of posts
+that say if you don't use AI you're going to get left behind.
+So I tried it.
+I tried vibe-coding, spec-driven development, and other things I can't
+remember.
+
+I didn't enjoy any of them but I can see how they can be useful to
+someone who only cares about having a program or website. It might not
+be high-quality, but most software people use these days isn't, so I'm
+sure people are fine with it.
+
+The place I've found myself using AI more and more is in doing things
+that feel like chores. These are things I would've previously used
+something like [[https://github.com/joaotavora/yasnippet][yasnippet]] for like adding a new page or something. It's
+usually something that already exists in the codebase, and I want a copy
+of it somewhere else or something.
+Outside of this and using it as a better google, I don't have any other
+use for it.
+
+I've tried using it for features and I've always felt like tearing my
+hair out. I know some people will say I need to prompt better or be more
+detailed. I tried that, but it requires some thinking and I would rather
+just write the code as I think, than write English and get something
+that is not quite what I want.
+
+I think LLMs are cool. The business applications with things like RAG
+and tool use are also really cool. Smaller LLMs that are useful in
+applications are more interesting to me than the "frontier models".
+
+I also have ethical concerns about how AI is used so I'm waiting for
+someone to make something decent that uses data obtained in an ethical
+manner.
+
+If no one makes it, I might have to make it myself ;-).
