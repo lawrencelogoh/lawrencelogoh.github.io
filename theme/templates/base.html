@@ -35,6 +35,8 @@
     {% block body %}{% endblock %}
 
     <footer>
+      <img src={{ url_for("static", file="notbyai.png") }} alt="Badge to
+      show that the content is written by a human, not AI"/>
       <p>
         The content for this site is
         <a
@@ -61,5 +63,4 @@
   </body>
 
   <script src={{ url_for("static", file="main.js") }}></script>
-  {% block scripts %}{% endblock %}
 </html>
